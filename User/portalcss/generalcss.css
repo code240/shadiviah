@@ -1,0 +1,133 @@
+.qrcode{
+    width: 15vw;
+    height:15vw;
+    border: 2px solid #777777;
+    margin-top: 5vw;
+    padding: 1vw;
+}
+.h2-tag{
+    margin-top: 5vw;
+    font-size: 1.8vw;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.back_btn{
+    display: block;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    font-size: 1.6vw;
+    color: #000000;
+    font-weight: 600;
+    margin-top: 4vw;
+}
+.url-tag{
+    font-size: 2vw;
+    font-family: sans-serif;
+    color:#c21633;
+}
+
+
+/*FEATURE IMAGE CSS CODES*/
+.for_form_div{
+    height: auto;
+    padding-bottom: 3vw;
+    margin-top: 3vw;
+    padding-top: 8vw;
+    border:0px solid #777777;
+}
+.file_input{
+    font-size: 1.5vw;
+    width: 30vw;
+    border: 1px solid #666666;
+    background-color: #eeeeee;
+    overflow: hidden;
+    display: block;
+    margin-bottom: 3vw;
+}
+.submit_btn{
+    font-size: 1.4vw;
+    display: block;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    border: 0;
+    
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+
+    header{
+        height:17vw;
+        padding-top: 2vw;
+        font-size: 8vw;
+    }
+    h1{
+        font-size: 8vw;
+        width: 95vw;
+        margin-top: 10vw;
+    }
+    .qrcode{
+        width: 60vw;
+        height:60vw;
+        border: 2px solid #777777;
+        margin-top: 5vw;
+        padding: 2vw;
+    }
+    .h2-tag{
+        margin-top: 8vw;
+        font-size: 9vw;
+        width: 80vw;
+        font-family: sans-serif;
+        font-weight: 600;
+    }
+    .url-tag{
+        margin-top: 0vw;
+        font-size: 3vw;
+        font-family: sans-serif;
+        color:#ee294a;
+        font-weight: 500;
+        width: 70vw;
+    }
+    
+    .back_btn{
+        display: block;
+        padding-left: 8vw;
+        padding-right:8vw;
+        font-size: 5.6vw;
+        color: #000000;
+        font-weight: 600;
+        margin-top: 10vw;
+    }
+    
+    /*FEATURE CSS */
+    .for_form_div{
+        height: auto;
+        padding-bottom: 3vw;
+        margin-top: 7vw;
+        padding-top: 10vw;
+        border:0px solid #777777;
+    }
+    .file_input{
+        font-size: 4.5vw;
+        width: 80vw;
+        border: 1px solid #666666;
+        background-color: #eeeeee;
+        overflow: hidden;
+        display: block;
+        margin-bottom: 13vw;
+    }
+    .submit_btn{
+        font-size: 5vw;
+        display: block;
+        padding-left: 20vw;
+        padding-right: 20vw;
+        border: 0;
+        margin-bottom: 10vw;
+    }
+
+}

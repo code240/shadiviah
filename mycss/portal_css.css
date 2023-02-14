@@ -1,0 +1,115 @@
+.maindiv_for_help{
+    border: 5px solid #ff9463;
+    background-color: #ffc1a9;
+    box-shadow: 4px 4px 20px #888888;
+    margin-top: 3vw;
+    border-radius:0vw;
+    height: auto;
+    padding-top: 2vw;
+    padding-bottom: 3vw;
+}
+.admin_heading{
+    font-size: 3vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.warn_span{
+    font-size: 1.2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    display: block;
+    margin-top: 2vw;
+    width: 50vw;
+    text-align: center;
+    color: rgb(146, 91, 2);
+    margin-bottom:3vw;
+}
+.input_passcode{
+    width: 28vw;
+    height:2.6vw;
+    padding-left: 1vw;
+    font-size: 1.5vw;
+    /* display: block; */
+    margin-bottom: 0.5vw;
+}
+.login_btn{
+    margin-top: 3vw;
+    display: block;
+    width: 20vw;
+    font-size: 1.4vw;
+    font-weight: 500;
+}
+.checkbox_input{
+    width: 1vw;
+    height: 1vw;
+}
+.remember_me_label{
+    font-size: 1.3vw;
+}
+.below_span{
+    margin-bottom: 0;
+}
+
+
+
+
+
+@media screen and (max-width:750px){
+    .maindiv_for_help{
+        border: 2px solid #ffffff;
+        background-color: #ffffff;
+        box-shadow: 0px 0px 0px #888888;
+        margin-top: 3vw;
+        border-radius:0vw;
+        height: auto;
+        width: 100%;
+        padding-top: 3rem;
+        padding-bottom:3rem;
+    }
+    .admin_heading{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    .warn_span{
+        font-size: 1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        display: block;
+        margin-top: 2vw;
+        width:95%;
+        text-align: center;
+        color: rgb(146, 91, 2);
+        margin-bottom:1rem;
+    }
+    .input_passcode{
+        width: 80%;
+        height:auto;
+        padding-left: 2vw;
+        font-size: 1.5vw;
+        /* display: block; */
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+    }
+    .login_btn{
+        margin-top: 1rem;
+        display: block;
+        width: 70vw;
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-bottom: 3rem;
+    }
+    .checkbox_input{
+        width: 1vw;
+        height: 1vw;
+    }
+    .remember_me_label{
+        font-size: 1.3vw;
+    }
+    .below_span{
+        margin-bottom: 0;
+    }
+}

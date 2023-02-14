@@ -1,0 +1,126 @@
+.null{
+    height: 30rem;
+    background-color: #ffffff;
+}
+body{
+    padding-left: 0vw;
+    padding-right: 0vw;
+    background-color: rgb(255, 255, 255);
+}
+
+.header{
+    padding: 0;
+    position: sticky;
+    top: 0;
+}
+.top{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    background-color: rgb(255, 43, 78);
+    font-weight: 600;
+}
+.top-span{
+    font-size: 1.2rem;
+    color: aliceblue;
+}
+.ultimate-element{
+    height: auto;
+    border-bottom: 2px solid #b6acac;
+    padding-top: 5rem;
+    background: #ffffff;
+    padding-bottom: 7rem;
+}
+.bless-div{
+    height: auto;
+    border: 1px solid #999999;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 95%;
+}
+.h1-face{
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    color: rgb(133, 35, 18);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:860px){
+
+    .null{
+        height: 30rem;
+        background-color: #ffffff;
+    }
+    body{
+        padding-left: 0vw;
+        padding-right: 0vw;
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .header{
+        padding: 0;
+        position: sticky;
+        top: 0;
+    }
+    .top{
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        text-align: center;
+        background-color: rgb(255, 43, 78);
+        font-weight: 600;
+    }
+    .top-span{
+        font-size: 1.2rem;
+        color: aliceblue;
+    }
+    .ultimate-element{
+        height: auto;
+        margin: 0;
+        padding: 0;
+        border-bottom: 2px solid #b6acac;
+        padding-top: 2rem;
+        background: #ffffff;
+        padding-bottom: 7rem;
+    }
+    .bless-div{
+        height: auto;
+        margin: 0;
+        border: 1px solid #999999;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        overflow-x: auto;
+        width: 100%;
+    }
+    .h1-face{
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        color: rgb(133, 35, 18);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}

@@ -1,0 +1,237 @@
+.top{
+	height: 3vw;
+	background-color:#80001c;
+}
+.header_pc{
+	background-color: #fff;
+}
+.options{
+	background-color: #fff;
+}
+.option2{
+	background-color: #fff;
+}
+.pinkbg{
+	background-color: #fff;
+}
+.para_about{
+	font-family: verdana;
+	font-size: 1.3vw;
+	font-weight: 300;
+}
+
+.image_shower{
+	margin:0;
+	padding: 0;
+	height:20vw;
+    padding-top: 7vw;
+	border:0px solid red;
+	background:linear-gradient(rgba(109, 33, 68, 0.7),rgba(109, 42, 70, 0.7)),url(../site_image/wedding_info_three.jpg);
+	background-size: 100%;
+	text-align: center;
+
+}
+.about_us_heading6{
+	font-size: 3vw;
+	font-family: sans-serif;
+	color:#fff;
+	text-transform: uppercase;
+	text-align: center;
+	animation:heartBeat; 
+    animation-duration: 3s; 
+}
+.span_about_column{
+	text-align: center;
+	font-size: 1.1vw;
+	color:#fff;
+}
+.span_subheading{
+	font-size: 1.2vw;
+	font-family: sans-serif;
+	color:#c0214d;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type:none;
+    text-align: left;
+	display: inline-block;
+    margin-left: -1vw;
+	width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+
+
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+@media screen and (max-width:1000px){
+	.top{
+		height: 3vw;
+		background-color:#80001c;
+	}
+	.strip_one{
+		height: 3vw;
+	}
+
+	.header_pc{
+		background-color: #fff;
+	}
+	.options{
+		background-color: #fff;
+	}
+	.option2{
+		background-color: #fff;
+	}
+	.pinkbg{
+		background-color: #fff;
+	}
+	.para_about{
+		font-family: verdana;
+		font-size: 3vw;
+		font-weight: 300;
+	}
+	
+	.image_shower{
+		margin:0;
+		padding: 0;
+		height:20rem;
+		padding-top: 7vw;
+		border:0px solid red;
+		background:linear-gradient(rgba(109, 33, 68, 0.7),rgba(109, 42, 70, 0.7)),url(../site_image/wedding_info_three.jpg);
+		background-size: 100%;
+		text-align: center;
+	
+	}
+	.about_us_heading6{
+		font-size: 3vw;
+		font-family: sans-serif;
+		color:#fff;
+		text-transform: uppercase;
+		text-align: center;
+		animation:heartBeat; 
+		animation-duration: 3s; 
+	}
+	.span_about_column{
+		text-align: center;
+		font-size: 1.1vw;
+		color:#fff;
+	}
+	.span_subheading{
+		font-size: 3vw;
+		font-family: sans-serif;
+		color:#c0214d;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	
+	
+}
+@media screen and (max-width:500px){
+	.top{
+		height: 3vw;
+		background-color:#80001c;
+	}
+	.header_pc{
+		background-color: #fff;
+	}
+	.options{
+		background-color: #fff;
+	}
+	.option2{
+		background-color: #fff;
+	}
+	.pinkbg{
+		background-color: #fff;
+	}
+	.para_about{
+		font-family: verdana;
+		font-size: 5.4vw;
+		font-weight: 300;
+	}
+	.strip_one{
+		height: 10vw;
+	}
+	.image_shower{
+		margin:0;
+		padding: 0;
+		height:auto;
+		padding-top: 7vw;
+		border:0px solid red;
+		background:linear-gradient(rgba(109, 33, 68, 0.7),rgba(109, 42, 70, 0.7)),url(../site_image/wedding_info_three.jpg);
+		background-size:cover;
+		padding-top: 5rem;
+		padding-bottom: 5rem;
+		text-align: center;
+		background-repeat: no-repeat;
+	
+	}
+	.about_us_heading6{
+		font-size: 9vw;
+		font-family: sans-serif;
+		color:#fff;
+		text-transform: uppercase;
+		text-align: center;
+		animation:heartBeat; 
+		animation-duration: 3s; 
+	}
+	.span_about_column{
+		text-align: center;
+		font-size: 7vw;
+		color:#fff;
+	}
+	.span_subheading{
+		font-size: 6vw;
+		font-family: sans-serif;
+		color:#c0214d;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	
+	
+.li-text{
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type: circle;
+    text-align: left;
+	display: inline-block;
+    margin-left: -4vw;
+	width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+
+
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+}

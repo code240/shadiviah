@@ -1,0 +1,402 @@
+.null{
+    height: 40rem;
+}
+.bor{
+    border: 1px solid #575757;
+}
+.header{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+   text-align: center;
+   background-color: rgb(255, 0, 64);    
+}
+
+.header span{
+    font-size: 2rem;
+    color: aliceblue;
+    font-weight: 500;
+}
+.top-1{
+    height: auto;
+    background-color: rgb(255, 0, 64);
+    padding-top:3rem;
+    padding-bottom: 8rem;
+}
+.one-more-step{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom:4rem;
+    color:rgb(228, 228, 228);
+    text-shadow: 1px 1px 5px #000;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 40%;
+    border-radius: 2rem;
+    background-color: rgb(0,0,0,0.5);
+}
+.h1-one{
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-left: 3rem;
+    font-weight: 700;
+    color: rgb(177, 177, 177);
+    text-shadow: 1px 1px 5px #000;
+
+}
+.div-icons-element{
+    border: 0px solid #000000;
+    height: auto;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+}
+.inner-2-icon{
+    border: 0px solid red;
+    height:auto;
+    width: 40vw;
+}
+.one-icon{
+    border: 1px solid #6e6e6e;
+    width:5rem;
+    height: 5rem;
+    border-radius: 3rem;
+    background-image: url(../images/circle.png);
+    background-size: 100% 100%;
+
+}
+
+.arrow{
+    width: 25vw;
+    height: 3rem;
+    border: 0px solid rgb(146, 63, 63);
+    background: #3fe90b;
+    background-image: url(../images/Untitled.png);
+
+    background-size: 100% 100%;
+    border-radius: 1rem;
+}
+.two-icon{
+    border: 0px solid #2b2b2b;
+    width:5rem;
+    height: 5rem;
+    border-radius: 3rem;
+    background-color: #747474;
+    background-image: url(../images/red.png);
+    background-size: 100% 100%;
+
+
+}
+.form-div{
+    width: 40%;
+    height:auto;
+    margin-top: 4rem;
+    box-shadow: 0px 5px 10px #000000;
+    padding-top: 2rem;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+.brand-name{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+/* inner form */
+  
+
+.input-group-prepend span{
+    background-color: #FFC312;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border:0 !important;
+    border-radius: 0;
+    }
+    
+input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+    
+}
+.input-phonenumber-div{
+    width: 90%;
+    margin-top: 3rem;
+}
+.login{
+    display: block;
+    margin-top: 3rem;
+    width: 50%;
+
+}
+
+.save-btn{
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin-top: 3rem;
+}
+.ceckbox-div{
+    width: 90%;
+    border: 0px solid red;
+    text-align: left;
+}
+#tandc{
+    height: 1rem;
+    margin-left: 0.5rem;
+    border: 2px solid #000000;
+}
+#label-tandc{
+    font-size: 1rem;
+    font-family: Verdana;
+    color: #2e2e2e;
+    display: inline-block;
+    margin-left: 1rem;
+}
+/* inner form over */
+
+.aware-element{
+    border:0px solid red;
+    margin-top: 4rem;
+    height: auto;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+.aware-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+}
+.aware-text-div{
+    border: 0px solid red;
+    height:auto;
+    margin-top: 3rem;
+    width: 60%;
+    text-align: center;
+}
+.aware-text{
+    font-size: 1.1rem;
+    color: #494949;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+
+.footer_1{
+    margin:0;
+    padding: 0;
+    height:35vw;
+    background-color: rgb(163, 0, 0);
+    border-top:0px solid #888;
+    background:linear-gradient(rgba(255, 0, 64, 0.9),rgba(255, 0, 64, 0.9)),url(../../site_image/flower_two.jpg) ;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.main_in_footer{
+    margin:0;
+    padding:0;
+    height:35vw;
+}
+.footer_1_col_1{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+}
+.footer_1_col_2{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+}
+.footer_1_col_3{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding-right: 3vw;
+    padding-left: 2vw;
+}
+.foot_div_1_top{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:12.5vw;
+    padding: 1vw;
+    padding-top: 2vw;
+}
+.logo_div{
+    width:8vw;
+    height:8vw;
+    border: 0px solid #555555;
+}
+.img_div{
+    width:17vw;
+    height:8vw;
+    border: 0px solid #555555;
+    background-image: url(../../site_image/shadi_viah_logo_white.png);
+    background-size: 72% 72%;
+    background-repeat: no-repeat;
+}
+.img_div img {
+    max-width: 100%;
+    height:70%;
+    display:none;
+}
+.logo_div img {
+    max-width: 100%;
+    height:100%;
+}
+.foot_div_1_mid{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:8vw;
+}
+.foot_div_1_low{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:14.5vw;
+}
+.follow_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.contact_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.icon_one{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+    margin-left: 1.3vw;
+}
+.icon_two{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+
+}
+.icon_three{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_four{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_two img , .icon_one img ,.icon_three img , .icon_four img{
+    max-width:100% ;
+    height: 100%;
+}
+.contact_info_ptag{
+    font-size: 1.3vw;
+    margin-left: 1vw;
+    color: aliceblue;
+    font-family: consolas;
+}
+.About_us_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.p_tag_foot_about_para{
+    font-size: 1.3vw;
+    text-align: justify;
+    color:#eeeeee;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.instant_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.other_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+li{
+    font-size: 1.4vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:#eeeeee;
+}
+.footer_2{
+    margin:0;
+    padding: 0;
+    height:6vw;
+    background-color: rgb(168, 0, 50);
+    padding-top: 1.4vw;
+}
+.copyright_text{
+    font-size: 1.2vw;
+    color:#f5f5f5;
+    justify-content: center;
+}
+.cpyryt_symbol{
+    font-size: 1.2vw;
+}
+.option_div_mobi{
+    display: none;
+}
+
+/* ########################### */

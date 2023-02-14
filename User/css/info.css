@@ -1,0 +1,97 @@
+body{
+    background-color: #ffffff;
+    padding-bottom: 10rem;
+}
+.col-left{
+    padding-top: 0.1rem;
+    height: auto;
+    box-shadow: 0 0 0 #fafafa;
+    border:0px solid #999999;
+    background-color: #ffffff;
+}
+.note-text{
+    font-size:1rem;
+    margin-top: 4rem;
+    color: #444444;
+}
+.check-class{
+    
+    margin-top: 1rem;
+}
+.tandc-span{
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 0.3rem;
+}
+.hrtag{
+    width: 60%;
+    margin-top: 3rem;
+}
+.note-message{
+    border:2px solid red;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: sans-serif;
+    padding:0.4rem ;
+    background-color: rgb(255, 173, 173);
+    display: none;
+}
+
+@media screen and (max-width:470px){
+    body{
+        background-color: #ffffff;
+        padding-bottom: 10rem;
+    }
+    .col-left{
+        padding-top: 0.1rem;
+        height: auto;
+        box-shadow: 0 0 0 #fafafa;
+        border:0px solid #999999;
+        background-color: #ffffff;
+    }
+    .note-text{
+        font-size:1rem;
+        margin-top: 4rem;
+        color: #444444;
+    }
+    .check-class{
+        
+        margin-top: 1rem;
+    }
+    .tandc-span{
+        font-size: 1rem;
+        font-weight: 500;
+        margin-left: 0.3rem;
+    }
+    .hrtag{
+        width: 60%;
+        margin-top: 1rem;
+    }
+    .note-message{
+        width: 86%;
+        border:0px solid red;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        font-size: 1rem;
+        font-weight: 500;
+        font-family: sans-serif;
+        padding:0.4rem ;
+        background-color: rgb(255, 173, 173);
+        display: none;
+    }
+    .form-div{
+        border: 0px solid #000000;
+        margin-top: 2rem;
+        width: 90%;
+    }
+    .col-left{
+        padding-bottom: 1rem;
+        border: 0px solid red;
+    }
+    body{
+        margin: 0;
+        padding-bottom: 3rem;
+    }
+}

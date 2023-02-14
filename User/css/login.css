@@ -1,0 +1,575 @@
+
+
+
+.col-left{
+    border: 0px solid red;
+     height: 100vh;
+     width: 33%;
+     box-shadow: 5px 5px 10px #777777;
+     background-color: #fafafa;
+     
+}
+.col-right{
+    border: 0px solid rgb(98, 0, 255);
+    height: 100vh;
+    width: 67%;
+    background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)) ,url(../../site_image/background-11.jpg);
+    background-size: cover;
+    text-align: center;
+
+}
+.icon{
+    margin: 3rem auto;
+    border: 0px solid red;
+    width: 25%;
+    height: 3.7rem;
+    margin-bottom: 0;
+    background-image:url(../../site_image/shadi_viah_logo.png);
+    background-size: 100% 100%;
+}
+.login-font-div{
+    border: 0px solid #d1007a;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    font-weight: 700;
+}
+.form-div{
+    border: 0px solid #000000;
+    margin-top: 2rem;
+    width: 80%;
+}
+.label_username{
+    font-size: 1rem;
+    font-weight: 500;
+    display: block;
+}
+.input-username{
+    width: 100%;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+    border: 1px solid #a1a1a1;
+    background-color: #f1f8ff;
+    border-radius: 4px;
+}
+.margin-label{
+    margin-top: 1rem;
+}
+.btn-submit{
+    width: 100%;
+    margin-top: 1rem;
+}
+hr{
+    background-color: #777777;
+}
+.line-div{ 
+   border: 0px solid #a1a1a1;
+   margin-top: 2rem;
+   width: 70%;
+}
+.h4-text{
+   font-size: 1rem;
+   font-family: sans-serif;
+   text-align: center;
+   margin-top:2rem ;
+}
+.social-btn-div{
+    border: 0px solid salmon;
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn-insta{
+    color: #ffffff;
+    transition:all 0.6s ease-in;
+    transition: background 0.5s ease;
+
+    background:linear-gradient(120deg,rgb(255, 0, 98),rgb(255, 217, 0)) ;
+}
+.btn-facebook:hover{
+    background-color: rgb(5, 84, 230);
+}
+.btn-insta:hover{
+    color: #ffffff;
+    background:linear-gradient(120deg,rgb(189, 17, 83),rgb(211, 180, 3)) ;
+
+}
+.company{
+    font-size: 1.2rem;
+    display: inline-block;
+    width: auto;
+    border: 0px solid red;
+    margin: 0.6rem auto;
+    color: aliceblue;
+}
+
+.right-div-headings{
+    font-size: 3vw;
+    color: #ffffff;
+    text-align: center;
+    width: 80%;
+    border: 0px solid red;
+    margin:3rem auto ;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px #222222;
+}
+
+.forget-link-div{
+    border:0px solid black;
+    height: auto;
+    padding: 0.5rem;
+    padding-bottom: 0;
+}
+.forget-link{
+    font-size: 1rem;
+    padding: 0;
+    text-align: right;
+    color:#0084ff;
+    cursor: pointer;
+    border: 0px solid red;
+    transition: 0.6s ease;
+}
+.forget-link:hover{
+    color: rgb(190, 190, 255);
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:950px){
+    
+
+
+.col-left{
+    border: 0px solid red;
+     height: 100vh;
+     width: 50%;
+     box-shadow: 0px 0px 0px #777777;
+     background-color: #ffffff;
+     margin:0 25%;     
+    
+    }
+.col-right{
+    border: 0px solid rgb(98, 0, 255);
+    height: 100vh;
+    width: 0%;
+    background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)) ,url(../../site_image/background-11.jpg);
+    background-size: cover;
+    text-align: center;
+    display: none;
+}
+.icon{
+    margin: 3rem auto;
+    border: 0px solid red;
+    width: 25%;
+    height: 3.7rem;
+    margin-bottom: 0;
+    background-image:url(../../site_image/shadi_viah_logo.png);
+    background-size: 100% 100%;
+}
+.login-font-div{
+    border: 0px solid red;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    font-weight: 700;
+}
+.form-div{
+    border: 0px solid #000000;
+    margin-top: 2rem;
+    width: 80%;
+}
+.label_username{
+    font-size: 1rem;
+    font-weight: 500;
+    display: block;
+}
+.input-username{
+    width: 100%;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+    border: 1px solid #a1a1a1;
+    background-color: #f1f8ff;
+    border-radius: 4px;
+}
+.margin-label{
+    margin-top: 1rem;
+}
+.btn-submit{
+    width: 100%;
+    margin-top: 1rem;
+}
+hr{
+    background-color: #777777;
+}
+.line-div{ 
+   border: 0px solid #a1a1a1;
+   margin-top: 2rem;
+   width: 70%;
+}
+.h4-text{
+   font-size: 1rem;
+   font-family: sans-serif;
+   text-align: center;
+   margin-top:2rem ;
+}
+.social-btn-div{
+    border: 0px solid salmon;
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn-insta{
+    color: #ffffff;
+    transition:all 0.6s ease-in;
+    transition: background 0.5s ease;
+
+    background:linear-gradient(120deg,rgb(255, 0, 98),rgb(255, 217, 0)) ;
+}
+.btn-facebook:hover{
+    background-color: rgb(5, 84, 230);
+}
+.btn-insta:hover{
+    color: #ffffff;
+    background:linear-gradient(120deg,rgb(189, 17, 83),rgb(211, 180, 3)) ;
+
+}
+.company{
+    font-size: 1.2rem;
+    display: inline-block;
+    width: auto;
+    border: 0px solid red;
+    margin: 0.6rem auto;
+    color: aliceblue;
+}
+
+.right-div-headings{
+    font-size: 3vw;
+    color: #ffffff;
+    text-align: center;
+    width: 80%;
+    border: 0px solid red;
+    margin:3rem auto ;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px #222222;
+}
+
+.forget-link-div{
+    border:0px solid black;
+    height: auto;
+    padding: 0.4rem;
+    padding-bottom: 0;
+}
+.forget-link{
+    font-size: 1rem;
+    padding: 0;
+    text-align: right;
+    color:#0084ff;
+    cursor: pointer;
+    border: 0px solid red;
+    transition: 0.6s ease;
+}
+.forget-link:hover{
+    color: rgb(190, 190, 255);
+}
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width:550px){
+    
+
+
+    .col-left{
+        border: 0px solid red;
+         height: auto;
+         padding-bottom: 10rem;
+         width: 70%;
+         box-shadow: 0px 0px 0px #777777;
+         background-color: #ffffff;
+         margin:0 15%;     
+        
+        }
+    .col-right{
+        border: 0px solid rgb(98, 0, 255);
+        height: 100vh;
+        width: 0%;
+        background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)) ,url(../../site_image/background-11.jpg);
+        background-size: cover;
+        text-align: center;
+        display: none;
+    }
+    .icon{
+        margin: 3rem auto;
+        border: 0px solid red;
+        width: 25%;
+        height: 3.7rem;
+        margin-bottom: 0;
+        background-image:url(../../site_image/shadi_viah_logo.png);
+        background-size: 100% 100%;
+    }
+    .login-font-div{
+        border: 0px solid red;
+        text-align: center;
+        font-size: 2rem;
+        margin-top: 1.5rem;
+        font-weight: 700;
+    }
+    .form-div{
+        border: 0px solid #000000;
+        margin-top: 2rem;
+        width: 80%;
+    }
+    .label_username{
+        font-size: 1rem;
+        font-weight: 500;
+        display: block;
+    }
+    .input-username{
+        width: 100%;
+        padding-top: 0.3rem;
+        padding-bottom: 0.3rem;
+        padding-left: 1rem;
+        border: 1px solid #a1a1a1;
+        background-color: #f1f8ff;
+        border-radius: 4px;
+    }
+    .margin-label{
+        margin-top: 1rem;
+    }
+    .btn-submit{
+        width: 100%;
+        margin-top: 1rem;
+    }
+    hr{
+        background-color: #777777;
+    }
+    .line-div{ 
+       border: 0px solid #a1a1a1;
+       margin-top: 2rem;
+       width: 70%;
+    }
+    .h4-text{
+       font-size: 1rem;
+       font-family: sans-serif;
+       text-align: center;
+       margin-top:2rem ;
+    }
+    .social-btn-div{
+        border: 0px solid salmon;
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .btn-insta{
+        color: #ffffff;
+        transition:all 0.6s ease-in;
+        transition: background 0.5s ease;
+    
+        background:linear-gradient(120deg,rgb(255, 0, 98),rgb(255, 217, 0)) ;
+    }
+    .btn-facebook:hover{
+        background-color: rgb(5, 84, 230);
+    }
+    .btn-insta:hover{
+        color: #ffffff;
+        background:linear-gradient(120deg,rgb(189, 17, 83),rgb(211, 180, 3)) ;
+    
+    }
+    .company{
+        font-size: 1.2rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid red;
+        margin: 0.6rem auto;
+        color: aliceblue;
+    }
+    
+    .right-div-headings{
+        font-size: 3vw;
+        color: #ffffff;
+        text-align: center;
+        width: 80%;
+        border: 0px solid red;
+        margin:3rem auto ;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 3px #222222;
+    }
+    
+.forget-link-div{
+    border:0px solid black;
+    height: auto;
+    padding: 0.35rem;
+    padding-bottom: 0;
+}
+.forget-link{
+    font-size: 0.9rem;
+    padding: 0;
+    text-align: right;
+    color:#0084ff;
+    cursor: pointer;
+    border: 0px solid red;
+    transition: 0.6s ease;
+}
+.forget-link:hover{
+    color: rgb(190, 190, 255);
+}
+
+
+    
+    }
+
+
+
+
+    
+@media screen and (max-width:450px){
+ 
+
+    .col-left{
+        border: 0px solid red;
+         height: auto;
+         padding-bottom: 10rem;
+         width: 100%;
+         box-shadow: 0px 0px 0px #777777;
+         background-color: #ffffff;
+         margin:0 0;     
+        
+        }
+    .col-right{
+        border: 0px solid rgb(98, 0, 255);
+        height: 100vh;
+        width: 0%;
+        background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)) ,url(../../site_image/background-11.jpg);
+        background-size: cover;
+        text-align: center;
+        display: none;
+    }
+    .icon{
+        margin: 3rem auto;
+        border: 0px solid red;
+        width: 30%;
+        height: 3.4rem;
+        margin-bottom: 0;
+        background-image:url(../../site_image/shadi_viah_logo.png);
+        background-size: 100% 100%;
+    }
+    .login-font-div{
+        border: 0px solid red;
+        text-align: center;
+        font-size: 2rem;
+        margin-top: 1.5rem;
+        font-weight: 700;
+    }
+    .form-div{
+        border: 0px solid #000000;
+        margin-top: 2rem;
+        width: 80%;
+    }
+    .label_username{
+        font-size: 1rem;
+        font-weight: 500;
+        display: block;
+    }
+    .input-username{
+        width: 100%;
+        padding-top: 0.3rem;
+        padding-bottom: 0.3rem;
+        padding-left: 1rem;
+        border: 1px solid #a1a1a1;
+        background-color: #f1f8ff;
+        border-radius: 4px;
+    }
+    .margin-label{
+        margin-top: 1rem;
+    }
+    .btn-submit{
+        width: 100%;
+        margin-top: 0.8rem;
+    }
+    hr{
+        background-color: #777777;
+    }
+    .line-div{ 
+       border: 0px solid #a1a1a1;
+       margin-top: 2rem;
+       width: 70%;
+    }
+    .h4-text{
+       font-size: 1rem;
+       font-family: sans-serif;
+       text-align: center;
+       margin-top:2rem ;
+    }
+    .social-btn-div{
+        border: 0px solid salmon;
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .btn-insta{
+        color: #ffffff;
+        transition:all 0.6s ease-in;
+        transition: background 0.5s ease;
+    
+        background:linear-gradient(120deg,rgb(255, 0, 98),rgb(255, 217, 0)) ;
+    }
+    .btn-facebook:hover{
+        background-color: rgb(5, 84, 230);
+    }
+    .btn-insta:hover{
+        color: #ffffff;
+        background:linear-gradient(120deg,rgb(189, 17, 83),rgb(211, 180, 3)) ;
+    
+    }
+    .company{
+        font-size: 1.2rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid red;
+        margin: 0.6rem auto;
+        color: aliceblue;
+    }
+    
+    .right-div-headings{
+        font-size: 3vw;
+        color: #ffffff;
+        text-align: center;
+        width: 80%;
+        border: 0px solid red;
+        margin:3rem auto ;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 3px #222222;
+    }
+    
+.forget-link-div{
+    border:0px solid black;
+    height: auto;
+    padding: 0.4rem;
+    padding-bottom: 0;
+}
+.forget-link{
+    font-size: 1rem;
+    padding: 0;
+    text-align: right;
+    color:#0084ff;
+    cursor: pointer;
+    border: 0px solid red;
+    transition: 0.6s ease;
+}
+.forget-link:hover{
+    color: rgb(190, 190, 255);
+}
+
+
+    
+    }

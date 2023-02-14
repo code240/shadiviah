@@ -1,0 +1,123 @@
+.form_div{
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 1vw;
+    border: 0;
+    box-shadow: 3px 3px 30px #ff0037;
+    box-shadow: 3px 3px 30px #868686;
+
+}
+.label_wedding_of{
+    font-size: 1.3vw;
+    display: inline-block;
+    font-weight: 500;
+    margin-top: 2vw;
+    margin-right: 3vw;
+}
+.label_one{
+    font-size: 1.3vw;
+    display: inline-block;
+    font-weight: 500;
+    margin-top: 2vw;
+}
+.inline-girl-label{
+    font-size: 1.3vw;
+    display: inline-block;
+    margin-right: 1vw;
+    margin-left: 4vw;
+}
+.inline-boy-label{
+    font-size: 1.3vw;
+    display: inline-block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.boyname{
+    margin-left: 3vw;
+    width: 23vw;
+    font-size: 1.4vw;
+    display: inline-block;
+}
+.date_input{
+    width: 15vw;
+}
+.submit_btn{
+    display: inline-block;
+    width: 35vw;
+    margin-top: 3vw;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+    color:aliceblue;
+    font-weight: 600;
+}
+.select_input{
+    font-size: 1.4vw;
+    display: inline-block;
+    margin-left: 3vw;   
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+@media screen and (max-width:750px){
+    .form_div{
+        padding-left: 4vw;
+        padding-right: 4vw;
+        padding-top: 1vw;
+        border: 0;
+        box-shadow: 3px 3px 30px #ff0037;
+        box-shadow: 3px 3px 30px #868686;
+       
+    }
+    .label_wedding_of{
+        font-size: 1.2rem;
+        display: inline-block;
+        font-weight: 500;
+        margin-top: 2vw;
+        margin-right: 3vw;
+    }
+    .label_one{
+        font-size: 1rem;
+        display: block;
+        font-weight: 500;
+        margin-top: 2vw;
+    }
+    .inline-girl-label{
+        font-size: 1.2rem;
+        display: inline-block;
+        margin-right: 1vw;
+        margin-left: 4vw;
+    }
+    .inline-boy-label{
+        font-size: 1.2rem;
+        display: inline-block;
+        margin-left: 1vw;
+        margin-right: 1vw;
+    }
+    .boyname{
+        margin-left: 3vw;
+        width:90%;
+        font-size: 1.2rem;
+        display: block;
+    }
+    .date_input{
+        width: 90%;
+    }
+    .submit_btn{
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        font-size: 1.25rem;
+        
+        color:aliceblue;
+        font-weight: 600;
+    }
+    .select_input{
+        font-size: 1.4rem;
+        display: inline-block;
+        margin-left: 3vw;   
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+}

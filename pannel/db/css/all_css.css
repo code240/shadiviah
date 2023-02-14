@@ -1,0 +1,25 @@
+.main_for_db{
+    border:0px solid red;
+    padding: 0;
+    height:auto;
+    margin-top: 2vw;
+    padding-left: 0.2vw;
+    padding-right: 0.2vw;
+}
+.db_name_heading{
+   font-size: 3vw;
+   margin-bottom: 3vw;
+   color:#ff0d72;
+}
+.db_div{
+    height:auto;
+    border:3px solid #464646;
+    padding-top: 2vw;
+    padding-left: 1vw;
+    padding-bottom: 8vw;
+    padding-right: 2vw;
+    /* overflow-x:auto; */
+    overflow-y:auto;
+
+
+}

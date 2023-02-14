@@ -1,0 +1,28 @@
+
+RewriteEngine on
+
+RewriteRule ^About-Shadiviah about.php [NC,L]
+RewriteRule ^Contact-Shadiviah contact.php [NC,L]
+RewriteRule ^Mediator-Shadiviah shadiviah-mediators.php [NC,L]
+RewriteRule ^Invitation-Shadiviah Invitations.php [NC,L]
+RewriteRule ^Home-Shadiviah index.php [NC,L]
+RewriteRule ^Themes-Shadiviah themes.php [NC,L]
+RewriteRule ^Portal-Shadiviah portal.php [NC,L]
+RewriteRule ^Terms-and-condition-Shadiviah terms.html [NC,L]
+RewriteRule ^Help-Shadiviah help.php [NC,L]
+RewriteRule ^Pannel-Login-Shadiviah loginpannel.php [NC,L]
+RewriteRule ^Portal/Mediator-Access portal/mediator-home.php [NC,L]
+RewriteRule ^Mediator-Access mediator-home.php [NC,L]
+RewriteRule ^Invite-Messages invitation-messages.php [NC,L]
+RewriteRule ^Signin wedding-login.php [NC,L]
+RewriteRule ^info complete-profile.php [NC,L]
+RewriteRule ^User/Pannel User/user-pannel.php [NC,L]
+RewriteRule ^User/QR User/qr.php [NC,L]
+RewriteRule ^User/Details User/save-details.html [NC,L]
+RewriteRule ^User/Blessings User/blessings.php [NC,L]
+RewriteRule ^Themes/Pink-Page themes/Pink-Page.php [NC,L]
+RewriteRule ^Themes/Blue-Transforming themes/Blue-Transforming.php [NC,L]
+RewriteRule ^Themes/Wedding-Gradient themes/Wedding-Gradient.php [NC,L]
+RewriteRule ^Themes/Black-Addition themes/Black-Addition.php [NC,L]
+
+RewriteRule ^Shadiviah-E-card ecard.php [NC,L]

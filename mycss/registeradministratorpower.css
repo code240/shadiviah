@@ -1,0 +1,14 @@
+.input_box{
+    display: block;
+    margin-top: 3vw;
+    width: 40vw;
+    height: auto;
+    font-size: 1.6vw;
+    background-color: #575757;
+    color: aliceblue;
+    padding-left: 1vw;
+    border: 4px dotted #9c9c9c;
+}
+.attributes_shower{
+    border: 0;
+}

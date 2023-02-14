@@ -1,0 +1,2990 @@
+.bor{
+    border: 1px solid #000000;
+}
+.bor2{
+    border: 3px solid #000000;
+}
+.null{
+    margin: 0;
+    padding: 0;
+    height: 40rem;
+}
+.top-div{
+    height:auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color:inherit;
+}
+.sitename{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: #646464;
+    font-weight: 600;
+    margin: 0;
+}
+.header{
+    height:auto;
+    border: 0px solid #000000;
+    background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94)),url(../../site_image/background-ten.jpg);
+    background-size: 100% 100%;
+    box-shadow: 4px 4px 10px #555555;
+    padding-bottom: 8rem;
+}
+.couples{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
+
+    font-size: 5rem;
+    margin-top: 0rem;
+    text-transform: capitalize;
+    font-weight: 900;
+    text-align: center;
+    color: #ffffff;
+    color: #000000;
+    text-shadow: 2px 2px 5px #979797;
+}
+.icon-div{
+    width:8vw;
+    height:7rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+.ring-icon{
+    max-width:100%;
+    height: auto;
+}
+.sub-text-couples{
+    font-size: 2rem;
+    color: #ffffff;
+    color: #000000;
+
+    text-align: center;
+    display: block;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.on-text{
+    margin-top: 1.7rem;
+}
+.date-btn{
+   display: block;
+   width: 30vw;
+   padding-top: 0.6rem;
+   padding-bottom: 0.6rem;
+   font-size: 2rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+   border: 0;
+   border-radius: 5vw;
+   background-color: #ffdeb3d7;
+   background-color: inherit;
+   margin-top: 2rem;
+   border: 3px solid rgba(255, 255, 255, 0.521);
+}
+.date-btn:hover{
+    background-color: antiquewhite;
+    border: 3px solid #ff9c75;
+    color: #555555;
+}
+.boy-girl-element{
+    padding: 0;
+    padding-top: 4rem;
+    height: auto;
+    padding-bottom: 3rem;
+}
+.venue{
+    font-size:1rem;
+    margin-top: 3rem;
+}
+.headings-in-element{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.element-row-boy-girl{
+    border: 0px solid rebeccapurple;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    justify-content: center;
+}
+.comman-boy-girl-col{
+    border: 0px solid red;
+   height:auto;
+   margin-left:4vw;
+   margin-right:4vw;
+   padding-bottom: 2rem;
+   border-radius: 10px;
+   justify-content: center;
+   padding-top: 2rem;
+   background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+}
+.image-div-male-female{
+    border: 0px solid #ff0062;
+    width: 25%;
+    padding: 0vw;
+    background-color: rgba(255, 152, 183, 0.451);
+    padding: 1rem;
+    height:5.6rem;
+    border-radius: 3rem;
+}
+.male-female-names{
+    font-size: 1.7rem;
+    text-align: center;
+    display: block;
+    width: 87%;
+    margin-top: 1rem;
+    columns: #707070;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px #999999;
+}
+.male-female-img{
+    width: 100%;
+    height: auto;
+}
+.strip-1{
+    height:2.5rem;
+   background: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+   background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+
+}
+
+
+
+
+/* copy css */
+.element-extraspace{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    background-color: #ffffff;
+    height:9rem;
+    border: 0px solid red;
+}
+
+.element-startup-row{
+    margin: 0;
+    padding: 0;
+    border: 0px solid red;
+    height: auto;
+    padding-left: 7vw;
+    padding-right: 7vw;
+}
+.elementtoberotate{
+   border: 0px solid darkblue;
+   height:29rem;
+   padding-top: 4rem;
+   background:linear-gradient(120deg,#4285de,#6da0e4,#b1d3ff);
+   background: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+
+   border-radius: 3rem;
+   transform: rotate(30deg);
+}
+.element-rotate-ensistor{
+    margin: 0;
+    height: auto;
+    padding: 0;
+}
+.main-img{
+    border:0px solid red;
+    height:100%;
+    width:100%;
+  }
+.element-inner-rotative-div{
+    border: 0px solid darkblue;
+    height:21rem;
+    padding: 0;
+    transform: rotate(-30deg);
+    background-image:linear-gradient(120deg,rgba(255, 0, 0, 0.1),rgba(255, 169, 10, 0.1),rgba(255, 230, 0, 0.1)),url(../../site_image/wedding_info_seven.jpg);
+    background-size:100% 100%;
+    border-radius: 0.3rem;
+}
+
+.element-for-text{
+    border: 0px solid darkblue;
+    height:auto;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left:5vw;
+    text-align: center;
+
+}
+.seperate-span-1{
+    color:#4b4b4b;
+    display: block;
+    margin-top: 2rem;
+    margin-left: 15vw;
+    margin-right: 15vw;
+   margin-bottom: 3.5rem;
+
+}
+.element-strip{
+    height: 3rem;
+    background-color: #425e77;
+}
+.element-extraspace{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    background-color: #ffffff;
+    height:9rem;
+    border: 0px solid red;
+}
+.couples-new-heading-element{
+    font-size: 2.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.inviting-text-row-element{
+    font-size: 1.6rem;
+    color: #555555;
+    display: block;
+    margin-top: 2rem;
+    text-align: justify;
+}
+
+.hr1{
+    margin-top: 9rem;
+    margin-bottom: 0rem;
+    font-weight: 500;
+    background-color: #777777;
+    width: 80vw;
+    text-align: center;
+}
+
+
+
+/* copy css over */
+
+
+
+.program-detail-element{
+    padding: 0;
+    height: auto;
+
+
+    padding-top: 5rem;
+    
+    padding-bottom: 7rem;
+}
+.slogans-in-program-element{
+    padding: 0;
+    border: 0px solid pink;
+    justify-content: center;
+    text-align: center;
+    background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    background: #ffffff;
+    box-shadow: 5px 5px 15px #666666;
+    width: 80vw;
+    padding-top: 1rem;
+    border-radius: 5px;
+    height: auto;
+    padding-bottom: 13rem;
+    border: 4px solid rgba(255, 0, 106, 0.5);
+
+}
+.slogans{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 3rem;
+    color: #ff0062;
+    text-shadow: 1px 1px 3px #474747;
+}
+.simple-slogan{
+    display: block;
+    margin-top: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    font-style: oblique;
+}
+.program-overlap-element{
+    width: 68vw;
+    padding: 0;
+    margin-top: -9rem;
+    height:auto;
+    border: 0px solid red;
+}
+.row-overlap-element{
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: 0px solid red;
+
+}
+.comman-col-overlaps{
+    padding-left: 0.4vw;
+    padding-right: 0.4vw;
+    height: auto;
+}
+.main-class-for-program-cols{
+    height:auto;
+    padding-bottom: 3rem;
+    background: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+    background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    background: linear-gradient(#fff8d2,#fdebeb);
+
+    border: 4px solid rgba(255, 0, 106, 0.5);
+    box-shadow: 3px 3px 6px #555555;
+    border-radius: 5px;
+    padding-left: 1vw;
+    padding-top: 1rem;
+    padding-right: 1vw;
+    text-align: center;
+}
+.Program-fonts{
+    font-size: 1.8rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    
+}
+.program-dates{
+    font-size: 1.5rem;
+    color: #797878;
+    font-weight: 500;
+    display: block;
+    margin-top: 2rem;
+}
+.program-address{
+    font-size: 1.5rem;
+    color: #797878;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    display: block;
+    margin-top: 2rem;
+}
+.collections{
+    height: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.collection-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* crousel */
+.crousel-element{
+    border: 0px solid #1f1616;
+
+}
+
+.carousel-cell {
+   counter-increment: gallery-cell;
+}
+  
+  /* cell number */
+  .carousel-cell:before {
+    display: block;
+    text-align: center;
+    content: counter(gallery-cell);
+    line-height: 0px;
+   font-size: 0;
+    color: white;
+  }
+  
+/* crousel over */
+
+
+.image-slider-main{
+    margin-top: 1rem;
+    border: 0px solid red;
+    height: auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-image: url(../../site_image/grey.jpg);
+    background-size: 100% 100%;
+}
+.slider-des{
+    height: auto;
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+    width:20vw;
+    margin-left: 2vw;
+    border-radius: 1rem;
+    border: 0px solid red;
+    transform: rotate(0deg);
+    
+}
+.element-for-image{
+    border: 0px solid saddlebrown;
+    padding: 0;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    border-top: 5px solid rgb(78, 78, 78);
+    border-bottom: 5px solid rgb(78, 78, 78);
+    background: rgba(255, 255, 255, 0.603);
+}
+img-sliding{
+    width: 100%;
+    height: auto;
+}
+.element-for-image img{
+    width: 100%;
+    max-height:20rem;
+
+}
+
+
+
+/* copy css */
+
+
+.element-location{
+    padding: 0;
+    width:80vw;
+    border: 0px solid #000000;
+    margin-top: 3rem;
+    padding-top:1rem;
+    padding-bottom: 4rem;
+    background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+    background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+    background-image: linear-gradient(120deg,#ff0062,#ffbcd5);
+    background: #ffffff;
+    /* box-shadow: 1px 1px 10px #444444; */
+    height:auto;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.for-heading-gallery{
+    font-size: 2.8rem;
+    color:#555555;
+    margin-top:2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.location-head{
+    color:#464646;
+}
+
+.element-four-row{
+    border: 0px solid aliceblue;
+    margin: 0;
+    height:auto;
+    padding-left: 2vw;
+    padding-right: 0vw;
+    padding-top: 1vw;
+    margin-top: 3rem;
+    padding-bottom: 1vw;
+    
+}
+
+.element-four-row-col-1 , .element-four-row-col-2{
+    border: 0px solid aliceblue;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    height: 28vw;
+}
+.element-four-row-col-2{
+    border:1px solid aliceblue;
+    padding: 0;
+}
+.element-four-row-col-1-col-1{
+    height:8vw;
+    border: 0px solid aliceblue;
+    margin-top: 3vw;
+    margin-left: 0.2vw;
+    padding: 0;
+    background-color: rgb(194, 194, 194);
+    background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+
+    border-radius: 1vw;
+}
+
+.element-four-row-col-1-col-2{
+    height:8vw;
+    padding: 0;
+    border: 0px solid aliceblue;
+    margin-top: 5vw;
+    margin-left: 0.2vw;
+    background-color: rgb(194, 194, 194);
+    background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+
+    border-radius: 1vw;
+}
+.element-four-lit-part-contact-img{
+    border: 0px solid aliceblue;
+    padding: 2vw;
+    height: 8vw;
+}
+.element-four-lit-part-contact-img img{
+    width: 100%;
+    max-height: 100%;
+}
+
+.element-four-lit-part-location-img img{
+    max-width: 100%;
+    height: 100%;
+}
+.element-four-lit-part-location-img{
+    border: 0px solid aliceblue;
+    padding: 1vw;
+}
+.Contact-font{
+    height:3vw;
+    border: 0px solid aliceblue;
+    text-align: left;
+}
+.Contact-number-font{
+    height:2vw;
+    border: 0px solid aliceblue;
+   margin-top: 0.5vw;
+   text-align: left;
+
+}
+.call-us-font{
+    font-size: 2vw;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+.contact-ecact-font{
+    font-size: 1.3vw;
+    color: #fff;
+    font-weight: 300;
+    font-weight: serif;
+}
+.element-iframe{
+    border: 1px solid rgb(134, 15, 170);
+    margin: 0;
+    height: 28vw;
+    padding: 0;
+    border-radius: 1vw;
+    box-shadow: 1px 1px 5px #888888;
+}
+
+/* copy css over */
+.blessings-element{
+    padding: 0;
+    padding-top: 1rem;
+
+    padding-bottom: 2rem;    
+}
+.bless-head{
+    text-align: center;
+    font-size: 4rem;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #555555;
+    margin-bottom: 4rem;
+}
+.blessings-main-cmplt{
+    height: auto;
+    border: 0px solid #444444;
+    padding: 0;
+}
+.main-row-element-bless{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+.partition-common{
+    height: auto;
+    border: 0px solid red;
+    box-shadow: 0px 0px 0px #999999;
+    padding-top: 1rem;
+}
+.partition-1{
+    /* background-image:linear-gradient(120deg,rgb(255, 0,155 ,0.9),rgb(243, 249,0,0.9)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+    background-size: cover;
+    border: 0px solid #c0c0c0;
+    /* background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119)); */
+    /* box-shadow: 0px 0px 10px #999999; */
+    background-color: #eeeeee;
+    background: #ff9bc1;
+    background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+    height: auto;
+    padding-bottom: 3rem;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 1rem;
+
+}
+.partition-2{
+    border: 1px solid #c5c5c5;
+    background: #eeeeee;
+    border-left: 0;
+    /* border-right: 0; */
+    padding-left: 4vw;
+    padding-bottom: 3rem;
+    padding-right: 4vw;
+    /* background-color: #ffeef4; */
+    /* background-image:linear-gradient(120deg,rgb(255, 128, 223),rgb(255, 47, 47)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+
+}
+.label-name{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    color: #252525;
+}
+.input-name{
+    width: 100%;
+    border: 1px solid #999999;
+    padding-left: 0.3rem;
+    height: 2.3rem;
+    border-radius: 5px;
+    display: block;
+}
+.text-area{
+    height: 5rem;
+    margin-top: 0.5rem;
+}
+.btn-submit{
+    display: block;
+    margin-top: 2rem;
+}
+.btn-reset{
+    display: inline-block;
+
+}
+.view-more{
+    display: block;
+    margin-top: 1rem;
+    padding: 0;
+}
+.show-bless-element{
+    width: 68.9vw;
+    height: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 1px solid #b3b3b3;
+    text-align: center;
+    justify-content: center;
+    background-color: #ffefef;
+}
+
+
+
+/* crousel........................................................ */
+
+
+.gallery-cell {
+    width: 100%;
+    height:auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.075);
+    counter-increment: gallery-cell;
+  }
+  
+  /* cell number */
+  .gallery-cell:before {
+    display: block;
+    text-align: center;
+    content: counter(gallery-cell);
+    
+    font-size: 0px;
+    color: white;
+  }
+/* crousel over........................................................ */
+
+.rsvp-element{
+    border:0px solid red;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 8rem;   
+    height:auto;
+    
+}
+.rsvp-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 3rem;
+}
+.rsvp-row-element{
+    padding: 0;
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 4vw;
+    justify-content: center;
+    padding-right: 4vw;
+}
+.common-col-rsvp{
+    padding: 0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-left: 0.5rem;
+    height: 35rem;
+    border-radius: 30rem;
+    padding-right: 0.5rem;
+    margin-bottom: 2rem;
+    background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+
+    padding-top: 5rem;
+    border: 0px solid red;
+}
+.inner-rsvp-col{
+    height:25rem;
+    width: 60%;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    text-align: center;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-top:1rem;
+    border-radius: 3rem;
+    padding-bottom: 2rem;
+    border-top: 5px solid #555555;
+    background-color: rgba(238, 238, 238, 0.719);
+    border-bottom: 5px solid #555555;   
+}
+.rsvp-img{
+   width: auto;
+   text-align: center;
+   max-height: 20rem;
+   border-radius: 2rem;
+}
+.subtitle-rsvp{
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    margin-top: 0.6rem;
+    word-spacing: 3px;
+}
+
+
+
+
+/* Copy footer */
+
+
+.foot-element{
+    padding: 0;
+    border:0px solid #999999;
+    padding-top: 2rem;
+    height: 30rem;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin: 0;
+    background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+    background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+    background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+
+
+    height:auto;
+    padding-bottom:2rem ;
+}
+.column-in-footer-1{
+    height: 15rem;
+    padding: 0;
+}
+.logo-element{
+    height:5rem;
+}
+.logo-element img{
+    height: 100%;
+    max-width: 100%;
+}
+.footer-text{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 1vw;
+}
+
+.footer-text-two{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 0rem;
+    margin-left: 1vw;
+}
+.black{
+    color:#000000;
+}
+.d-blue{
+    color: #02548a;
+}
+.footparttwo{
+    padding-bottom: 2rem;
+}
+.my-mt-2{
+    margin-top: 1rem;
+}
+.my-mt-3{
+    margin-top: 3rem;
+}
+.call-btn{
+    width: 60%;
+    margin-left: 2vw;
+}
+#a{
+    text-decoration: none;
+}
+.li-text{
+    font-size: 1.4rem;
+    margin-top: 0;
+    list-style-type: circle;
+    margin-left: 2rem;
+    color:aliceblue;
+    font-weight: 600;
+}
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+.ul{
+    list-style-type: disc;
+
+}
+.social-media-icons-elements{
+    height: 4rem;
+    margin-top: 1.7rem;
+    padding: 0;
+}
+.icons-element{
+    height: 2.7rem;
+    width: 2.7rem;
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    border: 0px solid salmon;
+    display: inline-block;
+}
+.icons-element img{
+  width: 100%;
+  max-height: 100%;
+}
+.footer-late{
+   height: auto;
+   padding: 0;
+   padding-top: 1.3rem;
+   padding-bottom: 1.5rem;
+   background-color: #9b4163;
+   text-align: center;
+   justify-content: center;
+}
+.late-foot-text{
+    font-size: 1rem;
+    color: aliceblue;
+    display: block;
+    margin-left: 5vw;
+    margin-right:5vw ;
+    
+}
+
+
+
+
+/* copy over */
+
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type: circle;
+    margin-left: 1.3rem;
+    display: inline-block;
+    width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 50%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:25%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #ff0077;
+    border-bottom: 4px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.7rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:30vw;
+    position: fixed;
+    bottom: 3%;
+    right: 1%;
+    background-color: #ff6004;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    height: 2.7rem;
+    padding-bottom: 0.5rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 1rem;
+    display: block;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1400px){
+    .comman-boy-girl-col{
+        border: 1px solid red;
+        height:auto;
+        margin-left:2vw;
+        margin-right:2vw;
+        padding-bottom: 1rem;
+        border-radius: 10px;
+        justify-content: center;
+        padding-top: 1rem;
+        background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+     }
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 35%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:5.6rem;
+         border-radius: 3rem;
+     }
+     .male-female-names{
+         font-size: 1.2rem;
+         text-align: center;
+         display: block;
+         width: 87%;
+         margin-top: 1rem;
+         columns: #707070;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         text-shadow: 2px 2px 5px #999999;
+     }
+     .male-female-img{
+         width: 100%;
+         height: 3.6rem;
+     }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+    /* CSS START FOR ROTATE IMAGE STARTUP DIVS */
+
+    .element-rotate-ensistor{
+        margin: 0;
+        height: auto;
+        border: 0px solid darkblue;
+        padding: 5vw;
+        
+     }
+     .elementtoberotate{
+        border: 0px solid darkblue;
+        height:21rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        background:linear-gradient(120deg,#20303E,#425e77,#a0bed6);
+       background: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        width: 60%;
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:17rem;
+        transform: rotate(-10deg);
+        padding: 0;
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    
+    .element-for-text{
+        border: 0px solid darkblue;
+        height:auto;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        padding-left:0vw;
+        text-align: center;
+    
+    }
+    .couples-new-heading-element{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+    }
+    .inviting-text-row-element{
+        font-size: 1.2rem;
+        color: #777777;
+        display: block;
+        margin-top: 2rem;
+        text-align:center;
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+
+
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+    /* CSS OVER FOR ROTATE IMAGE STARTUP DIVS */
+   
+
+    /* LOCATION DIV */
+/*    
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        background-image: linear-gradient(120deg,#ffdada,#fffbda);
+        background: #ffffff;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .element-four-row{
+        border: 2px solid rgb(34, 38, 41);
+        margin: 0;
+        height:auto;
+        padding-left: 0vw;
+        padding-right: 0vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid rgb(46, 125, 194);
+        margin-left: 2vw;
+        
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+        margin-top: 10vw;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid aliceblue;
+        margin-top: 3vw;
+        margin-left: 0.2vw;
+        padding-bottom: 4vw;
+        padding: 0;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+
+        margin-left: 0.2vw;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid aliceblue;
+        padding-top:4vw;
+        padding-left: 3vw;
+        height: 15vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid aliceblue;
+        padding-top: 2vw;
+    }
+    .Contact-font{
+        height:auto;
+        border: 0px solid aliceblue;
+        text-align: left;
+        padding-right: 3vw;
+    }
+    
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid aliceblue;
+       margin-top: 4vw;
+       text-align: left;
+       padding-right: 1vw;
+
+    
+    }
+    .call-us-font{
+        font-size: 4vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .ft-call{
+        font-size: 4vw;
+     }
+    .contact-ecact-font{
+        font-size: 2vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 0px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 60vw;
+        margin-top: 5vw;
+        padding: 0;
+    }
+
+*/
+    /* LOCATION DIV OVER */
+ 
+
+    .top-div{
+        height:auto;
+        padding-top: 0.7rem;
+        padding-bottom: 0.5rem;
+        background-color:inherit;
+    }
+    .sitename{
+        font-size: 1.4rem;
+        font-family: sans-serif;
+        color: #646464;
+        font-weight: 600;
+        margin: 0;
+    }
+    .header{
+        height:auto;
+        border: 0px solid #000000;
+        background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94)),url(../../site_image/background-ten-mobi.jpg);
+        background-size: cover ;
+        box-shadow: 4px 4px 10px #555555;
+        padding-bottom: 2rem;
+    }
+    .couples{
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-size: 3.3rem;
+        margin:0 auto;
+        text-transform: capitalize;
+        font-weight: 500;
+        width: 94%;
+        text-align: center;
+        color: #ffffff;
+        color: #000000;
+        text-shadow: 2px 2px 5px #979797;
+    }
+
+    .icon-div{
+        width:7rem;
+        height:auto;
+        padding-bottom: 0.5rem;
+        margin-top: 4rem;
+        border: 0px solid red;
+    }
+    .ring-icon{
+        width:100%;
+        height: auto;
+    }
+    .sub-text-couples{
+        font-size: 1.4rem;
+        color: #ffffff;
+        color: #000000;
+        width: 80%;
+        margin: 1rem auto;
+        text-align: center;
+        display: block;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .on-text{
+        margin-top: 1rem;
+    }
+    .date-btn{
+       display: block;
+       width: 70vw;
+       padding-top: 0.3rem;
+       padding-bottom: 0.3rem;
+       font-size: 1.6rem;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-align: center;
+       border: 0;
+       border-radius: 45vw;
+       background-color: #ffdeb3d7;
+       background-color: inherit;
+       margin-top: 2rem;
+       border: 3px solid rgba(255, 255, 255, 0.521);
+    }
+    .date-btn:hover{
+        background-color: antiquewhite;
+        border: 3px solid #ff9c75;
+    }
+    .boy-girl-element{
+        padding: 0;
+        padding-top: 2rem;
+        height: auto;
+        padding-bottom: 2rem;
+    }
+    .venue{
+        font-size:1rem;
+        margin-top: rem;
+    }
+    .headings-in-element{
+        font-size: 2.5rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        text-align: center;
+        margin-bottom: 1.25rem;
+    }
+    .element-row-boy-girl{
+        border: 0px solid rebeccapurple;
+        padding-left: 5vw;
+        margin: 0;
+        padding-right: 5vw;
+        justify-content: center;
+    }
+    .comman-boy-girl-col{
+       border: 1px solid red;
+       height:auto;
+       margin-left:2vw;
+       margin-right:2vw;
+       padding-bottom: 1rem;
+       border-radius: 10px;
+       justify-content: center;
+       padding-top: 1rem;
+       background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    }
+    .image-div-male-female{
+        border: 0px solid #ff0062;
+        width: 45%;
+        padding: 0vw;
+        background-color: rgba(255, 152, 183, 0.451);
+        padding: 1rem;
+        height:5.6rem;
+        border-radius: 3rem;
+    }
+    .male-female-names{
+        font-size: 1.2rem;
+        text-align: center;
+        display: block;
+        width: 87%;
+        margin-top: 1rem;
+        columns: #707070;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-shadow: 2px 2px 5px #999999;
+    }
+    .male-female-img{
+        width: 100%;
+        height: 3.6rem;
+    }
+    .strip-1{
+        height:2.5rem;
+       background: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+       background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+    
+    }
+    
+    
+    
+   
+    
+    
+    .program-detail-element{
+        padding: 0;
+        height: auto;
+        padding-top: 5rem;
+        
+        padding-bottom: 3rem;
+    }
+    .slogans-in-program-element{
+        padding: 0;
+        border: 0px solid pink;
+        justify-content: center;
+        text-align: center;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background: #ffffff;
+        box-shadow: 5px 5px 15px #666666;
+        width: 90vw;
+        padding-top: 1rem;
+        border-radius: 5px;
+        height: auto;
+        padding-bottom: 1.5rem;
+        border: 2px solid rgba(255, 0, 106, 0.5);
+    
+    }
+    .slogans{
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-size: 3rem;
+        color: #ff0062;
+        text-shadow: 1px 1px 1px #474747;
+    }
+    .simple-slogan{
+        display: block;
+        margin-top: 0rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2rem;
+        font-style: oblique;
+    }
+    .program-overlap-element{
+        width: 87%;
+        padding: 0;
+        margin-top: 2rem;
+        height:auto;
+        border: 0px solid red;
+    }
+    .row-overlap-element{
+        height: auto;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+        border: 0px solid red;
+        width: 100%;
+    }
+    .comman-col-overlaps{
+        padding-left: 1vw;
+        padding-right: 1vw;
+        padding-bottom: 1rem;
+        height: auto;
+    }
+    .main-class-for-program-cols{
+        height:auto;
+        padding-bottom: 3rem;
+        background: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background: linear-gradient(#fff8d2,#fdebeb);
+        border: 4px solid rgba(255, 0, 106, 0.5);
+        box-shadow: 3px 3px 6px #555555;
+        border-radius: 5px;
+        padding-left: 1vw;
+        padding-top: 1rem;
+        padding-right: 1vw;
+        text-align: center;
+    }
+    .Program-fonts{
+        font-size: 1.8rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        
+    }
+    .program-dates{
+        font-size: 1.5rem;
+        color: #797878;
+        font-weight: 500;
+        display: block;
+        margin-top: 2rem;
+    }
+    .program-address{
+        font-size: 1.5rem;
+        color: #797878;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        display: block;
+        margin-top: 2rem;
+    }
+    .collections{
+        height: auto;
+        padding: 0;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    .collection-heading{
+        font-size: 2.2rem;
+        width: 90%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    
+    /* crousel */
+    .crousel-element{
+        border: 0px solid #1f1616;
+    
+    }
+    
+    .carousel-cell {
+       counter-increment: gallery-cell;
+    }
+      
+      /* cell number */
+      .carousel-cell:before {
+        display: block;
+        text-align: center;
+        content: counter(gallery-cell);
+        line-height: 0px;
+       font-size: 0;
+        color: white;
+      }
+      
+    /* crousel over */
+    
+    
+    .image-slider-main{
+        margin-top: 1rem;
+        border: 0px solid red;
+        height: auto;
+        padding-top: 2rem;
+        padding-bottom: 5rem;
+        background-image: url(../../site_image/grey.jpg);
+        background-size: 100% 100%;
+    }
+    .slider-des{
+        height: auto;
+        padding-top: 3rem;
+        padding-bottom: 6rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        width:40vw;
+        margin-left: 2vw;
+        border-radius: 1rem;
+        border: 0px solid red;
+        transform: rotate(0deg);
+        
+    }
+    .element-for-image{
+        border: 0px solid saddlebrown;
+        padding: 0;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        border-top: 5px solid rgb(78, 78, 78);
+        border-bottom: 5px solid rgb(78, 78, 78);
+        background: rgba(255, 255, 255, 0.603);
+    }
+    img-sliding{
+        width: 100%;
+        height: auto;
+    }
+    .element-for-image img{
+        width: 100%;
+        max-height:20rem;
+    
+    }
+    
+    
+    
+    /* copy css */
+    
+    
+    .element-location{
+        padding: 0;
+        width:80vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 4rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffbcd5);
+        background: #ffffff;
+        /* box-shadow: 1px 1px 10px #444444; */
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    
+    .for-heading-gallery{
+        font-size: 2.8rem;
+        color:#555555;
+        margin-top:2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+    }
+    .location-head{
+        color:#464646;
+        font-size: 2.3rem;
+    }
+    
+    .element-four-row{
+        border: 0px solid rgb(26, 27, 29);
+        margin: 0;
+        height:auto;
+        padding-left: 2vw;
+        padding-right: 0vw;
+        padding-top: 1vw;
+        margin-top: 3rem;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid rgb(65, 77, 88);
+        margin-left: 2vw;
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid rgb(116, 175, 226);
+        margin-top: 3vw;
+        margin-left: 0.2vw;
+        padding: 0;
+        background-color: rgb(194, 194, 194);
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    
+        border-radius: 1vw;
+    }
+    
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        margin-left: 0.2vw;
+        background-color: rgb(194, 194, 194);
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+    
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid rgb(36, 123, 199);
+        padding: 2vw;
+        height: 10vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid rgb(29, 100, 161);
+        padding-top:1vw;
+    }
+    .Contact-font{
+        height:3vw;
+        border: 0px solid rgb(77, 124, 165);
+        text-align: left;
+    }
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid rgb(36, 87, 131);
+       margin-top: 0.5vw;
+       text-align: left;
+    
+    }
+    .call-us-font{
+        font-size: 2vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .contact-ecact-font{
+        font-size: 1.8vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 1px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 28vw;
+        padding: 0;
+        border-radius: 1vw;
+        box-shadow: 1px 1px 5px #888888;
+    }
+    
+    /* copy css over */
+    .blessings-element{
+        padding: 0;
+        padding-top: 1rem;
+    
+        padding-bottom: 2rem;    
+    }
+    .bless-head{
+        text-align: center;
+        font-size: 2rem;
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #555555;
+        margin-bottom: 1.5rem;
+    }
+    .blessings-main-cmplt{
+        height: auto;
+        border: 0px solid #444444;
+        padding: 0;
+    }
+    .main-row-element-bless{
+        padding: 0;
+        margin: 0;
+        height: auto;
+        padding-left: 0vw;
+        padding-right:0vw;
+    }
+    .partition-common{
+        height: auto;
+        border: 0px solid red;
+        box-shadow: 0px 0px 0px #999999;
+        padding-top: 1rem;
+    }
+    .partition-1{
+        /* background-image:linear-gradient(120deg,rgb(255, 0,155 ,0.9),rgb(243, 249,0,0.9)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+        background-size: cover;
+        border: 0px solid #c0c0c0;
+        /* background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119)); */
+        /* box-shadow: 0px 0px 10px #999999; */
+        background-color: #eeeeee;
+        background: #ff9bc1;
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+        height: auto;
+        padding-bottom: 3rem;
+        padding-left: 5vw;
+        
+        padding-right: 5vw;
+        padding-top: 1rem;
+    
+    }
+    .partition-2{
+        border: 1px solid #c5c5c5;
+        background: #eeeeee;
+        border-left: 0;
+        /* border-right: 0; */
+        padding-left: 4vw;
+        padding-bottom: 3rem;
+        padding-right: 4vw;
+        /* background-color: #ffeef4; */
+        /* background-image:linear-gradient(120deg,rgb(255, 128, 223),rgb(255, 47, 47)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+    
+    }
+    .label-name{
+        font-size: 1.2rem;
+        margin-top: 1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: block;
+        color: #252525;
+    }
+    .input-name{
+        width: 100%;
+        border: 1px solid #999999;
+        padding-left: 0.3rem;
+        height: 2.3rem;
+        border-radius: 5px;
+        display: block;
+    }
+    .text-area{
+        height: 5rem;
+        margin-top: 0.5rem;
+    }
+    .btn-submit{
+        display: block;
+        margin-top: 2rem;
+    }
+    .btn-reset{
+        display: inline-block;
+    
+    }
+    .view-more{
+        display: block;
+        margin-top: 1rem;
+        padding: 0;
+    }
+    .show-bless-element{
+        width: 100%;
+        height: auto;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border: 1px solid #b3b3b3;
+        text-align: center;
+        justify-content: center;
+        background-color: #ffefef;
+    }
+    
+    
+    
+    /* crousel........................................................ */
+    
+    
+    .gallery-cell {
+        width: 100%;
+        height:auto;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        margin-right: 10px;
+        background: rgba(255, 255, 255, 0.075);
+        counter-increment: gallery-cell;
+      }
+      
+      /* cell number */
+      .gallery-cell:before {
+        display: block;
+        text-align: center;
+        content: counter(gallery-cell);
+        
+        font-size: 0px;
+        color: white;
+      }
+    /* crousel over........................................................ */
+    
+    .rsvp-element{
+        border:0px solid red;
+        text-align: center;
+        padding-top:1.5rem;
+        padding-bottom: 2rem;   
+        height:auto;
+        
+    }
+    .rsvp-heading{
+        font-size: 2.1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-bottom: 0rem;
+    }
+    .rsvp-row-element{
+        padding: 0;
+        margin: 0;
+        padding-top:2rem;
+        padding-left: 4vw;
+        justify-content: center;
+        padding-right: 4vw;
+    }
+    .common-col-rsvp{
+        padding: 0;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        padding-left: 1rem;
+        height:auto;
+        width: 80%;
+        border-radius: 2rem;
+        padding-right: 1rem;
+        margin-bottom: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        border: 0px solid red;
+    }
+    .inner-rsvp-col{
+        height:auto;
+        width: 100%;
+        padding-left: 1vw;
+        padding-right: 1vw;
+        text-align: center;
+        justify-content: center;
+        padding-top: 1rem;
+        padding-top:1rem;
+        border-radius: 3rem;
+        padding-bottom: 2rem;
+        border-top: 5px solid #555555;
+        background-color: rgba(238, 238, 238, 0.719);
+        border-bottom: 5px solid #555555;   
+    }
+    .rsvp-img{
+       width: 100%;
+       text-align: center;
+       max-height: 20rem;
+       border-radius: 2rem;
+    }
+    .subtitle-rsvp{
+        font-size: 1.2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: block;
+        margin-top: 0.6rem;
+        word-spacing: 3px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    /* copy over */
+    
+    
+
+
+    
+    .foot-element{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1.5rem;
+        height: 30rem;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        margin: 0;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+    
+        height:auto;
+        padding-bottom:2rem ;
+    }
+    .column-in-footer-1{
+        height: 11rem;
+        padding: 0;
+        border: 0px solid red;
+    }
+    .logo-element{
+        height:3rem;
+    }
+    .logo-element img{
+        height: 100%;
+        padding: 0;
+        margin-left: -0.8rem;
+        max-width: 100%;
+    }
+    .footer-text{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0.5rem;
+        margin-left: 0.4rem;
+    }
+    
+    .footer-text-two{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0rem;
+        margin-left: 1vw;
+    }
+    .black{
+        color:#000000;
+    }
+    .d-blue{
+        color: #02548a;
+    }
+    .footparttwo{
+        padding: 0;
+        padding-right: 2vw;
+        padding-bottom: 2rem;
+        border: 0px solid red;
+
+    }
+    .my-mt-2{
+        margin-top: 0rem;
+    }
+    .phone-mt{
+        margin-top: 1rem;
+    }
+    .my-mt-3{
+        margin-top: 1rem;
+    }
+    .call-btn{
+        width: 30%;
+        margin-left: 2vw;
+        font-size: 1rem;
+        margin-bottom:0rem ;
+
+    }
+    #a{
+        text-decoration: none;
+    }
+    .li-text{
+        font-size: 1.1rem;
+        margin-top: 0;
+        list-style-type: circle;
+        margin-left: 0rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid #02548a;
+        color:aliceblue;
+        font-weight: 500;
+    }
+    .atag{
+        width:auto;
+        height: auto;
+        padding: 0;
+        display: inline-block;
+        border: 0px solid #646464;
+    }
+    .li-text:hover{
+        text-decoration: underline #379eff;
+        cursor: pointer;
+    }
+    .ul{
+        list-style-type: disc;
+    
+    }
+    .social-media-icons-elements{
+        height: 4rem;
+        margin-top: 1.7rem;
+        padding: 0;
+    }
+    .icons-element{
+        height: 2rem;
+        width: 2rem;
+        padding: 0;
+        margin-left: 0.05rem;
+        margin-right: 0.05rem;
+        border: 0px solid salmon;
+        display: inline-block;
+    }
+    .icons-element img{
+      width: 100%;
+      max-height: 100%;
+    }
+    .footer-late{
+       height: auto;
+       padding: 0;
+       padding-top: 1rem;
+       padding-bottom: 1.3rem;
+       background-color: #9b4163;
+       text-align: center;
+       justify-content: center;
+    }
+    .late-foot-text{
+        font-size: 0.8rem;
+        color: aliceblue;
+        display: block;
+        margin-left: 5vw;
+        margin-right:5vw ;
+        
+    }
+    
+
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:991px){
+    .comman-boy-girl-col{
+        border: 1px solid red;
+        height:auto;
+        margin-left:2vw;
+        margin-right:2vw;
+        padding-bottom: 1rem;
+        border-radius: 10px;
+        justify-content: center;
+        padding-top: 1rem;
+        background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+     }
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 30%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:5.6rem;
+         border-radius: 3rem;
+     }
+     .male-female-names{
+         font-size: 1.2rem;
+         text-align: center;
+         display: block;
+         width: 87%;
+         margin-top: 1rem;
+         columns: #707070;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         text-shadow: 2px 2px 5px #999999;
+     }
+     .male-female-img{
+         width: 100%;
+         height: 3.6rem;
+     }
+      
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 70%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:15%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #ff0077;
+    border-bottom: 4px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.4rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #ff6004;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+}
+
+
+
+@media screen and (max-width:735px){
+    .comman-boy-girl-col{
+        border: 1px solid red;
+        height:auto;
+        margin-left:2vw;
+        margin-right:2vw;
+        padding-bottom: 1rem;
+        border-radius: 10px;
+        justify-content: center;
+        padding-top: 1rem;
+        background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+     }
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 40%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:5.6rem;
+         border-radius: 3rem;
+     }
+     .male-female-names{
+         font-size: 1.2rem;
+         text-align: center;
+         display: block;
+         width: 87%;
+         margin-top: 1rem;
+         columns: #707070;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         text-shadow: 2px 2px 5px #999999;
+     }
+
+     
+     .elementtoberotate{
+        border: 0px solid darkblue;
+        width: 80%;
+
+     }
+
+
+
+     .slider-des{
+        height: auto;
+        padding-top: 2rem;
+        padding-bottom: 4rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        width:44vw;
+        margin-left: 2vw;
+        border-radius: 1rem;
+        border: 0px solid red;
+        transform: rotate(0deg);
+        
+    }
+   
+}
+
+
+
+
+
+
+@media screen and (max-width:768px){
+    /* .icon-div{
+        width:30vw;
+        height:5.6rem;
+        margin-top: 4rem;
+        border: 0px solid red;
+    } */
+    .ring-icon{
+        max-width:100%;
+        height: auto;
+    }
+
+
+
+
+
+    /* Location div */
+      
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 1.5rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        background-image: linear-gradient(120deg,#ffdada,#fffbda);
+        /* background: #ffffff  ; */
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .element-four-row{
+        border: 0px solid aliceblue;
+        margin: 0;
+        height:auto;
+        padding-left: 15vw;
+        padding-right: 15vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid aliceblue;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+        margin-top: 10vw;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid aliceblue;
+        margin-top: 2rem;
+        margin-left: 0.2vw;
+        padding-bottom: 2vw;
+        padding: 0;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .location-head{
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+
+        margin-left: 0.2vw;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid aliceblue;
+        padding-top: 3vw;
+        padding-left: 3vw;
+        height: 14vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid aliceblue;
+        padding-top: 2vw;
+    }
+    .Contact-font{
+        height:auto;
+        border: 0px solid aliceblue;
+        text-align: left;
+        padding-right: 3vw;
+    }
+    
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid aliceblue;
+       margin-top: 4vw;
+       text-align: left;
+       padding-right: 1vw;
+
+    
+    }
+    .call-us-font{
+        font-size: 4vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .ft-call{
+        font-size: 4vw;
+     }
+    .contact-ecact-font{
+        font-size: 3vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 0px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 50vw;
+        margin-top: 5vw;
+        padding: 0;
+    }
+
+
+
+
+
+    /* Location div over */
+}
+@media screen and (max-width:650px){
+    
+    
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 95%;
+    opacity: 1;
+    max-height:90%;
+    overflow: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:2.5%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 2px solid #ff0077;
+    border-bottom: 2px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.1rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 30%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #ff6004;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+}
+
+@media screen and (max-width:576px){
+    .element-row-boy-girl{
+        padding-left: 20vw;
+        padding-right: 20vw;
+    }
+    .comman-boy-girl-col{
+        border: 1px solid red;
+        height:auto;
+        margin-left:2vw;
+        margin-right:2vw;
+        padding-bottom: 1rem;
+        border-radius: 10px;
+        justify-content: center;
+        padding-top: 1rem;
+        margin-bottom: 1.5rem;
+        background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+     }
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 30%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:5.6rem;
+         border-radius: 3rem;
+     }
+     .male-female-names{
+         font-size: 1.2rem;
+         text-align: center;
+         display: block;
+         width: 87%;
+         margin-top: 1rem;
+         columns: #707070;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         text-shadow: 2px 2px 5px #999999;
+     }
+     .elementtoberotate{
+        border: 0px solid darkblue;
+        width: 90%;
+
+     }
+
+
+
+
+     .program-detail-element{
+        padding: 0;
+        height: auto;
+        padding-top: 5rem;
+        
+        padding-bottom: 7rem;
+        padding-bottom: 3rem;
+
+    }
+    .slogans-in-program-element{
+        padding: 0;
+        border: 0px solid pink;
+        justify-content: center;
+        text-align: center;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background: #ffffff;
+        box-shadow: 0px 5px 15px #666666;
+        width: 100%;
+        padding-top: 1rem;
+        border-radius: 5px;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        height: auto;
+        padding-bottom: 1.5rem;
+        border: 0px solid rgba(255, 0, 106, 0.5);
+    
+    }
+    .slogans{
+        font-family: Brush Script MT, Brush Script Std, cursive;
+        font-size: 2rem;
+        color: #ff0062;
+        text-shadow: 1px 1px 1px #474747;
+    }
+    .simple-slogan{
+        display: block;
+        margin-top: 0rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 2rem;
+        font-style: oblique;
+    }
+    .program-overlap-element{
+        width: 87%;
+        padding: 0;
+        margin-top: 2rem;
+        height:auto;
+        border: 0px solid red;
+    }
+    .row-overlap-element{
+        height: auto;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+        border: 0px solid red;
+        width: 100%;
+    }
+    .comman-col-overlaps{
+        padding-left: 1vw;
+        padding-right: 1vw;
+        padding-bottom: 1rem;
+        height: auto;
+    }
+    .main-class-for-program-cols{
+        height:auto;
+        padding-bottom: 3rem;
+        background: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background: linear-gradient(#fff8d2,#fdebeb);
+        border: 4px solid rgba(255, 0, 106, 0.5);
+        box-shadow: 3px 3px 6px #555555;
+        border-radius: 5px;
+        padding-left: 1vw;
+        padding-top: 1rem;
+        padding-right: 1vw;
+        text-align: center;
+    }
+    .Program-fonts{
+        font-size: 1.8rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        
+    }
+    .program-dates{
+        font-size: 1.5rem;
+        color: #797878;
+        font-weight: 500;
+        display: block;
+        margin-top: 2rem;
+    }
+    .program-address{
+        font-size: 1.5rem;
+        color: #797878;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        display: block;
+        margin-top: 2rem;
+    }
+    .collections{
+        height: auto;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+    .collection-heading{
+        font-size: 2.2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .slider-des{
+        height: auto;
+        padding-top: 3rem;
+        padding-bottom: 6rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        width:60vw;
+        margin-left: 2vw;
+        border-radius: 1rem;
+        border: 0px solid red;
+        transform: rotate(0deg);
+        
+    }
+    .element-for-image img{
+        width: 100%;
+        max-height:18rem;
+    
+    }
+    .partition-1{
+        /* background-image:linear-gradient(120deg,rgb(255, 0,155 ,0.9),rgb(243, 249,0,0.9)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+        background-size: cover;
+        border: 0px solid #c0c0c0;
+        /* background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119)); */
+        /* box-shadow: 0px 0px 10px #999999; */
+        background-color: #eeeeee;
+        background: #ff9bc1;
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+        height: auto;
+        padding-bottom: 1rem;
+        padding-left: 5vw;
+        
+        padding-right: 5vw;
+        padding-top: 1rem;
+    
+    }
+    .partition-2{
+        border: 1px solid #c5c5c5;
+        background: #eeeeee;
+        border-left: 0;
+        /* border-right: 0; */
+        padding: 0;
+        padding-left: 4vw;
+        padding-bottom: 1rem;
+        padding-right: 4vw;
+        /* background-color: #ffeef4; */
+        /* background-image:linear-gradient(120deg,rgb(255, 128, 223),rgb(255, 47, 47)), url(htts://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/diy-paper-flowers-1582662788.jpg?crop=0.631xw:0.945xh;0.0128xw,0.0504xh&resize=640:*); */
+    
+    }
+    .label-name{
+        font-size: 1.2rem;
+        margin-top: 1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        display: block;
+        color: #252525;
+    }
+    
+   
+}
+
+
+
+@media screen and (max-width:465px){
+    .element-row-boy-girl{
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 35%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:5.6rem;
+         border-radius: 3rem;
+     }
+     .elementtoberotate{
+        height:17rem;
+        width: 100%;
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:13rem;
+        transform: rotate(-10deg);
+        padding: 0;
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    .common-col-rsvp{
+        padding: 0;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        padding-left: 1rem;
+        height:auto;
+        width: 95%;
+        border-radius: 2rem;
+        padding-right: 1rem;
+        margin-bottom: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        border: 0px solid red;
+    }
+   
+}
+@media screen and (max-width:416px){
+    .element-row-boy-girl{
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+    .comman-boy-girl-col{
+        border: 1px solid red;
+        height:auto;
+        margin-left:2vw;
+        margin-right:2vw;
+        padding-bottom: 1rem;
+        border-radius: 10px;
+        justify-content: center;
+        padding-top: 1rem;
+        background-image: linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+     }
+     .image-div-male-female{
+         border: 0px solid #ff0062;
+         width: 30%;
+         padding: 0vw;
+         background-color: rgba(255, 152, 183, 0.451);
+         padding: 1rem;
+         height:4.6rem;
+         border-radius: 3rem;
+     }
+     .male-female-names{
+         font-size: 1.2rem;
+         text-align: center;
+         display: block;
+         width: 87%;
+         margin-top: 1rem;
+         columns: #707070;
+         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         text-shadow: 2px 2px 5px #999999;
+     }
+     .male-female-img{
+         width: 100%;
+         height: 3rem;
+     }
+     
+     .elementtoberotate{
+        height:17rem;
+        width: 100%;
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:13rem;
+        transform: rotate(-10deg);
+        padding: 0;
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    .slider-des{
+        height: auto;
+        padding-top: 1.5rem;
+        padding-bottom: 4rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 131, 203),rgb(243, 237, 119));
+        background-image: linear-gradient(120deg,rgba(255, 0, 149, 0.959),rgba(255, 242, 0, 0.94));
+        width:70vw;
+        margin-left: 2vw;
+        border-radius: 1rem;
+        border: 0px solid red;
+        transform: rotate(0deg);
+        
+    }
+    .element-for-image img{
+        width: 100%;
+        max-height:20rem;
+    
+    }
+    
+    .element-for-image{
+        border: 0px solid saddlebrown;
+        padding: 0;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        border-top: 5px solid rgb(78, 78, 78);
+        border-bottom: 5px solid rgb(78, 78, 78);
+        background: rgba(255, 255, 255, 0.603);
+    }
+    
+    .common-col-rsvp{
+        padding: 0;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        padding-left: 1rem;
+        height:auto;
+        width: 95%;
+        border-radius: 2rem;
+        padding-right: 1rem;
+        margin-bottom: 2rem;
+        background:  linear-gradient(120deg,rgb(255, 0, 149),rgb(255, 246, 71));
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        border: 0px solid red;
+    }
+
+   
+    /* Copy css */
+
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        background-image: linear-gradient(120deg,#ffdada,#fffbda);
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .element-four-row{
+        border: 0px solid aliceblue;
+        margin: 0;
+        height:auto;
+        padding-left: 0vw;
+        padding-right: 0vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid aliceblue;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+        margin-top: 10vw;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid aliceblue;
+        margin-top: 3vw;
+        margin-left: 0.2vw;
+        padding-bottom: 4vw;
+        padding: 0;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+
+        margin-left: 0.2vw;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid aliceblue;
+        padding-top: 7vw;
+        padding-left: 3vw;
+        height: 30vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid aliceblue;
+        padding-top: 2vw;
+    }
+    .Contact-font{
+        height:auto;
+        border: 0px solid aliceblue;
+        text-align: left;
+        padding-right: 3vw;
+    }
+    
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid aliceblue;
+       margin-top: 4vw;
+       text-align: left;
+       padding-right: 1vw;
+
+    
+    }
+    .call-us-font{
+        font-size: 6vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .ft-call{
+        font-size: 7vw;
+     }
+    .contact-ecact-font{
+        font-size: 5vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 0px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 90vw;
+        margin-top: 5vw;
+        padding: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    /* Location div over */
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

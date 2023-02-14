@@ -1,0 +1,2692 @@
+.header{
+    height:auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #ff719c;
+}
+.h1{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    margin: 0;
+}
+
+.element-one-front-head{
+    height:26rem;
+    padding: 0;
+    border: 0px solid #999999;
+    background-color: #222222;
+}
+.null-div{
+   height: 30vw;
+}
+.element-one-front-head-image-div{
+    border:0px solid #eeeeee;
+    width:55vw;
+    background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../../site_image/wedding_info_six.jpg) ;
+    background-size:cover;
+    height:25rem;
+    padding-top: 4.5rem;
+}
+.overlap-element-division{
+    width: 75vw;
+    height: auto;
+    padding-bottom: 4rem;
+    border: 1px solid #999999;
+    box-shadow: 0px 2px 10px #777777;
+    margin-top: -3rem;
+    background-color: #fff;
+    padding-top: 3rem;
+    border-bottom: 0;
+    
+}
+
+.seperate-class-heading1{
+   font-weight: 500;
+   margin-left: 5vw;
+   margin-right: 5vw;
+}
+.program-row-element{
+    border:0px solid #ff0062;
+    margin: 0;
+    height:auto;
+    padding-left:0vw;
+    padding-right:0vw;
+    text-align: center;
+    justify-content: center;
+}
+.program-element-column-one{
+   margin-left: 2vw;
+   margin-right: 2vw;
+   border:1px solid #999999;
+   background-color: #e4e4e4;
+   border-radius: 5px;
+}
+.program-element-column-two{
+   margin-left: 2vw;
+   margin-right:2vw;
+   border:1px solid #999999;
+   background-color: #e4e4e4;
+   border-radius: 5px;
+}
+.program-element-column-three{
+   margin-left: 2vw;
+   margin-right:2vw;
+   border:1px solid #999999;
+   background-color: #e4e4e4;
+   border-radius: 5px;
+}
+.comman-in-cols{
+    padding-top: 2rem;
+    height:20rem;
+    background-color: #ffecf2;
+}
+.ceromany-heading{
+    font-size: 2rem;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.ceromany-date-heading{
+    font-size: 1.4rem;
+    color: #ff0062;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2rem;
+}
+.Address-span{
+    color:#777777;
+    display: block;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-bottom: 3.5rem;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    font-weight: 500;
+}
+
+
+.elements-of-front-head-couple-names{
+    font-size: 3rem;
+    color: #ffffff;
+    font-weight:500;
+    text-shadow: 0px 0px 0px #000000;
+    margin-bottom: 2rem;
+}
+.active-span-of-blue{
+    font-size: 1.2rem;
+    color: #55bbff;
+    font-weight: 500;
+    text-shadow: 0px 0px 1px #71d7ff;
+}
+
+.inactive-span-of-blue{
+    font-size: 1.2rem;
+    color: #f6f6f6;
+    font-weight: 500;
+}
+.element-startup-row{
+    margin: 0;
+    padding: 0;
+    border: 0px solid red;
+    height: auto;
+    padding-left: 7vw;
+    padding-right: 7vw;
+}
+.elementtoberotate{
+   border: 0px solid darkblue;
+   height:29rem;
+   padding-top: 4rem;
+   background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+   border-radius: 3rem;
+   transform: rotate(30deg);
+}
+.element-rotate-ensistor{
+    margin: 0;
+    height: auto;
+    padding: 0;
+}
+.main-img{
+    border:0px solid red;
+    height:100%;
+    width:100%;
+  }
+.element-inner-rotative-div{
+    border: 0px solid darkblue;
+    height:21rem;
+    padding: 0;
+    transform: rotate(-30deg);
+    /* background-image: url(../../site_image/wedding_info_seven.jpg); */
+    background-color: rgb(73, 73, 73);
+    background-size:100% 100%;
+    border-radius: 0.3rem;
+}
+.element-for-text{
+    border: 0px solid darkblue;
+    height:auto;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left:5vw;
+    text-align: center;
+
+}
+.seperate-span-1{
+    color:#777777;
+    display: block;
+    margin-top: 2rem;
+    margin-left: 15vw;
+    margin-right: 15vw;
+   margin-bottom: 3.5rem;
+
+}
+.element-strip{
+    height: 3rem;
+    background-color: #ff719c;
+}
+.element-extraspace{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    background-color: #ffffff;
+    height:7rem;
+}
+.couples-new-heading-element{
+    font-size: 2.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.inviting-text-row-element{
+    font-size: 1.6rem;
+    color: #777777;
+    display: block;
+    margin-top: 2rem;
+    text-align: justify;
+}
+
+.hr1{
+    margin-top: 6rem;
+    margin-bottom: 0rem;
+    font-weight: 500;
+    background-color: #777777;
+    width: 80vw;
+    text-align: center;
+}
+.hr2{
+    margin-top:2rem;
+}
+.element-gallery-div{
+    border: 0px solid darkblue;
+    height: auto;
+    padding: 0;
+    margin-top:2rem;
+
+}
+.for-heading-gallery{
+    font-size: 2.8rem;
+    color:#555555;
+    margin-top:2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+.outer-element-for-slider{
+    /* width: 67vw; */
+    margin: 0;
+    border: 0px solid darkblue;
+    margin-top:2rem;
+    padding-top: 1rem;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-bottom: 1rem;
+    height: auto;
+    justify-content: center;
+    /* background-image: linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff,#ff0062); */
+}
+.comman-element-collections{
+    margin-left: 2vw;
+    margin-right: 2vw;
+    border: 5px solid #ff0062;
+    margin-bottom: 2.5rem;
+    height:13rem;
+    padding: 0;
+ 
+}
+.img-collection{
+    width:100% ;
+    height:12.4rem;
+}
+.element-location{
+    padding: 0;
+    width:80vw;
+    border: 0px solid #000000;
+    margin-top: 3rem;
+    padding-top:1rem;
+    padding-bottom: 2rem;
+    background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+    background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+    background-image: linear-gradient(120deg,#ff0062,#ffbcd5);
+    
+    height:auto;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.location-head{
+    color:aliceblue;
+}
+
+/* copy css */
+
+
+.element-four-row{
+    border: 0px solid aliceblue;
+    margin: 0;
+    height:auto;
+    padding-left: 2vw;
+    padding-right: 0vw;
+    padding-top: 1vw;
+    margin-top: 3rem;
+    padding-bottom: 1vw;
+    
+}
+
+.element-four-row-col-1 , .element-four-row-col-2{
+    border: 0px solid aliceblue;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    height: 28vw;
+}
+.element-four-row-col-2{
+    border:1px solid aliceblue;
+    padding: 0;
+}
+.element-four-row-col-1-col-1{
+    height:8vw;
+    border: 0px solid aliceblue;
+    margin-top: 3vw;
+    margin-left: 0.2vw;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.349);
+    border-radius: 1vw;
+}
+
+.element-four-row-col-1-col-2{
+    height:8vw;
+    padding: 0;
+    border: 0px solid aliceblue;
+    margin-top: 5vw;
+    margin-left: 0.2vw;
+    background-color: rgba(255, 255, 255, 0.349);
+    border-radius: 1vw;
+}
+.element-four-lit-part-contact-img{
+    border: 0px solid aliceblue;
+    padding: 2vw;
+    height: 8vw;
+}
+.element-four-lit-part-contact-img img{
+    width: 100%;
+    max-height: 100%;
+}
+
+.element-four-lit-part-location-img img{
+    max-width: 100%;
+    height: 100%;
+}
+.element-four-lit-part-location-img{
+    border: 0px solid aliceblue;
+    padding: 1vw;
+}
+.Contact-font{
+    height:3vw;
+    border: 0px solid aliceblue;
+    text-align: left;
+}
+.Contact-number-font{
+    height:2vw;
+    border: 0px solid aliceblue;
+   margin-top: 0.5vw;
+   text-align: left;
+
+}
+.call-us-font{
+    font-size: 2vw;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+.contact-ecact-font{
+    font-size: 1.3vw;
+    color: #fff;
+    font-weight: 300;
+    font-weight: serif;
+}
+.element-iframe{
+    border: 1px solid rgb(134, 15, 170);
+    margin: 0;
+    height: 28vw;
+    padding: 0;
+}
+
+/* copy css over */
+
+
+.element-best-wishes{
+    height:auto;
+    padding-bottom: 1rem;
+    border: 0px solid #000000;
+    padding-top: 1rem;
+}
+.best-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.best-wishes-element-row{
+    border: 0px solid #000000;
+    height: auto;
+    margin-top: 2rem;
+    margin:0;
+    padding-left: 10vw;
+    padding-top:3rem;
+    padding-right: 10vw;
+    justify-content: center;
+}
+.line{
+    width: 2px;
+    border: 0px solid #000000;
+    background-color: #9b9b9b;
+}
+
+.element-best-colmn-form{
+    border: 2px solid #a5a5a5;
+    border-radius:5px;
+    margin-right:3vw;
+    height:auto;
+    padding-bottom: 3rem;
+    background-color: #efefef;
+    background-color: #ffffff;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right:4rem;
+}
+.nametext-label{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: sans-serif;
+    display: block;
+    margin-top: 0rem;
+}
+.seperate-label-mail{
+    margin-top: 0.5rem;
+}
+.nameinput{
+   height: 2.3rem;
+   border-radius: 5px;
+   border: 1px solid #777777;
+   display: block;
+   padding-left: 1vw;
+   padding-right: 1vw;
+   width: 100%;
+}
+.select_input{
+    border: 1px solid #777777;
+}
+.text-area{
+    height: 4rem;
+}
+.btn-submit{
+    margin-top: 1.3rem;
+    display: block;
+}
+.element-best-colmn-pinned{
+    border: 0px solid #000000;
+    margin-left: 3vw;
+    padding: 0;
+    padding-top: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    /* background-color: #dfdfdf; */
+
+    
+}
+.btn-view-more{
+    border:0.1px #55bbff;
+    margin-top: 1rem;
+    border-style:outset;
+}
+.pinned-tail-text{
+    margin: 0;
+    text-align:center;
+}
+.margin-tail-div-pinned{
+    padding: 0;
+    margin: 0;
+}
+.element-for-rsvp{
+    padding: 0;
+    border:0px solid #999999;
+    padding-top: 2rem;
+    height: auto;
+
+}
+.element-row-rsvp{
+    border: 0px solid #000000;
+    height: auto;
+    margin-top: 2rem;
+    margin:0;
+    padding-left: 5vw;
+    padding-top:3rem;
+    padding-right: 5vw;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+.bor{
+    border: 2px solid #000000;
+}
+.comman-col-rsvp{
+    height: auto;
+    padding-top: 1vw;
+    padding-bottom:10vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+.column-for-rsvp-1{
+    padding-left: 1vw;
+   padding-right: 1vw;
+ 
+}
+.inner-col-element-main-rsvp{
+    border: 1px solid #000000;
+    height:auto;
+    padding: 1vw;
+    border-radius: 5px;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+    background-size: 100% 100%;
+    background: #ffdce7;
+
+}
+.element-for-image-rsvp{
+    height:15.1rem;
+    border: 0px solid #999999;
+    text-align: center;
+    padding: 0;
+    background-color: inherit;
+    justify-content: center;
+}
+.img-rsvp{
+    max-width: 100%;
+    height:15rem;
+    border-radius:6px ;
+
+    /* overflow: hidden; */
+}
+.family-caption{
+    font-size: 1.3rem;
+    color:#555555;
+    font-weight:600;
+    word-spacing: 2px;
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* text-transform: uppercase; */
+}
+.foot-element{
+    padding: 0;
+    border:0px solid #999999;
+    padding-top: 2rem;
+    height: 30rem;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin: 0;
+    background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+
+    height:auto;
+    padding-bottom:2rem ;
+}
+.column-in-footer-1{
+    height: 15rem;
+    padding: 0;
+}
+.logo-element{
+    height:5rem;
+}
+.logo-element img{
+    height: 100%;
+    max-width: 100%;
+}
+.footer-text{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 1vw;
+}
+
+.footer-text-two{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 0rem;
+    margin-left: 1vw;
+}
+.black{
+    color:#000000;
+}
+.d-blue{
+    color: #02548a;
+}
+.footparttwo{
+    padding-bottom: 2rem;
+}
+.my-mt-2{
+    margin-top: 1rem;
+}
+.my-mt-3{
+    margin-top: 3rem;
+}
+.call-btn{
+    width: 60%;
+    margin-left: 2vw;
+}
+#a{
+    text-decoration: none;
+}
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type: circle;
+    margin-left: 1.3rem;
+    display: inline-block;
+    width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+.ul{
+    list-style-type: disc;
+
+}
+.social-media-icons-elements{
+    height: 4rem;
+    margin-top: 1.7rem;
+    padding: 0;
+}
+.icons-element{
+    height: 2.7rem;
+    width: 2.7rem;
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    border: 0px solid salmon;
+    display: inline-block;
+}
+.icons-element img{
+  width: 100%;
+  max-height: 100%;
+}
+.footer-late{
+   height: auto;
+   padding: 0;
+   padding-top: 1.3rem;
+   padding-bottom: 1.5rem;
+   background-color: #8f0047cc;
+   text-align: center;
+   justify-content: center;
+}
+.late-foot-text{
+    font-size: 1rem;
+    color: aliceblue;
+    display: block;
+    margin-left: 5vw;
+    margin-right:5vw ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 50%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:25%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #ff0077;
+    border-bottom: 4px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.7rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:30vw;
+    position: fixed;
+    bottom: 3%;
+    right: 1%;
+    background-color: #970158;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    height: 2.7rem;
+    padding-bottom: 0.5rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 1rem;
+    display: block;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:992px){
+
+
+    /* .element-one-front-head-image-div{
+        border:0px solid #eeeeee;
+        width:99vw;
+        background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(../../site_image/wedding_info_six.jpg) ;
+        background-size:cover;
+        height:26rem;
+        padding-top: 3rem;
+    }
+    .overlap-element-division{
+        width: 100vw;
+        height:auto;
+        padding-bottom: 2rem;
+        border: 0px solid #999999;
+        box-shadow: 0px 2px 10px #777777;
+        margin-top: 0rem;
+        background-color: #fff;
+    }
+    
+    .comman-in-cols{
+       margin-bottom: 3rem;
+    }
+   .element-rotate-ensistor{
+       margin: 0;
+       height: auto;
+       border: 0px solid darkblue;
+       padding: 5vw;
+       
+    }
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        height:17rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:13rem;
+        transform: rotate(-10deg);
+        background-image: url(../../site_image/wedding_info_seven.jpg);
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+
+    .line{
+        display: none;
+    }
+
+ */
+
+
+
+
+/* start here */
+
+
+    .header{
+        height:auto;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        background-color: #ff719c;
+    }
+    .h1{
+        font-size: 1.4rem;
+        font-family: sans-serif;
+        color: aliceblue;
+        font-weight: 600;
+        margin: 0;
+    }
+    
+    .element-one-front-head{
+        height:auto;
+        padding: 0;
+        border: 0px solid #999999;
+        background-color: #222222;
+        padding-bottom: 0rem;
+    }
+    .null-div{
+       height: 30vw;
+    }
+    .element-one-front-head-image-div{
+        border:0px solid #eeeeee;
+        width:100%;
+        background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../../site_image/wedding_info_six.jpg) ;
+        background-size:cover;
+        height:auto;
+        padding-bottom: 6rem;
+        padding-top: 4.5rem;
+    }
+    .overlap-element-division{
+        width: 100%;
+        height: auto;
+        padding-bottom: 1rem;
+        border: 1px solid #999999;
+        box-shadow: 0px 2px 10px #777777;
+        margin-top: 0rem;
+        background-color: #fff;
+        padding-top: 3rem;
+        border-bottom: 0;
+        
+    }
+    
+    .seperate-class-heading1{
+       font-weight: 700;
+       margin-left: 3vw;
+       margin-right: 3vw;
+       text-transform: uppercase;
+    }
+    .program-row-element{
+        border:0px solid #ff0062;
+        margin: 0;
+        height:auto;
+        padding-left:0vw;
+        padding-right:0vw;
+        text-align: center;
+        justify-content: center;
+    }
+    .program-element-column-one{
+       margin-left: 1vw;
+       margin-right: 1vw;
+       border:1px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .program-element-column-two{
+       margin-left: 2vw;
+       margin-right:2vw;
+       border:1px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .program-element-column-three{
+       margin-left: 2vw;
+       margin-right:2vw;
+       border:0px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .comman-in-cols{
+        padding-top: 2rem;
+        height:auto;
+        padding-bottom:1rem ;
+        margin-bottom: 2rem;
+       border:2px solid #ffbbbb;
+      overflow-x: hidden;
+        background-color: #ffecf2;
+    }
+    .ceromany-heading{
+        font-size: 2rem;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #424242;
+    }
+    .ceromany-date-heading{
+        font-size: 1.4rem;
+        color: #ff0062;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 2rem;
+    }
+    .Address-span{
+        color:#777777;
+        display: block;
+        margin-top: 2rem;
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        font-weight: 500;
+    }
+    
+    
+    .elements-of-front-head-couple-names{
+        font-size: 2.4rem;
+        color: #ffffff;
+        font-weight:600;
+        text-shadow: 0px 0px 0px #000000;
+        margin-bottom: 2rem;
+        margin-left: 1vw;
+        padding-right: 1vw;
+    }
+    .active-span-of-blue{
+        font-size:1rem;
+        color: #55bbff;
+        font-weight: 500;
+        text-shadow: 0px 0px 1px #71d7ff;
+    }
+    
+    .inactive-span-of-blue{
+        font-size: 1rem;
+        color: #f6f6f6;
+        font-weight: 500;
+    }
+    .element-startup-row{
+        margin: 0;
+        padding: 0;
+        border: 0px solid red;
+        height: auto;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+
+
+
+
+
+
+
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        height:34rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+
+    .element-rotate-ensistor{
+        margin: 0;
+        height: auto;
+        border: 0px solid darkblue;
+        padding: 5vw;
+        
+     }
+    .main-img{
+        border:0px solid red;
+        height:100%;
+        border-radius: 1rem;
+
+        width:100%;
+      }
+      .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:29rem;
+        transform: rotate(-10deg);
+        background-color: rgb(148, 148, 148);
+        padding: 0;
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+
+    .element-for-text{
+        border: 0px solid darkblue;
+        height:auto;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        padding-left:0vw;
+        text-align: center;
+    
+    }
+    .seperate-span-1{
+        color:#646464;
+        display: block;
+        margin-top: 2rem;
+        margin-left: 5vw;
+        margin-right: 5vw;
+       margin-bottom: 3.5rem;
+    
+    }
+    .element-strip{
+        height: 3rem;
+        background-color: #ff719c;
+    }
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+
+
+
+
+    .couples-new-heading-element{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+    }
+    .inviting-text-row-element{
+        font-size: 1.2rem;
+        color: #777777;
+        display: block;
+        margin-top: 2rem;
+        text-align:center;
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+
+
+    .hr2{
+        margin-top:2rem;
+    }
+    .element-gallery-div{
+        border: 0px solid darkblue;
+        height: auto;
+        padding: 0;
+        margin-top:2rem;
+    
+    }
+    .for-heading-gallery{
+        font-size: 2.8rem;
+        color:#555555;
+        margin-top:2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+    }
+    .outer-element-for-slider{
+        /* width: 67vw; */
+        margin: 0;
+        border: 0px solid darkblue;
+        margin-top:2rem;
+        padding-top: 1rem;
+        padding-left: 4vw;
+        padding-right: 4vw;
+        padding-bottom: 1rem;
+        height: auto;
+        justify-content: center;
+        /* background-image: linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff,#ff0062); */
+    }
+    .comman-element-collections{
+        margin-left: 2vw;
+        margin-right: 2vw;
+        border: 5px solid #ff0062;
+        margin-bottom: 2.5rem;
+        height:28rem;
+        padding: 0;
+     
+    }
+    .img-collection{
+        width:100% ;
+        height:27.4rem;
+    }
+    .element-location{
+        padding: 0;
+        width:80vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffbcd5);
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .location-head{
+        color:aliceblue;
+    }
+    
+    
+    
+
+    .element-best-wishes{
+        height:auto;
+        padding-bottom: 1rem;
+        border: 0px solid #000000;
+        padding-top: 1rem;
+    }
+    .best-heading{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .best-wishes-element-row{
+        border: 0px solid #000000;
+        height: auto;
+        margin-top: 1rem;
+        margin:0;
+        padding-left: 0vw;
+        padding-top:1rem;
+        padding-right: 0vw;
+        justify-content: center;
+    }
+    .line{
+        width: 2px;
+        border: 0px solid #000000;
+        background-color: #9b9b9b;
+    }
+    
+    .element-best-colmn-form{
+        border: 2px solid #a5a5a5;
+        border-radius:5px;
+        margin-right:0vw;
+        height:auto;
+        padding-bottom: 3rem;
+        background-color: #efefef;
+        background-color: #ffffff;
+        margin-top: 1rem;
+        padding-top: 2rem;
+        padding-left:8vw;
+        padding-right:8vw;
+        margin-bottom: 2rem;
+    }
+    .nametext-label{
+        font-size: 1rem;
+        font-weight: 400;
+        font-family: sans-serif;
+        display: block;
+        margin-top: 0rem;
+    }
+    .seperate-label-mail{
+        margin-top: 0.5rem;
+    }
+    .nameinput{
+       height: 2.3rem;
+       border-radius: 5px;
+       border: 1px solid #777777;
+       display: block;
+       padding-left: 1vw;
+       padding-right: 1vw;
+       width: 100%;
+    }
+    .select_input{
+        border: 1px solid #777777;
+    }
+    .text-area{
+        height: 4rem;
+    }
+    .btn-submit{
+        margin-top: 1.3rem;
+        display: block;
+    }
+    .element-best-colmn-pinned{
+        border: 0px solid #000000;
+        margin-left: 3vw;
+        padding: 0;
+        padding-top: 0rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 2rem;
+        /* background-color: #dfdfdf; */
+    
+        
+    }
+    .btn-view-more{
+        border:0.1px #55bbff;
+        margin-top: 1rem;
+        border-style:outset;
+    }
+    .pinned-tail-text{
+        margin: 0;
+        text-align:justify;
+    }
+    .margin-tail-div-pinned{
+        padding: 0;
+        margin: 0;
+    }
+    .element-for-rsvp{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1rem;
+        height: auto;
+        padding-bottom: 2rem;
+    }
+    .text-base{
+        font-size: 1.3rem;
+        width: 90%;
+        display: block;
+    }
+    .element-row-rsvp{
+        border: 0px solid #000000;
+        height: auto;
+        margin-top: 2rem;
+        margin:0;
+        padding-left: 5vw;
+        padding-top:3rem;
+        padding-right: 5vw;
+        justify-content: center;
+        padding-bottom: 1rem;
+    }
+    .bor{
+        border: 2px solid #000000;
+    }
+    .comman-col-rsvp{
+        height: auto;
+        padding-top: 1vw;
+        /* border: 2px solid #000000; */
+
+        padding-bottom:1rem;
+        padding-left: 1vw;
+        padding-right: 1vw;
+    }
+    .column-for-rsvp-1{
+        padding-left: 1vw;
+       padding-right: 1vw;
+     
+    }
+    .inner-col-element-main-rsvp{
+        border: 1px solid #000000;
+        height:auto;
+        padding: 1vw;
+        border-radius: 5px;
+        padding-top: 2rem;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-bottom: 2rem;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+        background-size: 100% 100%;
+        background: #ffdce7;
+    
+    }
+    .element-for-image-rsvp{
+        height:25.1rem;
+        border: 0px solid #999999;
+        text-align: center;
+        padding: 0;
+        background-color: inherit;
+        justify-content: center;
+    }
+    .img-rsvp{
+        max-width: 100%;
+        height:25rem;
+        border-radius:6px ;
+    
+        /* overflow: hidden; */
+    }
+    .family-caption{
+        font-size: 1.3rem;
+        color:#555555;
+        font-weight:600;
+        word-spacing: 2px;
+        margin-top: 2rem;
+        text-align: center;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        /* text-transform: uppercase; */
+    }
+
+
+    .foot-element{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1.5rem;
+        height: 30rem;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        margin: 0;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+    
+        height:auto;
+        padding-bottom:2rem ;
+    }
+    .column-in-footer-1{
+        height: 11rem;
+        padding: 0;
+        border: 0px solid red;
+    }
+    .logo-element{
+        height:3rem;
+    }
+    .logo-element img{
+        height: 100%;
+        padding: 0;
+        margin-left: -0.8rem;
+        max-width: 100%;
+    }
+    .footer-text{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0.5rem;
+        margin-left: 0.4rem;
+    }
+    
+    .footer-text-two{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0rem;
+        margin-left: 1vw;
+    }
+    .black{
+        color:#000000;
+    }
+    .d-blue{
+        color: #02548a;
+    }
+    .footparttwo{
+        padding: 0;
+        padding-right: 8vw;
+        padding-bottom: 2rem;
+    }
+    .my-mt-2{
+        margin-top: 0rem;
+    }
+    .phone-mt{
+        margin-top: 1rem;
+    }
+    .my-mt-3{
+        margin-top: 1rem;
+    }
+    .call-btn{
+        width: 30%;
+        margin-left: 2vw;
+        font-size: 1rem;
+        margin-bottom:0rem ;
+
+    }
+    #a{
+        text-decoration: none;
+    }
+    .li-text{
+        font-size: 1.1rem;
+        margin-top: 0;
+        list-style-type: circle;
+        margin-left: 0rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid #02548a;
+        color:aliceblue;
+        font-weight: 500;
+    }
+    .atag{
+        width:auto;
+        height: auto;
+        padding: 0;
+        display: inline-block;
+        border: 0px solid #646464;
+    }
+    .li-text:hover{
+        text-decoration: underline #379eff;
+        cursor: pointer;
+    }
+    .ul{
+        list-style-type: disc;
+    
+    }
+    .social-media-icons-elements{
+        height: 4rem;
+        margin-top: 1.7rem;
+        padding: 0;
+    }
+    .icons-element{
+        height: 2rem;
+        width: 2rem;
+        padding: 0;
+        margin-left: 0.05rem;
+        margin-right: 0.05rem;
+        border: 0px solid salmon;
+        display: inline-block;
+    }
+    .icons-element img{
+      width: 100%;
+      max-height: 100%;
+    }
+    .footer-late{
+       height: auto;
+       padding: 0;
+       padding-top: 1rem;
+       padding-bottom: 1.3rem;
+       background-color: #8f0047cc;
+       text-align: center;
+       justify-content: center;
+    }
+    .late-foot-text{
+        font-size: 0.8rem;
+        color: aliceblue;
+        display: block;
+        margin-left: 5vw;
+        margin-right:5vw ;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    /* Copy css */
+
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        padding-left: 10vw;
+        padding-right: 10vw;
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .element-four-row{
+        border: 0px solid aliceblue;
+        margin: 0;
+        height:auto;
+        padding-left: 0vw;
+        padding-right: 0vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid aliceblue;
+        margin-left: 2vw;
+        
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+        margin-top: 10vw;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid aliceblue;
+        margin-top: 3vw;
+        margin-left: 0.2vw;
+        padding-bottom: 4vw;
+        padding: 0;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+
+        margin-left: 0.2vw;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid aliceblue;
+        padding-top:4vw;
+        padding-left: 3vw;
+        height: 15vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid aliceblue;
+        padding-top: 2vw;
+    }
+    .Contact-font{
+        height:auto;
+        border: 0px solid aliceblue;
+        text-align: left;
+        padding-right: 3vw;
+    }
+    
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid aliceblue;
+       margin-top: 4vw;
+       text-align: left;
+       padding-right: 1vw;
+
+    
+    }
+    .call-us-font{
+        font-size: 4vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .ft-call{
+        font-size: 4vw;
+     }
+    .contact-ecact-font{
+        font-size: 2vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 0px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 60vw;
+        margin-top: 5vw;
+        padding: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 70%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:15%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #ff0077;
+    border-bottom: 4px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.4rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #970158;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:650px){
+
+
+    /* .element-one-front-head-image-div{
+        border:0px solid #eeeeee;
+        width:99vw;
+        background-image:linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(../../site_image/wedding_info_six.jpg) ;
+        background-size:cover;
+        height:26rem;
+        padding-top: 3rem;
+    }
+    .overlap-element-division{
+        width: 100vw;
+        height:auto;
+        padding-bottom: 2rem;
+        border: 0px solid #999999;
+        box-shadow: 0px 2px 10px #777777;
+        margin-top: 0rem;
+        background-color: #fff;
+    }
+    
+    .comman-in-cols{
+       margin-bottom: 3rem;
+    }
+   .element-rotate-ensistor{
+       margin: 0;
+       height: auto;
+       border: 0px solid darkblue;
+       padding: 5vw;
+       
+    }
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        height:17rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:13rem;
+        transform: rotate(-10deg);
+        background-image: url(../../site_image/wedding_info_seven.jpg);
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+
+    .line{
+        display: none;
+    }
+
+ */
+
+
+
+
+/* start here */
+
+
+    .header{
+        height:auto;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        background-color: #ff719c;
+    }
+    .h1{
+        font-size: 1.4rem;
+        font-family: sans-serif;
+        color: aliceblue;
+        font-weight: 600;
+        margin: 0;
+    }
+    
+    .element-one-front-head{
+        height:auto;
+        padding: 0;
+        border: 0px solid #999999;
+        background-color: #222222;
+        padding-bottom: 0rem;
+    }
+    .null-div{
+       height: 30vw;
+    }
+    .element-one-front-head-image-div{
+        border:0px solid #eeeeee;
+        width:100%;
+        background-image:linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../../site_image/wedding_info_six.jpg) ;
+        background-size:cover;
+        height:auto;
+        padding-bottom: 6rem;
+        padding-top: 4.5rem;
+    }
+    .overlap-element-division{
+        width: 100%;
+        height: auto;
+        padding-bottom: 1rem;
+        border: 1px solid #999999;
+        box-shadow: 0px 2px 10px #777777;
+        margin-top: 0rem;
+        background-color: #fff;
+        padding-top: 3rem;
+        border-bottom: 0;
+        
+    }
+    
+    .seperate-class-heading1{
+       font-weight: 700;
+       margin-left: 3vw;
+       margin-right: 3vw;
+       text-transform: uppercase;
+    }
+    .program-row-element{
+        border:0px solid #ff0062;
+        margin: 0;
+        height:auto;
+        padding-left:0vw;
+        padding-right:0vw;
+        text-align: center;
+        justify-content: center;
+    }
+    .program-element-column-one{
+       margin-left: 1vw;
+       margin-right: 1vw;
+       border:1px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .program-element-column-two{
+       margin-left: 2vw;
+       margin-right:2vw;
+       border:1px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .program-element-column-three{
+       margin-left: 2vw;
+       margin-right:2vw;
+       border:0px solid #999999;
+       background-color: #e4e4e4;
+       border-radius: 5px;
+    }
+    .comman-in-cols{
+        padding-top: 2rem;
+        height:auto;
+        padding-bottom:1rem ;
+        margin-bottom: 2rem;
+       border:2px solid #ffbbbb;
+      overflow-x: hidden;
+        background-color: #ffecf2;
+    }
+    .ceromany-heading{
+        font-size: 2rem;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #424242;
+    }
+    .ceromany-date-heading{
+        font-size: 1.4rem;
+        color: #ff0062;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 2rem;
+    }
+    .Address-span{
+        color:#777777;
+        display: block;
+        margin-top: 2rem;
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        font-weight: 500;
+    }
+    
+    
+    .elements-of-front-head-couple-names{
+        font-size: 2.4rem;
+        color: #ffffff;
+        font-weight:600;
+        text-shadow: 0px 0px 0px #000000;
+        margin-bottom: 2rem;
+        margin-left: 1vw;
+        padding-right: 1vw;
+    }
+    .active-span-of-blue{
+        font-size:1rem;
+        color: #55bbff;
+        font-weight: 500;
+        text-shadow: 0px 0px 1px #71d7ff;
+    }
+    
+    .inactive-span-of-blue{
+        font-size: 1rem;
+        color: #f6f6f6;
+        font-weight: 500;
+    }
+    .element-startup-row{
+        margin: 0;
+        padding: 0;
+        border: 0px solid red;
+        height: auto;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+
+
+
+
+
+
+
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        height:17rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+
+    .element-rotate-ensistor{
+        margin: 0;
+        height: auto;
+        border: 0px solid darkblue;
+        padding: 5vw;
+        
+     }
+    .main-img{
+        border:0px solid red;
+        height:100%;
+        width:100%;
+      }
+      .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:13rem;
+        transform: rotate(-10deg);
+        padding: 0;
+        background-color: rgb(182, 182, 182);
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+
+    .element-for-text{
+        border: 0px solid darkblue;
+        height:auto;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        padding-left:0vw;
+        text-align: center;
+    
+    }
+    .seperate-span-1{
+        color:#646464;
+        display: block;
+        margin-top: 2rem;
+        margin-left: 5vw;
+        margin-right: 5vw;
+       margin-bottom: 3.5rem;
+    
+    }
+    .element-strip{
+        height: 3rem;
+        background-color: #ff719c;
+    }
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+
+
+
+
+    .couples-new-heading-element{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+    }
+    .inviting-text-row-element{
+        font-size: 1.2rem;
+        color: #777777;
+        display: block;
+        margin-top: 2rem;
+        text-align:center;
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+
+
+    .hr2{
+        margin-top:2rem;
+    }
+    .element-gallery-div{
+        border: 0px solid darkblue;
+        height: auto;
+        padding: 0;
+        margin-top:2rem;
+    
+    }
+    .for-heading-gallery{
+        font-size: 2.8rem;
+        color:#555555;
+        margin-top:2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+    }
+    .outer-element-for-slider{
+        /* width: 67vw; */
+        margin: 0;
+        border: 0px solid darkblue;
+        margin-top:2rem;
+        padding-top: 1rem;
+        padding-left: 4vw;
+        padding-right: 4vw;
+        padding-bottom: 1rem;
+        height: auto;
+        justify-content: center;
+        /* background-image: linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff,#ff0062); */
+    }
+    .comman-element-collections{
+        margin-left: 2vw;
+        margin-right: 2vw;
+        border: 5px solid #ff0062;
+        margin-bottom: 2.5rem;
+        height:13rem;
+        padding: 0;
+     
+    }
+    .img-collection{
+        width:100% ;
+        height:12.4rem;
+    }
+    .element-location{
+        padding: 0;
+        width:80vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffbcd5);
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .location-head{
+        color:aliceblue;
+    }
+    
+    
+    
+
+    .element-best-wishes{
+        height:auto;
+        padding-bottom: 1rem;
+        border: 0px solid #000000;
+        padding-top: 1rem;
+    }
+    .best-heading{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        font-weight: 500;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .best-wishes-element-row{
+        border: 0px solid #000000;
+        height: auto;
+        margin-top: 1rem;
+        margin:0;
+        padding-left: 0vw;
+        padding-top:1rem;
+        padding-right: 0vw;
+        justify-content: center;
+    }
+    .line{
+        width: 2px;
+        border: 0px solid #000000;
+        background-color: #9b9b9b;
+    }
+    
+    .element-best-colmn-form{
+        border: 2px solid #a5a5a5;
+        border-radius:5px;
+        margin-right:0vw;
+        height:auto;
+        padding-bottom: 3rem;
+        background-color: #efefef;
+        background-color: #ffffff;
+        margin-top: 1rem;
+        padding-top: 2rem;
+        padding-left:8vw;
+        padding-right:8vw;
+        margin-bottom: 2rem;
+    }
+    .nametext-label{
+        font-size: 1rem;
+        font-weight: 400;
+        font-family: sans-serif;
+        display: block;
+        margin-top: 0rem;
+    }
+    .seperate-label-mail{
+        margin-top: 0.5rem;
+    }
+    .nameinput{
+       height: 2.3rem;
+       border-radius: 5px;
+       border: 1px solid #777777;
+       display: block;
+       padding-left: 1vw;
+       padding-right: 1vw;
+       width: 100%;
+    }
+    .select_input{
+        border: 1px solid #777777;
+    }
+    .text-area{
+        height: 4rem;
+    }
+    .btn-submit{
+        margin-top: 1.3rem;
+        display: block;
+    }
+    .element-best-colmn-pinned{
+        border: 0px solid #000000;
+        margin-left: 3vw;
+        padding: 0;
+        padding-top: 0rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 2rem;
+        /* background-color: #dfdfdf; */
+    
+        
+    }
+    .btn-view-more{
+        border:0.1px #55bbff;
+        margin-top: 1rem;
+        border-style:outset;
+    }
+    .pinned-tail-text{
+        margin: 0;
+        text-align:justify;
+    }
+    .margin-tail-div-pinned{
+        padding: 0;
+        margin: 0;
+    }
+    .element-for-rsvp{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1rem;
+        height: auto;
+        padding-bottom: 2rem;
+    }
+    .text-base{
+        font-size: 1.3rem;
+        width: 90%;
+        display: block;
+    }
+    .element-row-rsvp{
+        border: 0px solid #000000;
+        height: auto;
+        margin-top: 2rem;
+        margin:0;
+        padding-left: 5vw;
+        padding-top:3rem;
+        padding-right: 5vw;
+        justify-content: center;
+        padding-bottom: 1rem;
+    }
+    .bor{
+        border: 2px solid #000000;
+    }
+    .comman-col-rsvp{
+        height: auto;
+        padding-top: 1vw;
+        /* border: 2px solid #000000; */
+
+        padding-bottom:1rem;
+        padding-left: 1vw;
+        padding-right: 1vw;
+    }
+    .column-for-rsvp-1{
+        padding-left: 1vw;
+       padding-right: 1vw;
+     
+    }
+    .inner-col-element-main-rsvp{
+        border: 1px solid #000000;
+        height:auto;
+        padding: 1vw;
+        border-radius: 5px;
+        padding-top: 2rem;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        padding-bottom: 2rem;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+        background-size: 100% 100%;
+        background: #ffdce7;
+    
+    }
+    .element-for-image-rsvp{
+        height:15.1rem;
+        border: 0px solid #999999;
+        text-align: center;
+        padding: 0;
+        background-color: inherit;
+        justify-content: center;
+    }
+    .img-rsvp{
+        max-width: 100%;
+        height:15rem;
+        border-radius:6px ;
+    
+        /* overflow: hidden; */
+    }
+    .family-caption{
+        font-size: 1.3rem;
+        color:#555555;
+        font-weight:600;
+        word-spacing: 2px;
+        margin-top: 2rem;
+        text-align: center;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        /* text-transform: uppercase; */
+    }
+
+
+    .foot-element{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1.5rem;
+        height: 30rem;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        margin: 0;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+    
+        height:auto;
+        padding-bottom:2rem ;
+    }
+    .column-in-footer-1{
+        height: 11rem;
+        padding: 0;
+        border: 0px solid red;
+    }
+    .logo-element{
+        height:3rem;
+    }
+    .logo-element img{
+        height: 100%;
+        padding: 0;
+        margin-left: -0.8rem;
+        max-width: 100%;
+    }
+    .footer-text{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0.5rem;
+        margin-left: 0.4rem;
+    }
+    
+    .footer-text-two{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0rem;
+        margin-left: 1vw;
+    }
+    .black{
+        color:#000000;
+    }
+    .d-blue{
+        color: #02548a;
+    }
+    .footparttwo{
+        padding: 0;
+        padding-right: 8vw;
+        padding-bottom: 2rem;
+    }
+    .my-mt-2{
+        margin-top: 0rem;
+    }
+    .phone-mt{
+        margin-top: 1rem;
+    }
+    .my-mt-3{
+        margin-top: 1rem;
+    }
+    .call-btn{
+        width: 30%;
+        margin-left: 2vw;
+        font-size: 1rem;
+        margin-bottom:0rem ;
+
+    }
+    #a{
+        text-decoration: none;
+    }
+    .li-text{
+        font-size: 1.1rem;
+        margin-top: 0;
+        list-style-type: circle;
+        margin-left: 0rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid #02548a;
+        color:aliceblue;
+        font-weight: 500;
+    }
+    .atag{
+        width:auto;
+        height: auto;
+        padding: 0;
+        display: inline-block;
+        border: 0px solid #646464;
+    }
+    .li-text:hover{
+        text-decoration: underline #379eff;
+        cursor: pointer;
+    }
+    .ul{
+        list-style-type: disc;
+    
+    }
+    .social-media-icons-elements{
+        height: 4rem;
+        margin-top: 1.7rem;
+        padding: 0;
+    }
+    .icons-element{
+        height: 2rem;
+        width: 2rem;
+        padding: 0;
+        margin-left: 0.05rem;
+        margin-right: 0.05rem;
+        border: 0px solid salmon;
+        display: inline-block;
+    }
+    .icons-element img{
+      width: 100%;
+      max-height: 100%;
+    }
+    .footer-late{
+       height: auto;
+       padding: 0;
+       padding-top: 1rem;
+       padding-bottom: 1.3rem;
+       background-color: #8f0047cc;
+       text-align: center;
+       justify-content: center;
+    }
+    .late-foot-text{
+        font-size: 0.8rem;
+        color: aliceblue;
+        display: block;
+        margin-left: 5vw;
+        margin-right:5vw ;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    /* Copy css */
+
+    .element-location{
+        padding: 0;
+        width:100vw;
+        border: 0px solid #000000;
+        margin-top: 3rem;
+        padding-top:1rem;
+        padding-bottom: 2rem;
+        background-image: linear-gradient(120deg,rgb(255, 0, 98,0.9),rgb(255, 203, 223,0.9),rgb(255, 207, 255,0.9),rgb(255, 0, 98,0.9)),url(../../site_image/flowers_one.jpg);
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../../site_image/flowers_one.jpg) ;
+        background-image: linear-gradient(120deg,#ff0062,#ffa7c9);
+        
+        height:auto;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    .element-four-row{
+        border: 0px solid aliceblue;
+        margin: 0;
+        height:auto;
+        padding-left: 0vw;
+        padding-right: 0vw;
+        padding-top: 1vw;
+        padding-bottom: 1vw;
+        
+    }
+    
+    .element-four-row-col-1 , .element-four-row-col-2{
+        border: 0px solid aliceblue;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        height: auto;
+    }
+    .element-four-row-col-2{
+        border:0px solid aliceblue;
+        padding: 0;
+        margin-top: 10vw;
+    }
+    .element-four-row-col-1-col-1{
+        height:auto;
+        border: 0px solid aliceblue;
+        margin-top: 3vw;
+        margin-left: 0.2vw;
+        padding-bottom: 4vw;
+        padding: 0;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    
+    .element-four-row-col-1-col-2{
+        height:auto;
+        padding: 0;
+        border: 0px solid aliceblue;
+        margin-top: 5vw;
+        padding-bottom: 2vw;
+
+        margin-left: 0.2vw;
+        background-color: rgba(255, 255, 255, 0.349);
+        border-radius: 1vw;
+    }
+    .element-four-lit-part-contact-img{
+        border: 0px solid aliceblue;
+        padding-top: 7vw;
+        padding-left: 3vw;
+        height: 30vw;
+    }
+    .element-four-lit-part-contact-img img{
+        width: 100%;
+        max-height: 100%;
+    }
+    
+    .element-four-lit-part-location-img img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .element-four-lit-part-location-img{
+        border: 0px solid aliceblue;
+        padding-top: 2vw;
+    }
+    .Contact-font{
+        height:auto;
+        border: 0px solid aliceblue;
+        text-align: left;
+        padding-right: 3vw;
+    }
+    
+    .Contact-number-font{
+        height:auto;
+        border: 0px solid aliceblue;
+       margin-top: 4vw;
+       text-align: left;
+       padding-right: 1vw;
+
+    
+    }
+    .call-us-font{
+        font-size: 6vw;
+        text-align: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .ft-call{
+        font-size: 7vw;
+     }
+    .contact-ecact-font{
+        font-size: 5vw;
+        color: #fff;
+        font-weight: 300;
+        font-weight: serif;
+    }
+    .element-iframe{
+        border: 0px solid rgb(134, 15, 170);
+        margin: 0;
+        height: 90vw;
+        margin-top: 5vw;
+        padding: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 95%;
+    opacity: 1;
+    max-height:90%;
+    overflow: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:2.5%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 2px solid #ff0077;
+    border-bottom: 2px solid #ff0077;
+
+}
+.invite-message{
+    font-size: 1.1rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 30%;
+    margin-top: 1.5rem;
+    background-color: #ff0062;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #970158;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+
+
+
+
+
+    
+}

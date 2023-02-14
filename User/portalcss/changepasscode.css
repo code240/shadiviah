@@ -1,0 +1,73 @@
+body{
+    padding-bottom: 0vw;
+}
+header{
+    height: auto;
+    background-color: #ff2b7c;
+    padding: 0;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight:bold;
+    color: aliceblue;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    text-transform: uppercase;
+}
+a{
+    color: aliceblue;
+    transition: 0.3s ease-in;
+
+}
+a:hover{
+    color:#b1d9ff;
+}
+h1{
+    font-size: 3vw;
+    margin-top: 3vw;
+    text-transform: uppercase;
+    width: 70vw;
+    font-weight: 700;
+    color: #888888;
+}
+.form_div{
+    border: 1px solid #666666;
+    width: 50vw;
+    height: auto;
+    margin-top: 3vw;
+    padding-bottom: 3vw;
+    background-color:  #ffffff;
+    border-radius: 0vw;
+    box-shadow: 2px 2px 20px #555555;
+}
+.input{
+    display: block;
+    margin-top: 3vw;
+    height: auto;
+    width: 33vw;
+    background-color: #e4e4e4;
+    font-size: 1.5vw;
+    padding-left: 1vw;
+    border: 1px solid #444444;
+    border-radius: 0.2vw;
+}
+.submit{
+    display: block;
+    margin-top: 2vw;
+    width: 33vw;
+    font-size: 1.5vw;
+    height: auto;
+    color:aliceblue;
+}
+
+
+/* CHANGE PHOTO PAGE CODING */
+
+.file_style{
+    width: 33vw;
+    font-size: 1.5vw;
+    margin-top: 8vw;
+    margin-bottom: 8vw;
+    border: 1px solid #1b1b1b;
+    display: block;
+    overflow: hidden;
+}

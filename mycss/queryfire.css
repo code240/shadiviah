@@ -1,0 +1,73 @@
+body{
+    background: rgb(0, 0, 0);
+}
+.hd{
+    color: aliceblue;
+}
+.querydiv{
+    width:60vw;
+    height:auto;
+    border: 1px solid rebeccapurple;
+    padding-bottom: 5vw;
+}
+.query_input{
+    display: block;
+    margin-top: 3vw;
+    width: 40vw;
+    height:5.5vw;
+    font-size: 1.6vw;
+    padding-left:1vw ;
+    border: 3px dotted #272727;
+    background-color: #5e5e5e;
+    color: aliceblue;
+    
+}
+.warning_span{
+    color:#ffc038;
+    display: block;
+    margin-top: 0.5vw;
+    font-size: 1.1vw;
+    width: 36vw;
+    height: auto;
+    margin-bottom: 2vw;
+}
+.Fire_btn{
+    display: block;
+    width: 20vw;
+    font-size: 1.5vw;
+    margin-top: 4vw;
+}
+.label_inputs{
+    color: aliceblue;
+    font-size: 1.6vw;
+}
+.supreme_input{
+    display: block;
+    margin-top: 2vw;
+    width: 30vw;
+    font-size: 1.6vw;
+    padding-left: 2vw;
+    border-radius: 1vw;
+    color: aliceblue;
+    background-color: #5e5e5e;
+}
+.danger_span{
+    margin-top: 2vw;
+    color: red;
+}
+.attributes_shower{
+    width:60vw;
+    height:auto;
+    border: 1px solid rebeccapurple;
+    padding-bottom: 5vw;
+    margin-top: 3vw;
+    padding: 0;
+    margin-bottom: 4vw;
+}
+.collapse_color_1{
+    background-color: #272727;
+}
+.answers{
+    background-color: #5e5e5e;
+    color: #bb9f51;
+}

@@ -1,0 +1,362 @@
+.alert2{
+    display: none;
+    padding: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1rem;
+    border-radius: 1rem;
+    font-size: verdana;
+    color: aliceblue;
+    background-color: rgb(37, 37, 37);
+    position: fixed;
+    width: 50%;
+    text-align: center;
+    top:2%;
+    left: 25%;
+
+}
+.our_card_div{
+    margin: 0;
+    height: auto;
+    text-align: center;
+    height: auto;
+    padding: 0;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.try_our_heading{
+    text-align: center;
+    font-size: 2.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 2vw;
+}
+.aware_for_use_text{
+    font-size: 1.2vw;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: black;
+    display: block;
+    width: 40vw;
+    text-align: center;
+}
+.our_btn{
+    width: 20vw;
+    margin-top: 3vw;
+    margin-bottom: 1vw;
+}
+.notice_span_new{
+    font-size: 1vw;
+}
+.scroll_div{
+    height: 45vw;
+    margin-top: 2vw;
+    border: 0px solid red;
+    padding-left: 2vw;
+    padding-top: 2vw;
+    padding-right: 2vw;
+    overflow-x: scroll;
+    overflow-y:hidden;
+}
+.mini_message_container_div{
+    height:auto;
+    border: 0px solid #ff058a;
+    width: 29vw;
+    display: inline-block;
+    margin-right: 2vw;
+    box-shadow: 5px 5px 30px #818181;
+    /* background:linear-gradient(rgb(255, 150, 206,0.8),rgb(255, 87, 174 ,0.8),rgb(255, 5, 138,0.8)),url(../site_image/wedding_info_one.jpg); */
+}
+.upperpart{
+    margin: 0;
+    padding: 0;
+    padding:1rem;
+    border: 0px solid seagreen;
+    height:24rem ;
+    overflow-y: auto; 
+    margin-bottom: 1rem;
+    
+}
+.messages{
+    font-size: 1.2rem;
+    word-wrap:break-word;
+}
+.link-color{
+    color:blue;
+}
+.lowerpart{
+    margin: 0;
+    padding: 0;
+    border: 0px solid seagreen;
+    height:4vw ; 
+    
+}
+.share_1{
+    height: 3vw;
+    width:21vw ;
+    border: 0px solid seagreen;
+
+}
+.share_2{
+    height: 3vw;
+    width:3vw ;
+    border: 0px solid seagreen;
+
+}
+.share_3{
+    height: 3vw;
+    width:3vw ;
+    border: 0px solid seagreen;
+
+}
+.share_2 img , .share_3 img {
+    width: 100%;
+    cursor: pointer;
+    height: 100%;
+}
+.url_main_div{
+    margin: 0;
+    padding: 0;
+    padding-top: 2vw;
+    height: auto;
+    padding-bottom:2vw;
+    border: 0px solid red;
+    margin-bottom: 3vw;
+}
+.url_div_heading{
+    text-align: center;
+    font-size: 2.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 2vw;
+}
+.url_saver{
+    width:50vw;
+    height:3.2vw;
+    border:2px solid rgb(122, 122, 122);
+    padding-top: 0.2vw;
+    padding-left: 1vw;
+    padding-right: 2vw;
+    font-size: 1.3vw;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor:pointer;
+}
+.url_copy_btn_div{
+    width: 10vw;
+    border: 0px solid firebrick;
+    height: 3.2vw;
+    background-color: #ff058a;
+    padding-top: 0.5vw;
+    font-size: 1.7vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 2vw;
+    color: aliceblue;
+}
+.copy_span{
+    font-size: 1.7vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+}
+.alert{
+    font-size: 1.7vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    padding-left: 12vw;
+    padding-right: 12vw;
+    height: auto;
+    background-color: #35a1ff;
+    width: 60vw;
+    border-radius: 1vw;
+    padding-top: 0.4vw;
+    padding-bottom:0.4vw;
+    
+    display: none;
+}
+.table_margin{
+    margin-bottom: 3vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+    .our_card_div{
+        margin: 0;
+        height: auto;
+        text-align: center;
+        height: auto;
+        padding: 0;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        border: 0px solid rebeccapurple;
+
+    }
+    .try_our_heading{
+        text-align: center;
+        font-size: 1.6rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: black;
+        margin-bottom: 1rem;
+    }
+    .aware_for_use_text{
+        font-size: 1rem;
+        font-weight: 500;
+        font-family: sans-serif;
+        color: black;
+        display: block;
+        width: 70vw;
+        color:rgb(255, 101, 101);
+        text-align: center;
+    }
+    .our_btn{
+        width: 70vw;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .notice_span_new{
+        font-size: 0.7rem;
+        color :red;
+        font-weight: 600;
+    }
+    .scroll_div{
+        height: auto;
+        margin-top: 2vw;
+        border: 0px solid red;
+        padding-left: 2vw;
+        padding-top: 1rem;
+        padding-right: 2vw;
+        padding-bottom: 1rem;
+        overflow-x: scroll;
+        overflow-y:hidden;
+    }
+    .mini_message_container_div{
+        height:auto;
+        border: 0px solid #ff058a;
+        width: 86vw;
+        display: inline-block;
+        margin-right: 2rem;
+        box-shadow: 3px 3px 10px #818181;
+        /* background:linear-gradient(rgb(255, 150, 206,0.8),rgb(255, 87, 174 ,0.8),rgb(255, 5, 138,0.8)),url(../site_image/wedding_info_one.jpg); */
+    }
+    .upperpart{
+        margin: 0;
+        padding: 1rem;
+        border: 0px solid seagreen;
+        height:20rem ; 
+        margin-bottom: 1rem;
+        overflow-y: auto;
+        
+    }
+    .lowerpart{
+        margin: 0;
+        padding: 0;
+        border: 0px solid seagreen;
+        height:4rem ; 
+
+    }
+    .share_1{
+        height: 3rem;
+        width:47vw ;
+        border: 0px solid seagreen;
+
+    
+    }
+    .share_2{
+        height: 3rem;
+        width:3rem ;
+        border: 0px solid seagreen;
+    }
+    .share_3{
+        height:3rem;
+        width:3rem ;
+        border: 0px solid seagreen;
+        
+    
+    }
+    .share_2 img , .share_3 img {
+        width: 100%;
+        height: 100%;
+    }
+    .url_main_div{
+        margin: 0;
+        padding: 0;
+        padding-top:2rem;
+        height: auto;
+        padding-bottom:2rem;
+        border: 0px solid red;
+        margin-bottom:0rem;
+    }
+    .url_div_heading{
+        text-align: center;
+        font-size: 1.6rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: black;
+        margin-bottom: 2rem;
+    }
+    .url_saver{
+        width:75vw;
+        height:auto;
+        border:2px solid rgb(122, 122, 122);
+        padding-top: 0.2rem;
+        padding-bottom: 0.2rem;
+        padding-left: 1vw;
+        padding-right: 2vw;
+        font-size: 1.3rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        cursor:pointer;
+    }
+    .url_copy_btn_div{
+        width: 20vw;
+        border: 0px solid firebrick;
+        height:auto;
+        background-color: #ff058a;
+        padding-top: 0.5vw;
+        font-size: 1.1rem;
+        padding-top: 0.5rem;
+        border-radius: 0.2rem;
+        padding-bottom: 0.5rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-left: 2vw;
+        color: aliceblue;
+    }
+    .copy_span{
+        font-size: 1.7vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+    }
+    .alert{
+        font-size: 1.7rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        padding-left: 12vw;
+        padding-right: 12vw;
+        height: auto;
+        background-color: #35a1ff;
+        width: 60vw;
+        border-radius: 1vw;
+        padding-top: 0.4vw;
+        padding-bottom:0.4vw;
+        
+        display: none;
+    }
+    .table_margin{
+        margin-bottom: 1rem;
+        border: 0px solid red;
+    }
+
+}

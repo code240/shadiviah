@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="site_image/love.png"/>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../bootcss/animate.css">
+    <link rel="stylesheet" href="../bootcss/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../bootcss/bootstrap.css"/>
+    <link rel="stylesheet" href="https://npmcdn.com/flickity@2/dist/flickity.css">
+    <!-- <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"> -->
+    <!-- <link rel="stylesheet" href="theme_css/main-css.css"> -->
+    <link rel="stylesheet" href="theme_css/ThemeEleven.css"/>
+
+    <title>Shadiviah-Theme</title>
+    <!-- <meta http-equiv="refresh" content="30"> -->
+    <style>
+        .crousel-element{
+            border: 1px solid red;
+            height: 37rem;
+        
+        }
+        .carousel-cell {
+            width: 30vw;
+            height: 200px;
+            margin-right: 10px;
+            background: #8C8;
+            border-radius: 5px;
+            counter-increment: gallery-cell;
+          }
+          
+          /* cell number */
+          .carousel-cell:before {
+            display: block;
+            text-align: center;
+            content: counter(gallery-cell);
+            line-height: 200px;
+            font-size: 80px;
+            color: white;
+          }
+          
+    </style>
+
+
+  </head>
+  <body>
+   
+   
+   
+   
+    <div class="crousel-element container-fluid">
+        <div class="carousel" data-flickity='{ "autoPlay": 1200 , "wrapAround": true}'>
+          <div class="carousel-cell"></div>
+          <div class="carousel-cell"></div>
+          <div class="carousel-cell"></div>
+          <div class="carousel-cell"></div>
+          <div class="carousel-cell"></div>
+        </div>
+        
+      </div>
+    
+   
+   
+   
+   
+   <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <script src="https://npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>
+  </body>
+</html> 

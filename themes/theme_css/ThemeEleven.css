@@ -1,0 +1,1916 @@
+.bor{
+    border: 1px solid #000000;
+}
+.bor2{
+    border: 2px solid #000000;
+}
+.bor3{
+    border: 4px solid #000000;
+}
+.bor4{
+    border: 6px solid #000000;
+}
+.zero{
+    padding: 0;
+    margin: 0;
+}
+.null{
+    
+    height: 30rem;
+}
+.zmh{
+    margin-left: 0;
+    margin-right: 0;
+}
+.header-top{
+    height:auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgba(5, 75, 136, 0.335);
+    margin-bottom: 4rem;
+    box-shadow:1px 1px 1xpx #010350;
+}
+.h1{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    margin: 0;
+}
+.element-header{
+   height:auto;
+   padding: 0;
+   box-shadow: 0px 4px 10px #333333;
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../../site_image/background-one.jpg);
+   background-image: linear-gradient(rgba(154, 169, 255, 0.6),rgba(82, 114, 218, 0.8)),url(../../site_image/background-ten.jpg);
+   background-image:linear-gradient(120deg,rgb(66, 133, 222,0.9),rgb(109, 160, 228,0.9),rgb(177, 211, 255,0.9)),url(../../site_image/background-ten.jpg);
+   /* background-image: linear-gradient(rgba(66,133,122,0.3),rgba(66,133,122,0.3)),url(../../site_image/background-one.jpg); */
+   padding-bottom: 9rem;
+   background-size: cover;
+   padding-top: 0rem;
+   
+}
+.icon-div{
+    width:8vw;
+    height:7rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+.ring-icon{
+    max-width:100%;
+    height: auto;
+}
+.span1{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform:capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    display: block;
+    margin-left: 2rem;
+    margin-right:18vw;
+
+}
+.couples-name{
+   font-size: 3rem;
+   font-weight: 500;
+   font-family: sans-serif;
+   /* font-style: oblique; */
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-transform: uppercase;
+   text-decoration: wavy;
+   text-shadow: 1px 1px 1px #000, 3px 3px 5px blue;
+   word-spacing: 0.5vw;
+   color: #ffffff;
+   margin-left: 5vw;
+   margin-right: 5vw;
+   -webkit-box-reflect: below 0px -webkit-gradient(linear, right top, right bottom, from(transparent), to(rgba(255, 255, 255, 0.164)));
+   -webkit-box-reflect: below 8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(40%, transparent), to(rgba(255, 255, 255, 0.1)));
+
+}
+.span-on{
+    color: #FFFA5F;
+   font-size: 2rem;
+   text-shadow:1px 1px 5px #FFFA5F;
+   margin-top: 4rem;
+   margin-top: 3rem;
+}
+.date-btn{
+    margin-left: 2rem;
+    margin-right:18vw;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    font-size: 2rem;
+    background-color: rgba(255, 255, 255, 0.412);
+    color: #0011ff;
+    border:2px solid #ffffff;
+    border-radius: 3vw;
+}
+.date-btn:hover{
+    color:#000044;
+    background-color: aliceblue;
+    box-shadow: 3px 3px 10px rgb(123, 114, 255);
+    
+}
+.zmh{
+    margin-left: 0;
+    margin-right: 0;
+}
+.element-to-overlap{
+    height:auto;
+    width: 80vw;
+    margin-top: -6rem;
+    padding: 0;
+}
+.row-element-in-overlap{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+.common-overlap-cols{
+    height: auto;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+}
+.overlap-cols-main-common{
+    height:20rem;
+    border-radius: 1vw;
+    background-color:#3d5061;
+   background:linear-gradient(120deg,#bddfff,#e2f2ff);
+   background: linear-gradient(rgb(181, 192, 255) ,rgb(157, 180, 255));
+
+    border: 2px solid #005cac;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    overflow-y:auto;
+}
+.Address-span{
+    color:#ffffff;
+    display: block;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    font-weight: 500;
+}
+.ceromany-heading{
+    font-size: 2rem;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.ceromany-date-heading{
+    font-size: 1.4rem;
+    color: #b3c5ff;
+    color: #23517c;
+    text-shadow: 1px 1px 6px #d2e9ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2rem;
+}
+.strip{
+    height: 2.5rem;
+    background: linear-gradient(120deg,#23517c,#6db0ee);
+   background:linear-gradient(120deg,#4285de,#6da0e4,#b1d3ff);
+
+    margin-top: 4rem;
+}
+
+
+
+/* copy css */
+.main-img{
+    border:0px solid red;
+    height:100%;
+    width:100%;
+  }
+.element-startup-row{
+    margin: 0;
+    padding: 0;
+    border: 0px solid red;
+    height: auto;
+    padding-left: 7vw;
+    padding-right: 7vw;
+}
+.elementtoberotate{
+   border: 0px solid darkblue;
+   height:29rem;
+   padding-top: 4rem;
+   background:linear-gradient(120deg,#4285de,#6da0e4,#b1d3ff);
+   border-radius: 3rem;
+   transform: rotate(30deg);
+}
+.element-rotate-ensistor{
+    margin: 0;
+    height: auto;
+    padding: 0;
+}
+.element-inner-rotative-div{
+    border: 0px solid darkblue;
+    height:21rem;
+    padding: 0;
+    transform: rotate(-30deg);
+    background-image:linear-gradient(120deg,rgba(32, 48, 62, 0.10),rgba(66, 94, 119, 0.15),rgba(160, 190, 214, 0.2)),url(../../site_image/wedding_info_seven.jpg);
+    background-size:100% 100%;
+    border-radius: 0.3rem;
+}
+
+.element-for-text{
+    border: 0px solid darkblue;
+    height:auto;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left:5vw;
+    text-align: center;
+
+}
+.seperate-span-1{
+    color:#4b4b4b;
+    display: block;
+    margin-top: 2rem;
+    margin-left: 15vw;
+    margin-right: 15vw;
+   margin-bottom: 3.5rem;
+
+}
+.element-strip{
+    height: 3rem;
+    background-color: #425e77;
+}
+.element-extraspace{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    background-color: #ffffff;
+    height:9rem;
+    border: 0px solid red;
+}
+.couples-new-heading-element{
+    font-size: 2.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.inviting-text-row-element{
+    font-size: 1.6rem;
+    color: #555555;
+    display: block;
+    margin-top: 2rem;
+    text-align: justify;
+}
+
+.hr1{
+    margin-top: 6rem;
+    margin-bottom: 0rem;
+    font-weight: 500;
+    background-color: #777777;
+    width: 80vw;
+    text-align: center;
+}
+
+/* copy css over */
+.gallery-element{
+    border: 0px solid salmon;
+    height:auto;
+    padding-bottom: 6rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    background-color: #e0fbff;
+    background-color: #ffffff;
+}
+.collection-font-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    color: #666666;
+    margin-bottom: 4rem;
+}
+.collection-rotating-element{
+    border: 0px solid #777777;
+    height:25rem;
+    width: 77vw;
+    transform: rotate(5deg);
+    border-radius: 2rem;
+    padding-right: 0;
+    margin-bottom: 3rem;
+    background-color: #4285de;
+    background-color: #21D1ED;
+    background-image: linear-gradient(120deg,#4285de,#7ab3fd,#21D1ED,#48e4fc);
+}
+.opp{
+  transform: rotate(-5deg);
+  background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+  background:linear-gradient(120deg,#B2EE66,#51CE77,#21BB7B);
+}
+.element-row{
+    border: 0px solid red;
+    height: 25rem;
+    padding-left: 2rem;
+    padding-right: rem;
+}
+.custom-col-1-for-img{
+    height: 25rem;
+    padding: 4rem;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.main-for-collections-img{
+    height:17rem;
+    border: 8px solid aliceblue;
+    padding: 0;
+}
+.img-collection{
+    width: 100%;
+    height:16.0rem;
+}
+.invitation-element{
+    border: 0px solid red;
+    height: auto;
+    padding-top: 2rem;
+    padding-bottom: 7rem;
+    background-image:linear-gradient(120deg,rgb(66, 133, 222,0.8),rgb(122, 179, 253,0.8),rgb(33, 209, 237,0.8),rgb(72, 228, 252,0.8)),url(../../site_image/flower_two.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.invite-heading{
+    font-size: 3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    
+}
+.invite-para{
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    display: block;
+    width: 70vw;
+    text-align: justify;
+    margin-top: 5rem;
+    color: aliceblue;
+    text-shadow: 2px 2px 4px #777777;
+}
+
+.location-element{
+    height:auto;
+    padding-bottom: 10rem;
+    padding-top: 2rem;
+}
+.track-heading{
+    font-size: 3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-bottom: 2rem;
+}
+.span-address{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+    color: #000044;
+    display: block;
+    margin-bottom: 10rem;
+}
+.location-rotating-elemnet{
+    height: 42rem;
+    border: 0px solid red;
+    width: 48vw;
+    padding-top: 3.6rem;
+    border-radius: 2rem;
+    transform: rotate(30deg);
+    background-color: #23517c;
+    background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+
+}
+
+.location-main{
+    height: 35rem;
+    border: 0px solid #1f1c1c;
+    width: 47vw;
+    padding: 0;
+    border-radius: 0rem;
+    transform: rotate(-30deg);
+
+}
+.element-iframe{
+    height: 35rem;
+    width: 47vw;
+    border-radius: 0rem;
+    margin: 0;
+    background-color: #48e4fc;
+    padding: 0;
+    border: 10px solid #22313E;
+    
+}
+.blessbook-element-result{
+    border:0px solid red;
+    height:auto;
+    background-size: cover;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    justify-content: center;
+}
+.bless-heading{
+    margin-bottom: 10rem;
+}
+.blessbook-row-element{
+    height:auto;
+    justify-content: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+}
+.commaon-b-book-col{
+   padding-left: 0.3rem;
+   padding-right: 0.3rem;
+   height: auto;
+}
+.main-b-book{
+    border:1px solid darkblue;
+    height: 23rem;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 1rem;
+    background-image: linear-gradient(120deg,#d0f9ff,#acf4ff,#88b2e9);
+   background:linear-gradient(120deg,#bddfff,#e2f2ff);
+   box-shadow:3px 3px 10px #444444;
+
+
+}
+.dp-1{
+    width:40%;
+    border:5px solid #808080;
+    height:7rem;
+    margin-top: -3.5rem;
+    border-radius: 5rem;
+    background-size: 100% 100%;
+    overflow: hidden;
+    padding: 0;
+    background-color: #21D1ED;
+}
+.dp-1 img{
+    width: 100%;
+    height:100%;
+}
+.blesser-name{
+    font-size: 1.2rem;
+    display:block;
+    margin-top: 0.4rem;
+    font-weight: 500;
+
+}
+.svg-blue-tick{
+    display: inline;
+}
+.para-bless-div{
+    border:0px solid red;
+    height:12rem;
+    padding:0;
+    overflow: auto;
+}
+.bless-text{
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #4d4d4d;
+    text-align:center;
+}
+
+
+/* copy css for form */
+
+
+.element-best-wishes{
+    height:auto;
+    padding-bottom: 1rem;
+    border: 0px solid #000000;
+    padding-top: 1rem;
+    margin-bottom: 7rem;
+
+}
+.best-heading{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.best-wishes-element-row{
+    border: 0px solid #000000;
+    height: auto;
+    margin-top: 2rem;
+    margin:0;
+    padding-left: 10vw;
+    padding-top:3rem;
+    padding-right: 10vw;
+    justify-content: center;
+}
+.line{
+    width: 2px;
+    border: 0px solid #000000;
+    background-color: #9b9b9b;
+}
+
+.element-best-colmn-form{
+    border: 2px solid #a5a5a5;
+    border-radius:5px;
+    margin-right:3vw;
+    height:auto;
+    padding-bottom: 3rem;
+    background-color: #efefef;
+    background-color: #ffffff;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right:4rem;
+   background:linear-gradient(120deg,#bddfff,#e2f2ff);
+
+}
+.nametext-label{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: sans-serif;
+    display: block;
+    margin-top: 0rem;
+}
+.seperate-label-mail{
+    margin-top: 0.5rem;
+}
+.nameinput{
+   height: 2.3rem;
+   border-radius: 5px;
+   border: 1px solid #777777;
+   display: block;
+   padding-left: 1vw;
+   padding-right: 1vw;
+   width: 100%;
+}
+.select_input{
+    border: 1px solid #777777;
+}
+.text-area{
+    height: 4rem;
+}
+.btn-submit{
+    margin-top: 1.3rem;
+    display: block;
+}
+.element-best-colmn-pinned{
+    border: 0px solid #000000;
+    margin-left: 3vw;
+    padding: 0;
+    padding-top: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    /* background-color: #dfdfdf; */
+
+    
+}
+.btn-view-more{
+    border:0.1px #55bbff;
+    margin-top: 1rem;
+    border-style:outset;
+}
+.pinned-tail-text{
+    margin: 0;
+    text-align:center;
+}
+.margin-tail-div-pinned{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* copy css over */
+
+/* Copy footer */
+
+
+.foot-element{
+    padding: 0;
+    border:0px solid #999999;
+    padding-top: 2rem;
+    height: 30rem;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin: 0;
+    background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+    background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+
+    height:auto;
+    padding-bottom:2rem ;
+}
+.footer-part-row{
+    padding: 0;
+    margin: 0;
+    border:0px solid red;
+}
+.column-in-footer-1{
+    height: 15rem;
+    padding: 0;
+}
+.logo-element{
+    height:5rem;
+}
+.logo-element img{
+    height: 100%;
+    max-width: 100%;
+}
+.footer-text{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 1vw;
+}
+
+.footer-text-two{
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    display: block;
+    margin-top: 0rem;
+    margin-left: 1vw;
+}
+.black{
+    color:#000000;
+}
+.d-blue{
+    color: #02548a;
+}
+.footparttwo{
+    padding-bottom: 2rem;
+}
+.my-mt-2{
+    margin-top: 1rem;
+}
+.my-mt-3{
+    margin-top: 3rem;
+}
+.call-btn{
+    width: 60%;
+    margin-left: 2vw;
+}
+#a{
+    text-decoration: none;
+}
+
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type: circle;
+    margin-left: 1.3rem;
+    display: inline-block;
+    width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+.ul{
+    list-style-type: disc;
+
+}
+.social-media-icons-elements{
+    height: 4rem;
+    margin-top: 1.7rem;
+    padding: 0;
+}
+.icons-element{
+    height: 2.7rem;
+    width: 2.7rem;
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    border: 0px solid salmon;
+    display: inline-block;
+}
+.icons-element img{
+  width: 100%;
+  max-height: 100%;
+}
+.footer-late{
+   height: auto;
+   padding: 0;
+   padding-top: 1.3rem;
+   padding-bottom: 1.5rem;
+   background-color: #324968;
+
+   text-align: center;
+   justify-content: center;
+}
+.late-foot-text{
+    font-size: 1rem;
+    color: aliceblue;
+    display: block;
+    margin-left: 5vw;
+    margin-right:5vw ;
+    
+}
+
+
+
+
+/* copy over */
+
+
+
+.rsvp-element-complete{
+    height: auto;
+    border-bottom: 2px solid #464646;
+    margin-bottom: 2rem;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+.rsvp-pic-row{
+    padding-left: 5vw;
+    padding-right: 5vw;
+    margin: 0;
+    justify-content: center;
+    height:auto;
+}
+.common-col-rsvp{
+    border: 0px solid rgb(34, 34, 34);
+    height: auto;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+.comman-main-rsvp-col{
+    border: 0px solid rgb(34, 34, 34);
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+.div-for-image{
+    border: 0px solid rgb(34, 34, 34);
+    border-top: 5px solid #324968;
+    border-bottom: 5px solid #324968;
+    height: auto;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.div-for-image{
+    width: 100%;
+    max-height: auto;
+}
+.family-name{
+    font-size: 1.3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    display: block; 
+    margin-top: 1rem;
+}
+.family-awaiting{
+    font-size: 3rem;
+    color: #4b4b4b;
+    display: block;
+    color: #000044;
+    margin-bottom: 5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+}
+
+
+
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 50%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:25%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #014297;
+    border-bottom: 4px solid #014297;
+
+}
+.invite-message{
+    font-size: 1.7rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    margin-top: 1.5rem;
+    border: 0;
+    background-color: #014297;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:30vw;
+    position: fixed;
+    bottom: 3%;
+    right: 1%;
+    background-color: #014297;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 0.5rem;
+    height: 2.7rem;
+    padding-bottom: 0.5rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 1rem;
+    display: block;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+    /* CSS START FOR ROTATE IMAGE STARTUP DIVS */
+
+    .element-rotate-ensistor{
+        margin: 0;
+        height: auto;
+        border: 0px solid darkblue;
+        padding: 5vw;
+        
+     }
+     .elementtoberotate{
+        border: 0px solid darkblue;
+        height:24rem;
+        padding-top: 1.8rem;
+        background:linear-gradient(120deg,#ff0062,#ffcbdf,#ffcfff);
+        background:linear-gradient(120deg,#20303E,#425e77,#a0bed6);
+      background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+      width: 70%;
+        border-radius: 3rem;
+        transform: rotate(10deg);
+     }
+     .element-inner-rotative-div{
+        border: 0px solid darkblue;
+        height:20rem;
+        transform: rotate(-10deg);
+        padding: 0;
+        background-size:100% 100%;
+        border-radius: 0.8rem;
+    }
+    
+    .element-for-text{
+        border: 0px solid darkblue;
+        height:auto;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        padding-left:0vw;
+        text-align: center;
+    
+    }
+    .couples-new-heading-element{
+        font-size: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+    }
+    .inviting-text-row-element{
+        font-size: 1.2rem;
+        color: #777777;
+        display: block;
+        margin-top: 2rem;
+        text-align:center;
+    }
+    .hr1{
+        margin-top: 0rem;
+        font-weight: 700;
+        background-color: #777777;
+        width: 80vw;
+        text-align: center;
+    }
+
+
+    .element-extraspace{
+        margin: 0;
+        padding: 0;
+        background-color: #f3f3f3;
+        background-color: #ffffff;
+        height:3rem;
+    
+    }
+    /* CSS OVER FOR ROTATE IMAGE STARTUP DIVS */
+   
+    .zmh{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .header-top{
+        height:auto;
+        margin-bottom: 2rem;
+        padding-top: 0.6rem;
+        padding-bottom: 0.6rem;
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom: 0px solid #0026ff;
+    }
+    .mt-my{
+        margin-top: 1rem;
+    }
+    .h1{
+        font-size: 1.4rem;
+        font-family: sans-serif;
+        color: aliceblue;
+        font-weight: 600;
+        margin: 0;
+        text-shadow: 1px 1px 1px #444444;
+    }
+    .element-header{
+       height:auto;
+       padding: 0;
+       padding-bottom: 6rem;
+       box-shadow: 0px 4px 10px #333333;
+       background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../../site_image/background-one.jpg);
+       background-image: linear-gradient(rgba(66,133,122,0.3),rgba(0,0,0,0.5)),url(../../site_image/background-one.jpg);
+       background-image: linear-gradient(rgba(130, 147, 243, 0.7),rgba(82, 114, 218, 0.8)),url(../../site_image/background-ten-mobi.jpg);
+   background-image:linear-gradient(120deg,rgba(0, 110, 255, 0.9),rgba(67, 149, 255, 0.9),rgba(157, 199, 255, 0.9)),url(../../site_image/background-ten-mobi.jpg);
+
+      background-attachment:fixed;
+       /* background-image: linear-gradient(rgba(66,133,122,0.3),rgba(66,133,122,0.3)),url(../../site_image/background-one.jpg); */
+    
+       background-size: cover;
+       padding-top: 0rem;
+       
+    }
+    
+    .icon-div{
+        width:7rem;
+        height:auto;
+        padding-bottom: 0.5rem;
+        margin-top: 4rem;
+        border: 0px solid red;
+    }
+    .ring-icon{
+        width:100%;
+        height: auto;
+    }
+    .span1{
+        font-size: 1.2rem;
+        font-weight: 500;
+        margin-bottom: 1.2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-transform:capitalize;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        word-spacing: 0.1vw;
+        color: #ffffff;
+        display: block;
+        margin-left: 2rem;
+        width: 80%;
+        margin-right:18vw;
+    
+    }
+    .couples-name{
+       font-size: 2.2rem;
+       font-weight: 500;
+       font-family: sans-serif;
+       /* font-style: oblique; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       text-transform: uppercase;
+       text-decoration: wavy;
+       text-shadow: 1px 1px 1px rgb(73, 73, 73), 3px 3px 5px rgb(87, 87, 87);
+       word-spacing: 0.5vw;
+       color: #ffffff;
+       margin-left: 5vw;
+       margin-right: 5vw;
+       -webkit-box-reflect: below 0px -webkit-gradient(linear, right top, right bottom, from(transparent), to(rgba(255, 255, 255, 0.164)));
+       -webkit-box-reflect: below 8px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(40%, transparent), to(rgba(255, 255, 255, 0.1)));
+    
+    }
+    .span-on{
+        color: #FFFA5F;
+       font-size: 1rem;
+       text-shadow:1px 1px 5px #FFFA5F;
+       margin-top: 2rem;
+    }
+    .date-btn{
+        padding-left: 8vw;
+        padding-right: 8vw;
+        font-size: 1.5rem;
+        background-color: inherit;
+        color: #ffffff;
+        background-color: rgb(255,255,255,0.3);
+        border:2px solid #ffffff;
+        border-radius: 15vw;
+    }
+    .date-btn:hover{
+        color:#000044;
+        background-color: aliceblue;
+        box-shadow: 3px 3px 10px rgb(123, 114, 255);
+        
+    }
+    .zmh{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .element-to-overlap{
+        height:auto;
+        width: 80vw;
+        margin-top: 3rem;
+        padding: 0;
+    }
+    .row-element-in-overlap{
+        padding: 0;
+        margin: 0;
+        height: auto;
+        padding-left: 1vw;
+
+        padding-right: 1vw;
+    }
+    .common-overlap-cols{
+        height: auto;
+        padding-left: 0.2rem;
+        padding-right: 0.2rem;
+        margin-bottom: 1rem;
+    }
+    .overlap-cols-main-common{
+        height:auto;
+        border: 2px solid red;
+  
+        border-radius: 2vw;
+        background-color:#3d5061;
+       background:linear-gradient(120deg,#bddfff,#e2f2ff);
+       background: linear-gradient(rgb(181, 192, 255) ,rgb(157, 180, 255));
+   background-image:linear-gradient(120deg,rgba(0, 110, 255, 0.9),rgba(67, 149, 255, 0.9),rgba(157, 199, 255, 0.9));
+   background-image: linear-gradient(120deg,#4285de,#7ab3fd,#21D1ED,#48e4fc);
+       
+        border: 1px solid #51a0e6;
+        text-align: center;
+        padding-top: 1.6rem;
+        padding-bottom: 2rem;
+        overflow-y:auto;
+    }
+    .Address-span{
+        color:#ffffff;
+        display: block;
+        margin-top: 2rem;
+        font-size: 1.2rem;
+        margin-left: 3vw;
+        margin-right: 3vw;
+        font-weight: 500;
+    }
+    .ceromany-heading{
+        font-size: 1.5rem;
+        margin-left: 2vw;
+        margin-right: 2vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+    }
+    .ceromany-date-heading{
+        font-size: 1.4rem;
+        color: #b3c5ff;
+        color: #23517c;
+        text-shadow: 1px 1px 6px #d2e9ff;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-top: 2rem;
+    }
+    
+    
+    .strip{
+        height: 2.5rem;
+        background: linear-gradient(120deg,#23517c,#6db0ee);
+        background-image: linear-gradient(120deg,#4285de,#7ab3fd,#21D1ED,#48e4fc);
+
+        margin-top: 2rem;
+    }
+
+    .gallery-element{
+        border: 0px solid salmon;
+        height:auto;
+        padding: 0;
+        padding-bottom: 6rem;
+        margin-top: 1rem;
+        padding-top: 1rem;
+        background-color: #e0fbff;
+        background-color: #ffffff;
+    }
+    .collection-font-heading{
+        font-size: 2.3rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        color: #666666;
+        margin-bottom: 2rem;
+    }
+    .collection-rotating-element{
+        border: 0px solid #777777;
+        height:auto;
+        padding:0;
+        width: 100%;
+        transform: rotate(0deg);
+        border-radius: 0rem;
+        padding-right: 0;
+        margin-bottom: 1rem;
+        background-color: #4285de;
+        background-color: #21D1ED;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        background-image: linear-gradient(120deg,#4285de,#7ab3fd,#21D1ED,#48e4fc);
+    }
+    .opp{
+      transform: rotate(0deg);
+      background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+      background:linear-gradient(120deg,#B2EE66,#51CE77,#21BB7B);
+    }
+    .element-row{
+        border: 0px solid red;
+        height: auto;
+        margin: 0;
+        justify-content: center;
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+    .custom-col-1-for-img{
+        height: auto;
+        padding: 0rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-left: 1vw;
+        margin-right: 1vw;
+        border: 0px solid red;
+
+    }
+    .main-for-collections-img{
+        height:17rem;
+        border: 8px solid aliceblue;
+        padding: 0;
+    }
+    .img-collection{
+        width: 100%;
+        height:16.0rem;
+    }
+
+
+    .invitation-element{
+        border: 0px solid red;
+        height: auto;
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+        background-image:linear-gradient(120deg,rgb(66, 133, 222,0.8),rgb(122, 179, 253,0.8),rgb(33, 209, 237,0.8),rgb(72, 228, 252,0.8)),url(../../site_image/flower_two.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .invite-heading{
+        font-size: 2.2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        margin-bottom: 0rem;
+        
+    }
+    .invite-para{
+        font-size: 1.3rem;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        display: block;
+        width:90%;
+        text-align: center;
+        margin-top: 2rem;
+        color: aliceblue;
+        text-shadow: 2px 2px 4px #777777;
+    }
+    
+    .location-element{
+        height:auto;
+        padding-bottom: 4rem;
+        padding-top: 2rem;
+    }
+    .track-heading{
+        font-size: 2.3rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        margin-bottom: 1rem;
+    }
+    .span-address{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 1.1rem;
+        color: #000044;
+        display: block;
+        width: 95%;
+        margin-bottom: 3rem;
+    }
+    .location-rotating-elemnet{
+        height: 28rem;
+        border: 0px solid red;
+        width: 80%;
+        padding: 0;
+        padding-top: 2rem;
+        border-radius: 2rem;
+        transform: rotate(5deg);
+        background-color: #23517c;
+        background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+    
+    }
+    
+    .location-main{
+        height:auto;
+        border: 0px solid #1f1c1c;
+        width: 90%;
+        margin: 0 auto;
+        padding: 0;
+        border-radius: 0rem;
+        transform: rotate(-5deg);
+    
+    }
+    .element-iframe{
+        height: 23rem;
+        width: 100%;
+        border-radius: 0rem;
+        margin: 0;
+        background-color: #48e4fc;
+        padding: 0;
+        border: 10px solid #22313E;
+        
+    }
+
+
+
+    .blessbook-element-result{
+        border:0px solid red;
+        height:auto;
+        background-size: cover;
+        padding: 0;
+        margin-top: 3rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        justify-content: center;
+    }
+    .bless-heading{
+        margin-bottom: 5rem;
+    }
+    .blessbook-row-element{
+        height:auto;
+        justify-content: center;
+        text-align: center;
+        margin: 0;
+
+        padding-left: 5vw;
+        padding-right: 5vw;
+    
+    }
+    .commaon-b-book-col{
+       padding-left: 0.3rem;
+       padding-right: 0.3rem;
+       border: 0px solid red;
+        padding-bottom: 20vw;
+       height: auto;
+    }
+    .main-b-book{
+        border:1px solid darkblue;
+        height: auto;
+        text-align: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        border-radius: 1rem;
+        padding-bottom: 1rem;
+        background-image: linear-gradient(120deg,#d0f9ff,#acf4ff,#88b2e9);
+       background:linear-gradient(120deg,#bddfff,#e2f2ff);
+       box-shadow:3px 3px 10px #444444;
+    
+    
+    }
+    .dp-1{
+        width:15vw;
+        border:5px solid #808080;
+        height:15vw;
+        margin-top: -3.5rem;
+        border-radius: 30rem;
+        background-size: 100% 100%;
+        overflow: hidden;
+        padding: 0;
+        background-color: #21D1ED;
+    }
+    .dp-1 img{
+        width: 100%;
+        height:100%;
+    }
+    .blesser-name{
+        font-size: 1.2rem;
+        display:block;
+        margin-top: 1rem;
+        font-weight: 500;
+    
+    }
+    .svg-blue-tick{
+        display: inline;
+    }
+    .para-bless-div{
+        border:0px solid red;
+        height:10rem;
+        padding:0;
+        overflow:auto;
+    }
+    .bless-text{
+        font-size: 1.1rem;
+        font-weight: 500;
+        color: #4d4d4d;
+        text-align:center;
+    }
+    
+    
+    /* copy css for form */
+    
+    
+    .element-best-wishes{
+        height:auto;
+        padding: 0;
+        padding-bottom: 1rem;
+        border: 0px solid #000000;
+        margin-top: -10vw;
+        padding-top: 0rem;
+        margin-bottom: 2rem;
+    
+    }
+    .best-heading{
+        font-size: 2.1rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #000000;
+        width: 94%;
+        font-weight: 500;
+        margin-top: 0rem;
+        margin-bottom: 1rem;
+    }
+    .best-wishes-element-row{
+        border: 0px solid #000000;
+        height: auto;
+        padding: 0;
+        margin-top: 2rem;
+        margin:0;
+        padding-left: 0vw;
+        padding-top:1rem;
+        padding-right:0vw;
+        justify-content: center;
+    }
+    .line{
+        width: 2px;
+        border: 0px solid #000000;
+        background-color: #9b9b9b;
+    }
+    
+    .element-best-colmn-form{
+        border: 1px solid #a5a5a5;
+        border-radius:5px;
+        margin-right:0vw;
+        height:auto;
+        width: 100%;
+        padding-bottom: 2rem;
+        background-color: #efefef;
+        background-color: #ffffff;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        padding-left:8vw;
+        padding-right:8vw;
+        background:linear-gradient(120deg,#bddfff,#e2f2ff);
+    
+    }
+    .nametext-label{
+        font-size: 1rem;
+        font-weight: 400;
+        font-family: sans-serif;
+        display: block;
+        margin-top: 0rem;
+    }
+    .seperate-label-mail{
+        margin-top:0.5rem;
+    }
+    .nameinput{
+       height: 2.3rem;
+       border-radius: 5px;
+       border: 1px solid #777777;
+       display: block;
+       padding-left: 1vw;
+       padding-right: 1vw;
+       width: 100%;
+    }
+    .select_input{
+        border: 1px solid #777777;
+    }
+    .text-area{
+        height: 4rem;
+    }
+    .btn-submit{
+        margin-top: 1rem;
+        display: block;
+    }
+    .element-best-colmn-pinned{
+        border: 0px solid #000000;
+        margin-left: 0vw;
+        padding: 0;
+        padding-top: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 2rem;
+        /* background-color: #dfdfdf; */
+    
+        
+    }
+    .btn-view-more{
+        border:0.1px #55bbff;
+        margin-top: 1rem;
+        border-style:outset;
+    }
+    .pinned-tail-text{
+        margin: 0;
+        text-align:center;
+    }
+    .margin-tail-div-pinned{
+        padding: 0;
+        margin: 0;
+    }
+    
+    
+    /* copy css over */
+    
+    /* Copy footer */
+    
+    
+    .foot-element{
+        padding: 0;
+        border:0px solid #999999;
+        padding-top: 1.5rem;
+        height: 30rem;
+        padding-left: 3vw;
+        padding-right: 3vw;
+        margin: 0;
+        background-image:linear-gradient(120deg,rgba(255, 30, 116, 0.904),rgba(255, 167, 201, 0.904)),url(../../site_image/flowers_one.jpg  );
+        background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+
+        height:auto;
+        padding-bottom:2rem ;
+    }
+    .column-in-footer-1{
+        height: 11rem;
+        padding: 0;
+        border: 0px solid red;
+    }
+    .logo-element{
+        height:3rem;
+    }
+    .logo-element img{
+        height: 100%;
+        padding: 0;
+        margin-left: -0.8rem;
+        max-width: 100%;
+    }
+    .footer-text{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0.5rem;
+        margin-left: 0.4rem;
+    }
+    
+    .footer-text-two{
+        font-size: 1.2rem;
+        font-weight: 500;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aliceblue;
+        display: block;
+        margin-top: 0rem;
+        margin-left: 1vw;
+    }
+    .black{
+        color:#000000;
+    }
+    .d-blue{
+        color: #02548a;
+    }
+    .footparttwo{
+        padding: 0;
+        padding-right: 8vw;
+        padding-bottom: 2rem;
+    }
+    .my-mt-2{
+        margin-top: 0rem;
+    }
+    .phone-mt{
+        margin-top: 1rem;
+    }
+    .my-mt-3{
+        margin-top: 1rem;
+    }
+    .call-btn{
+        width: 30%;
+        margin-left: 2vw;
+        font-size: 1rem;
+        margin-bottom:0rem ;
+
+    }
+    #a{
+        text-decoration: none;
+    }
+    .li-text{
+        font-size: 1.1rem;
+        margin-top: 0;
+        list-style-type: circle;
+        margin-left: 0rem;
+        display: inline-block;
+        width: auto;
+        border: 0px solid #02548a;
+        color:aliceblue;
+        font-weight: 500;
+    }
+    .atag{
+        width:auto;
+        height: auto;
+        padding: 0;
+        display: inline-block;
+        border: 0px solid #646464;
+    }
+    .li-text:hover{
+        text-decoration: underline #379eff;
+        cursor: pointer;
+    }
+    .ul{
+        list-style-type: disc;
+    
+    }
+    .social-media-icons-elements{
+        height: 4rem;
+        margin-top: 1.7rem;
+        padding: 0;
+    }
+    .icons-element{
+        height: 2rem;
+        width: 2rem;
+        padding: 0;
+        margin-left: 0.05rem;
+        margin-right: 0.05rem;
+        border: 0px solid salmon;
+        display: inline-block;
+    }
+    .icons-element img{
+      width: 100%;
+      max-height: 100%;
+    }
+    .footer-late{
+       height: auto;
+       padding: 0;
+       padding-top: 1rem;
+       padding-bottom: 1.3rem;
+       background-color: #8f0047cc;
+       background-color: #324968;
+
+       text-align: center;
+       justify-content: center;
+    }
+    .late-foot-text{
+        font-size: 0.8rem;
+        color: aliceblue;
+        display: block;
+        margin-left: 5vw;
+        margin-right:5vw ;
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* copy over */
+    
+    
+    
+    .rsvp-element-complete{
+        height: auto;
+        border-bottom: 1px solid #1f1f1f;
+        padding: 0;
+        margin-bottom: 2rem;
+        padding-bottom: 0rem;
+        padding-top: 1rem;
+    }
+    .rsvp-pic-row{
+        padding-left: 5vw;
+        padding-right: 5vw;
+        border: 0px solid #464646;
+
+        margin: 0;
+        justify-content: center;
+        height:auto;
+    }
+    .common-col-rsvp{
+        border: 0px solid rgb(34, 34, 34);
+        height: auto;
+        padding-left: 0.3rem;
+        padding-right: 0.3rem;
+    }
+    .comman-main-rsvp-col{
+        border: 1px solid rgb(34, 34, 34);
+        height: auto;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        background-color: aliceblue;
+        border-radius: 4px;
+    }
+    .div-for-image{
+        border: 0px solid rgb(34, 34, 34);
+        border-top: 5px solid #324968;
+        border-bottom: 5px solid #324968;
+        height: auto;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+    }
+    .div-for-image{
+        width: 100%;
+        max-height: auto;
+    }
+    .family-name{
+        font-size: 1.3rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 500;
+        text-align: center;
+        display: block; 
+        margin-top: 1rem;
+    }
+    .family-awaiting{
+        font-size: 2.1rem;
+        color: #4b4b4b;
+        display: block;
+        color: #000044;
+        margin-bottom: 2rem;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 600;
+    }
+    
+    
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 70%;
+    opacity: 1;
+    height: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:15%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 4px solid #014297;
+    border-bottom: 4px solid #014297;
+
+}
+.invite-message{
+    font-size: 1.4rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 20%;
+    border: 0;
+    margin-top: 1.5rem;
+    background-color: #014297;
+    margin-right: 2rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #014297;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+     
+}
+
+@media screen and (max-width:760px){
+    .dp-1{
+        width:28vw;
+        border:5px solid #808080;
+        height:28vw;
+        margin-top: -3.5rem;
+        border-radius: 30rem;
+        background-size: 100% 100%;
+        overflow: hidden;
+        padding: 0;
+        background-color: #21D1ED;
+    }
+    
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        width: 70%;
+         height: 17rem;
+     }
+     .element-inner-rotative-div{
+       height: 13rem; 
+    }
+    .ring-icon{
+        max-width:100%;
+        height: auto;
+    }
+
+}
+
+@media screen and (max-width:650px){
+  
+    
+/* Alert Div  */
+.alert-main{
+    background-color: #000000;
+    height: 100%;
+    position: fixed;
+    top:0;
+    background:rgba(219, 219, 219, 0.5);
+}
+.main-alert{
+    width: 95%;
+    opacity: 1;
+    max-height:90%;
+    overflow: auto;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius:0rem;
+    box-shadow: 0px 5px 10px #000000;
+    top:2% ;
+    left:2.5%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.inner-alert-1{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: 2px solid #014297;
+    border-bottom: 2px solid #014297;
+
+}
+.invite-message{
+    font-size: 1.1rem;
+    color: #333333;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.btn-accept{
+    display: block;
+    width: 30%;
+    margin-top: 1.5rem;
+    border: 0;
+    background-color: #014297;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    float: right;
+}
+/* Alert Div over */
+
+/* card to */
+.card-to-div{
+    max-width:60vw;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    height: 2rem;
+    overflow:auto ;
+    background-color: #014297;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    padding-top: 0.4rem;
+    padding-bottom: 0.3rem;
+    border-radius: 2rem;
+
+}
+.card-to{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+/* Card to */
+
+
+
+}
+
+@media screen and (max-width:500px){
+    .location-rotating-elemnet{
+        height: 20rem;
+        border: 0px solid red;
+        width: 80%;
+        padding: 0;
+        padding-top: 2rem;
+        border-radius: 2rem;
+        transform: rotate(5deg);
+        background-color: #23517c;
+        background-image: linear-gradient(120deg,#48e4fc,#21D1ED,#7ab3fd,#4285de);
+    
+    }
+    .element-iframe{
+        height: 17rem;
+        width: 100%;
+        border-radius: 0rem;
+        margin: 0;
+        background-color: #48e4fc;
+        padding: 0;
+        border: 10px solid #22313E;
+        
+    }
+
+}
+@media screen and (max-width:400px){
+    
+    .elementtoberotate{
+        border: 0px solid darkblue;
+        width: 100%;
+        height: 17rem;
+     }
+     .element-inner-rotative-div{
+       height: 13rem; 
+    }
+
+}

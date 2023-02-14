@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteRule ^Register-Wedding form-page-one.php [NC,L]
+RewriteRule ^Mediator-Access mediator-home.php [NC,L]
+RewriteRule ^Couple-Image form-page-two.php [NC,L]
+RewriteRule ^RSVP-Image form-page-three.php [NC,L]
+RewriteRule ^Registered readyall.php [NC,L]
+RewriteRule ^Change-Passcode changepasscode.php [NC,L]
+RewriteRule ^Change-Profile-picture changephoto.php [NC,L]
+RewriteRule ^View-Wedding View-Wedding.php [NC,L]

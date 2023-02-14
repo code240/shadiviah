@@ -1,0 +1,77 @@
+body{
+    /* background:linear-gradient(rgba(277,277, 277, 0.9),rgb(277,277,277,0.9),rgb(277,227,227,0.9)),url(../site_image/flowers_one.jpg); */
+    padding: 0;
+    margin: 0;
+}
+.maindiv_for_help{
+    border: 0;
+    background-color:inherit;
+    padding-top: 0;
+    box-shadow:0px 0px 0px #ffffff;
+}
+.pannel_heading{
+    margin-bottom: 2vw;
+}
+.pannel_form_div{
+    padding: 0vw;
+    border: 0px solid rebeccapurple;
+    height: auto;
+    width: 45vw;
+    padding-bottom: 2vw;
+
+}
+.register_h6{
+    font-size: 2vw;
+    color: rgb(59, 59, 59);
+    font-family: 'Times New Roman', Times, serif;
+}
+.inner-form-div{
+    padding: 0vw;
+    border: 0px solid rebeccapurple;
+    height: auto;
+    padding-bottom:4vw;
+    padding-top: 1vw;
+    margin-top: 2vw;
+    width: 38.1vw;
+    /* padding-right: 2vw; */
+    box-shadow:3px 3px  20px  #4e4e4e;
+    margin-left: 4vw;
+    /* background:linear-gradient(rgba(255, 0, 98, 0.5),rgb(255, 0, 157,0.5),rgb(255, 0, 212,0.5)),url(../site_image/flowers_one.jpg); */
+    /* background: #ffffff; */
+}
+.attributes_input_label{
+    display: block;
+    font-size: 1.4vw;
+    font-family:sans-serif;
+    font-weight: 700;
+    margin-left: 3vw;
+    color: #727272;
+    /* color: aliceblue; */
+    margin-top: 3vw;
+}
+.adminname_input{
+    display: block;
+    width: 30vw;
+    font-size: 1.6vw;
+    margin-left: 4vw;
+    margin-top: 1vw;
+}
+.submit_admin_login{
+    margin-top: 3vw;
+    display: block;
+    width: 30vw;
+    margin-left: 3vw;
+    font-size: 1.5vw;
+}
+.btn_more{
+    margin-top: 1.5vw;
+    display: block;
+    width: 30vw;
+    margin-left: 3vw;
+    font-size: 1.5vw; 
+}
+.image_input{
+    width:30vw;
+    border: 1px solid #000000;
+    overflow: hidden;
+}

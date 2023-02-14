@@ -1,0 +1,213 @@
+
+header{
+    height: auto;
+    background-color: #ff2b7c;
+    padding: 0;
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight:bold;
+    color: aliceblue;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    text-transform: uppercase;
+    margin-bottom: 3vw;
+}
+a{
+    color: aliceblue;
+    transition: 0.3s ease-in;
+
+}
+
+.wedding-code-div{
+    width:60vw;
+    height:15vw;
+    margin-top: 5vw;
+    box-shadow: 3px 3px 30px #666666;
+    border-radius: 2vw;
+    padding-top: 2vw;
+    background-color:#f5f5f5 ;
+    height: auto;
+    padding-bottom: 3vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-bottom: 7vw;
+}
+.h1_tag{
+    text-align: center;
+    font-size: 3vw;
+    text-transform: uppercase;
+    word-spacing: 1.5vw;
+    letter-spacing: 0.3vw;
+}
+.copied{
+    font-size: 1.8vw;
+    display: block;
+    position: fixed;
+    top:10%;
+    opacity: 0.9;
+    left:30vw;
+    text-align: center;
+    background-color: #5e5e5e;
+    color: aliceblue;
+    font-weight: 700;
+    height: 4vw;
+    border-radius: 1vw;
+    padding-top: 0.8vw;
+    font-family: sans-serif;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 40vw;
+    display: none;
+}
+h3{
+    font-size: 2.5vw;
+    color:#ff008c;
+    margin-bottom: 1vw;
+    /* width: 25vw; */
+    display: block;
+    text-align: center;
+}
+.link-h3{
+    font-size: 1.4vw;
+}
+.copy-btn{
+    display: block;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.bulb-text{
+    display: block;
+    margin-top: 1vw;
+    font-size: 1.2vw;
+    
+}
+.qr-code-show{
+    width:fit-content;
+    height:auto;
+    border: 1px solid #999999;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    /* overflow: scroll; */
+}
+.btnhome{
+    display: block;
+    width: 50vw;
+    font-size: 1.6vw;
+    color: aliceblue;
+    font-weight: 600;
+    
+}
+
+
+
+
+@media screen and (max-width:750px){
+   
+header{
+    height: auto;
+    background-color: #ff2b7c;
+    padding: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight:bold;
+    color: aliceblue;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    margin-bottom: 3vw;
+}
+a{
+    color: aliceblue;
+    transition: 0.3s ease-in;
+
+}
+
+.wedding-code-div{
+    width:100%;
+    height:auto;
+    margin-top: 5vw;
+    box-shadow: 3px 3px 10px #666666;
+    border-radius: 0vw;
+    padding-top: 2rem;
+    background-color:#ffffff ;
+    height: auto;
+    padding-bottom: 2rem;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-bottom:2rem;
+}
+.h1_tag{
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+    word-spacing: 0vw;
+    letter-spacing: 0.3vw;
+}
+.copied{
+    font-size: 1.3rem;
+    display: block;
+    position: fixed;
+    top:10%;
+    opacity: 0.9;
+    left:30vw;
+    text-align: center;
+    background-color: #5e5e5e;
+    color: aliceblue;
+    font-weight: 700;
+    height: auto;
+    border-radius: 1vw;
+    padding-top: 0.5rem;
+    font-family: sans-serif;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 0.5rem;
+    width: fit-content;
+    display: none;
+}
+h3{
+    font-size: 1.6rem;
+    color:#ff008c;
+    margin-bottom: 1.2rem;
+    /* width: 25vw; */
+    display: block;
+    text-align: center;
+}
+.link-h3{
+    font-size: 1.2rem;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-right:1rem;
+    padding-left: 2rem;
+    overflow-x: auto;
+}
+.copy-btn{
+    display: block;
+    width: 70%;
+    margin-bottom: 1rem;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.bulb-text{
+    display: block;
+    margin-top: 1rem;
+    font-size: 1rem;
+    
+}
+.qr-code-show{
+    width:fit-content;
+    height:auto;
+    border: 1px solid #999999;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    /* overflow: scroll; */
+}
+.btnhome{
+    display: block;
+    width: 60%;
+    font-size: 1.2rem;
+    color: aliceblue;
+    font-weight: 600;
+    
+}
+}

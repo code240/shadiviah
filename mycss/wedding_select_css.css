@@ -1,0 +1,63 @@
+.btn_create{
+    width: 25vw;
+    height: 2.9vw;
+    display: block;
+    margin-top: 2vw;
+    font-size: 1.3vw;
+}
+.checkbox_div{
+    margin-top: 2vw;
+    border: 0px solid red;
+    
+}
+.checkbox_label{
+    font-size: 1.3vw;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: 1vw;
+}
+.checkbox{
+   width: 1.5vw;
+   height: 1.5vw;
+}
+
+@media screen and (max-width:1000px){
+    .btn_create{
+        width: 70%;
+        height: auto;
+        display: block;
+        margin-top: 2vw;
+        font-size: 1rem;
+    }
+    .input_code{
+        padding-left:2vw;
+        padding-top:0.6vw;
+        border-radius: 1vw;
+        font-size: 1.2rem;
+        color: #777;
+        padding-bottom: 0.6vw;
+    }
+    ::placeholder{
+        color: #b9b9b9;
+    }
+    .checkbox_div{
+        margin-top: 1rem;
+        border: 0px solid red;
+        margin-bottom: 2rem;
+    }
+    .checkbox_label{
+        font-size: 1rem;
+        margin-top: 0.2rem;
+        font-family: sans-serif;
+        font-weight: 500;
+        color: aliceblue;
+        margin-left: 4vw;
+    }
+    .checkbox{
+       width: 1.2rem;
+       height: 1.2rem;
+       
+    }
+    
+}

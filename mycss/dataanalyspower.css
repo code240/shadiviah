@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    background:linear-gradient(rgb(255,255,255,1),rgb(255,255,255,1)),url(https://miro.medium.com/max/1074/1*-ZBb-KYdnQtrd8ZJ_6GLGA.png);
+
+}
+.top_term{
+    margin-bottom: 1vw;
+}
+.div_4_background_image{
+    width: 80vw;
+    height:10vw;
+    border:2px solid #000000;
+    padding: 0.5vw;
+}
+.img_analys{
+    width: 100%;
+    height: 100%;
+}
+.img_analys_mobi{
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+.data_heading{
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-bottom:2vw ;
+}
+
+.div_for_table{
+    border:0px solid #000000;
+    height: auto;
+    width: 80vw;
+    padding: 0;
+    margin-top: 2vw;
+    padding-bottom: 5vw;
+}
+.back-btn-div{
+    border: 0px solid silver;
+    height: auto;
+    width: 30vw;
+    padding: 0;
+}
+.back_btn{
+    font-size: 1.6vw;
+    text-transform: capitalize;
+}

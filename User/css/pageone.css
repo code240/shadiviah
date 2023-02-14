@@ -1,0 +1,384 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.null{
+    height: 35rem;
+}
+.bor{
+    border: 1px solid #414141;
+}
+.bor-r{
+    border: 1px solid red;
+}
+body{
+    background-color: #eeeeee;
+}
+h6{
+    color: #ffffff;
+}
+
+.header{
+    border:0px solid red;
+    height: auto;
+    background-size: cover;
+    box-shadow: 5px 5px 20px #000000;
+}
+.mid-slide{
+    height: auto;
+    padding: 0;
+}
+.slider-main{
+    height: 50rem;
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url(../images/Couple-running-on-beach.jpg);
+   background-size: cover;
+}
+.slider-main-2{
+    height: 50rem;
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.6)),url(../images/shadiviah-ewgegegevdf.jpg);
+   background-size: cover;
+}
+.slider-main-3{
+    height: 50rem;
+    background-image: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../images/shadiviah-iortjknksegvse.jpg);
+   background-size: cover;
+}
+.slider-main-4{
+    height: 50rem;
+    background-image: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url(../images/shadiviah-wefwefwe.jpg);
+   background-size: cover;
+}
+.top-strip{
+    height: auto;
+    color: aliceblue;
+    background-color: crimson;
+    background-color: inherit;
+    background-color: rgb(255,255,255,0.2);
+    background-color: rgb(0,0,0,0.3);
+    padding-top:0.7rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.header-span{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: aliceblue;
+    transition: 0.7s ease;
+}
+.div-for-front-face-1{
+   border: 0px solid #000;
+   margin-top: 8rem;
+   padding-left: 3vw;
+   padding-right: 5vw;
+}
+.h1-face{
+    font-size: 5rem;
+    width: 70%;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 10px #000000;
+    color: #f3f3f3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div-lower-head{
+    border: 0px solid #000;
+    margin-top: 2rem;
+    padding-left:  3vw;
+    padding-right: 5vw;
+}
+.h2-face{
+    font-size: 2.5rem;
+    width: 70%;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ff0040;
+    text-shadow: 1px 1px 10px #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form-main-element{
+    border: 0px solid red;
+    padding-top: 3rem;
+    /* background: linear-gradient(rgba(183, 128, 255, 0.8),rgba(195, 106, 255, 0.8)),url(../../site_image/wedding_info_four.jpg); */
+    padding-bottom: 5rem;
+    background-size:100% 100%;
+}
+.h3-login{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    margin-top: 3rem;
+    word-spacing: 10px;
+    font-weight: 600;
+}
+
+.form-div{
+    border: 0px solid #333333;
+    padding:0;
+    width: 60vw;
+    height: 30rem;
+    padding-top: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: -10px 10px 500px #525252;
+}
+.form-h6{
+    font-size: 2.4rem;
+    margin-top: 1rem;
+    color: #383838;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+/* css for form */
+ 
+ 
+  
+
+    .input-group-prepend span{
+    background-color: #FFC312;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border:0 !important;
+    border-radius: 0;
+    }
+    
+    input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+    
+    }
+    
+
+/* css over  */
+
+
+
+.input-phonenumber-div{
+    width: 60%;
+    margin-top: 3rem;
+}
+.login{
+    display: block;
+    margin-top: 3rem;
+    width: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+
+.footer_1{
+    margin:0;
+    padding: 0;
+    height:35vw;
+    background-color: rgb(163, 0, 0);
+    border-top:0px solid #888;
+    background:linear-gradient(rgba(3, 3, 3, 0.9),rgba(65, 65, 65, 0.9)),url(../../site_image/flower_two.jpg) ;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.main_in_footer{
+    margin:0;
+    padding:0;
+    height:35vw;
+}
+.footer_1_col_1{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+}
+.footer_1_col_2{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+}
+.footer_1_col_3{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding-right: 3vw;
+    padding-left: 2vw;
+}
+.foot_div_1_top{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:12.5vw;
+    padding: 1vw;
+    padding-top: 2vw;
+}
+.logo_div{
+    width:8vw;
+    height:8vw;
+    border: 0px solid #555555;
+}
+.img_div{
+    width:17vw;
+    height:8vw;
+    border: 0px solid #555555;
+    background-image: url(../../site_image/shadi_viah_logo.png);
+    background-size: 72% 72%;
+    background-repeat: no-repeat;
+}
+.img_div img {
+    max-width: 100%;
+    height:70%;
+    display:none;
+}
+.logo_div img {
+    max-width: 100%;
+    height:100%;
+}
+.foot_div_1_mid{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:8vw;
+}
+.foot_div_1_low{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:14.5vw;
+}
+.follow_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.contact_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.icon_one{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+    margin-left: 1.3vw;
+}
+.icon_two{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+
+}
+.icon_three{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_four{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_two img , .icon_one img ,.icon_three img , .icon_four img{
+    max-width:100% ;
+    height: 100%;
+}
+.contact_info_ptag{
+    font-size: 1.3vw;
+    margin-left: 1vw;
+    color: aliceblue;
+    font-family: consolas;
+}
+.About_us_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.p_tag_foot_about_para{
+    font-size: 1.3vw;
+    text-align: justify;
+    color:#eeeeee;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.instant_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.other_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+li{
+    font-size: 1.4vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:#eeeeee;
+}
+.footer_2{
+    margin:0;
+    padding: 0;
+    height:6vw;
+    background-color: rgb(34, 34, 34);
+    padding-top: 1.4vw;
+}
+.copyright_text{
+    font-size: 1.2vw;
+    color:#f5f5f5;
+    justify-content: center;
+}
+.cpyryt_symbol{
+    font-size: 1.2vw;
+}
+.option_div_mobi{
+    display: none;
+}
+
+/* ########################### */

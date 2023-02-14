@@ -1,0 +1,2953 @@
+.null{ /* its a nul div*/
+  margin: 0;
+  padding: 0;
+  height: 45vw;
+  background-color: #fff;
+}
+.header_phone{
+  display: none;  
+}
+a{
+    text-decoration: none;
+
+}
+
+
+body{
+    margin:0;
+    padding: 0;
+}
+body{
+    
+    background:linear-gradient(rgba(16, 125, 179,0.4),rgba(16, 125, 179,0.4));
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #fff;
+}
+.top{
+    margin: 0;
+    height: 2rem;
+    background-color:  #c21e50;
+    /* background-color: #000; */
+}
+.header{
+  margin: 0;
+  padding: 0;
+  background-color:#eeeeee;
+  height:auto;
+  -webkit-box-shadow: 0 8px 6px -6px #888888;
+  -moz-box-shadow: 0 8px 6px -6px #888888;
+     box-shadow: 0 8px 6px -6px #888888;
+}
+.header-div-row{
+    margin: 0;
+
+    height:auto;
+    padding: 0;
+    padding-left:4vw;
+}
+.header-row-col-1{
+    margin-top: 1vw;
+    height:7vw;
+
+}
+.header-row-col-1 img{
+    height:80%;
+    width:50%;
+
+
+}
+.header-row-col-2{
+    height:auto;
+    padding:0;
+    padding-top: 0.3vw;
+    border: 0px solid rgb(102, 75, 75);
+
+
+}
+/* navigation start */
+.options{
+    height: auto;
+    background-color:#eeeeee;
+    padding-top:6px;
+    border: 0px solid rgb(102, 75, 75);
+
+}   
+.option2{
+    height: auto;
+    border: 0px solid black;
+    padding-top:0px;
+   background-color: #eeeeee; 
+
+} 
+.bgpink{
+border:0;
+background-color: #eeeeee;
+border: 0px solid rgb(102, 75, 75);
+
+}
+#magic-nav-text{
+    display: none;
+    
+}
+.pinkbg{
+    background-color: #eeeeee;
+    height: auto;   
+   margin-left: 12vw;
+   border: 0px solid rgb(102, 75, 75);
+    
+     
+}
+.clrwhite{
+  columns: #000000;
+  color: #000000;
+
+}
+.clrwhite:hover{
+color:#c21e50;
+}
+.buttons{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    color:#ffffff;
+}
+/* ############################# */
+.btn1{
+    border-top: 5px solid #c21e50;
+    
+}
+.btn1:hover{
+    border: 0;
+}
+.navlisthover{
+    color: #000000;
+    transition: 0.2s ease;
+    text-transform: uppercase;
+    font-size: 1.3vw;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.navlisthover:hover{
+    /* background-color: #ff5e8e; */
+    color:#ffffff;  
+border-top: 5px solid #c21e50;
+    
+}
+/* ####################################### */
+/* navigation close */
+
+.background_image_container{
+    height:42vw;
+    margin:0;
+    padding: 0;
+    border: 0px solid #000;
+    background:linear-gradient(rgba(51, 51, 51, 0.2),rgba(0, 0, 0, 0.3)),url(../site_image/wedding_info_three.jpg) ;
+    /* background:linear-gradient(rgba(253, 27, 114, 0.6),rgba(253, 17, 115, 0.7)),url(../site_image/wedding_info_two.jpg) ; */
+
+    background-size: 120%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 7vw;
+}
+.heading_div{
+    height:8vw;
+    width:85vw;
+    border:0px solid #000;
+    /* background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)); */
+    color:#fff;
+    padding: 0;
+}
+.h1-tag{
+    animation:heartBeat; 
+    animation-duration: 3s; 
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 4vw;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-shadow: 1px 2px 2px #000;
+    
+}
+
+.short_description{
+   width:50vw;
+   height:auto;
+    padding-top: 0vw;
+    background:linear-gradient(rgba(51, 51, 51, 0.7),rgba(0, 0, 0, 0.8));
+    border: 0px solid #eeeeee;
+    padding: 3vw;
+    padding-left:3vw;
+    padding-right:3vw;
+
+}
+.span_text{
+    font-size: 4vw;
+    color:rgb(255, 0, 76);
+    text-shadow: 1px 3px 3px #fff;
+}
+.p_tag_short_description{
+    animation:flipInY; 
+    animation-duration: 3s; 
+    color:rgb(246, 12, 83);
+    text-transform: uppercase;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #fff;
+}
+
+.strip_one{
+   height:3.5vw;
+   background-color: #c21e50;
+}
+
+.about_us_coulmn_homepage{
+    height:auto;
+    padding: 0;
+    padding-top:4vw;
+    padding-bottom: 7vw;
+}
+.row_div{
+    margin: 0;
+    height:auto;
+    justify-content: center;
+    border:0px solid red;
+}
+.row_part_one{
+height:40vw;
+border:0px solid red;
+padding-left:2vw ;
+}
+.row_part_one img{
+    max-width:100%;
+    height:100%;
+}
+.row_part_two{
+    border:0px solid red;
+}
+.span_tag_one , .span_tag_two{
+    color:#000000;
+    font-size: 4vw;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.span_tag_two{
+    color:#c21e50;
+}
+.about_para_div{
+    height:auto;
+    margin-top:3vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    border:0px solid red;
+    text-align:justify;
+}
+.para_about{
+    font-size: 1.65vw;
+    color:#000;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+}
+.readmore_btn{
+    width: 15vw;
+    height: 3.5vw;
+    font-size: 1.8vw;
+    margin-left: 4.5vw;
+    margin-top: 1vw;
+}
+
+/* ######################### */
+.get_in_touch_div{
+    height:auto;
+    background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../site_image/flowers_one.jpg) ;
+    background:linear-gradient(rgba(255, 92, 160, 0.9),rgba(255, 77, 136, 0.9)),url(../site_image/flowers_one.jpg) ;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 4vw;
+    padding-top: 2vw;
+    padding-left: 6vw;
+    padding-bottom:6vw;
+}
+h6{
+    font-size: 3vw;
+    color:#fff;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.inputname{
+    width:25vw;
+    height:3vw;
+    border:0;
+    border-radius: 2px;
+    margin-top: 3vw;
+    font-size: 1.5vw;
+
+}
+.inputemail{
+    width:25vw;
+    height:3vw;
+    border:0;
+    border-radius: 2px;
+    font-size: 1.5vw;
+    margin-top: 3vw;
+}
+.query_message{
+    width:25vw;
+    height:5vw;
+    border:0;
+    font-size: 1.5vw;
+
+    border-radius: 2px;
+    margin-top: 3vw;
+
+}
+
+.form_label_one{
+    font-size: 3vw;
+    margin-top: 3vw;
+}
+
+
+.form_label_two{
+    font-size: 3vw;
+    margin-top: 3vw;
+}
+
+.form_label_three{
+    font-size: 3vw;
+    margin-top: 3vw;
+}
+
+.submit_btn{
+    width:25vw;
+    height:3.2vw;
+    margin-top: 2vw;
+    margin-left: 20.5vw;
+    font-size: 1.5vw;
+}
+
+/* ########################### */
+.theme_div{
+    height:auto;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 7vw;
+}
+.themes_h2_tag{
+    margin-top:3.5vw;
+    font-size:3vw;
+    text-transform:capitalize;
+    font-family: 'Lora',verdana;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 700;
+}
+.theme_main_box{
+    margin: 0;
+    padding: 0;
+    margin-top: 5vw;
+    border:0px solid red;
+    height:auto;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    justify-content: center;
+}
+.theme_main_box_below{
+    margin: 0;
+    padding: 0;
+    margin-top:5vw;
+    border:0px solid red;
+    height:auto;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    justify-content: center;
+}
+
+.theme_one,.theme_two,.theme_three,.theme_four,.theme_five,.theme_six{
+    margin:0;
+    padding: 0;
+}
+.theme_one{
+   margin:0;
+   padding: 0;
+   padding-left: 1vw;
+   padding-top: 1vw;
+   border:0px solid pink;
+   height:12vw;
+   border-radius: 20px;
+   background-color: #f86390;
+   transition: 0.5s ease-in-out;
+   background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../site_image/wedding_info_five.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   /* background-attachment: fixed; */
+}
+
+.theme_two{
+    margin:0;
+    padding: 0;
+    padding-left: 1vw;
+   padding-top: 1vw;
+    border:0px solid pink;
+    height:12vw;
+    margin-left:5vw;
+    border-radius: 20px;
+    transition: 0.5s ease-in-out;
+    background-color: rgb(188, 99, 248);
+    background:linear-gradient(rgba(188, 99, 248, 0.8),rgba(188, 99, 248, 0.8)),url(../site_image/wedding_info_five.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+
+ }
+ 
+ .theme_three{
+    margin:0;
+    padding: 0;
+    padding-left: 1vw;
+   padding-top: 1vw;
+    border:0px solid pink;
+    height:12vw;
+    margin-left:5vw;
+    transition: 0.5s ease-in-out;
+    border-radius: 20px;
+    background-color: rgb(253, 4, 4);
+    background:linear-gradient(rgba(253, 4, 4,0.8),rgba(253, 4, 4, 0.8)),url(../site_image/wedding_info_five.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+ }
+
+
+.theme_four{
+   margin:0;
+   padding: 0;
+   padding-left: 1vw;
+   padding-top: 1vw;
+   border:0px solid pink;
+   height:12vw;
+   border-radius: 20px;
+   transition: 0.5s ease-in-out;
+   background-color: rgb(99, 169, 248);
+   background:linear-gradient(rgba(99, 169, 248, 0.8),rgba(99, 169, 248, 0.8)),url(../site_image/wedding_info_five.jpg);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   /* background-attachment: fixed; */
+}
+
+.theme_five{
+    margin:0;
+    padding: 0;
+    padding-left: 1vw;
+   padding-top: 1vw;
+    border:0px solid pink;
+    height:12vw;
+    margin-left:5vw;
+    border-radius: 20px;
+    transition: 0.5s ease-in-out;
+    background-color: rgb(61, 253, 157);
+    background:linear-gradient(rgba(61, 253, 157, 0.8),rgba(61, 253, 157, 0.8)),url(../site_image/wedding_info_five.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+ }
+
+ .theme_six{
+    margin:0;
+    padding: 0;
+    padding-left: 1vw;
+   padding-top: 1vw;
+    border:0px solid pink;
+    height:12vw;
+    margin-left:5vw;
+    transition: 0.5s ease-in-out;
+    border-radius: 20px;
+    background-color: #f86390;
+    background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../site_image/wedding_info_five.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+ }
+
+ .theme_name_1{
+    color:#ffffff;
+    text-transform: capitalize;
+    font-size: 3vw;
+    font-weight: 700;
+    text-shadow: 2px 2px 2px #333333;
+}
+
+.theme_name_1{
+    color:#ffffff;
+    text-transform: capitalize;
+    font-size: 3vw;
+    font-weight: 700;
+    text-shadow: 2px 2px 2px #333333;
+}
+.theme_name_2{
+   color:#ffffff;
+   text-transform: capitalize;
+   font-size: 3vw;
+   font-weight: 700;
+   text-shadow: 2px 2px 2px #333333;
+}
+.theme_name_3{
+   color:#ffffff;
+   text-transform: capitalize;
+   font-size: 3vw;
+   font-weight: 700;
+   text-shadow: 2px 2px 2px #333333;
+}
+.theme_name_4{
+   color:#ffffff;
+   text-transform: capitalize;
+   font-size: 3vw;
+   font-weight: 700;
+   text-shadow: 2px 2px 2px #333333;
+}
+
+.theme_name_5{
+    color:#ffffff;
+    text-transform: capitalize;
+    font-size: 3vw;
+    font-weight: 700;
+    text-shadow: 2px 2px 2px #333333;
+}
+.theme_name_6{
+   color:#ffffff;
+   text-transform: capitalize;
+   font-size: 3vw;
+   font-weight: 700;
+   text-shadow: 2px 2px 2px #333333;
+}
+
+
+
+.theme_one:hover{
+    box-shadow: 10px 10px 30px rgb(253, 49, 117);
+}
+.theme_two:hover{
+    box-shadow: 10px 10px 30px rgb(188, 99, 248);
+}
+.theme_three:hover{
+    box-shadow: 10px 10px 30px rgb(253, 4, 4);
+}
+.theme_four:hover{
+    box-shadow: 10px 10px 30px rgb(99, 169, 248);
+}
+.theme_five:hover{
+    box-shadow: 10px 10px 30px rgb(61, 253, 157);
+}
+
+
+
+
+
+
+.view_more_theme{
+    height:auto;
+    border:0px solid red;
+    margin: 0;
+    padding: 0;
+    margin-top: 4.5vw;
+    width:40vw;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:1.4vw;
+    padding-top: 0.4vw;
+    background-color:#c21e50;
+    color:aliceblue;
+    font-weight: 600;
+    border-radius:1vw;
+    font-family: 'Times New Roman', Times, serif;
+    transition: 0.3s ease;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+}
+.view_more_theme:hover{
+    background-color: #d82c60;
+    text-decoration: none;
+}
+
+/* ##################################### */
+.are_you_register_div{
+    margin: 0;
+    padding: 0;
+    padding-top: 3.5vw;
+    height: auto;
+    padding-bottom: 6vw;
+    justify-content: center;
+    background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../site_image/flower_two.jpg) ;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.registered_heading{
+    font-size:3.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:aliceblue;
+    margin-bottom: 2vw;
+}
+.if_registered_text{
+    font-size: 1.5vw;
+    color:aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.create_links_btn{
+    margin-top: 3vw;
+    width:40vw;
+    height:3.5vw;
+    font-size:1.5vw;
+    border-radius: 1vw;
+}
+.what_different{
+    height:auto;
+    margin:0;
+    padding: 0;
+    padding-top: 5vw;
+    padding-bottom: 6vw;
+}
+.h5_of_differnt{
+    font-size: 4vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(68, 72, 75);
+}
+.different_main_div{
+    margin: 0;
+    padding: 0;
+    margin-top: 4vw;
+    height:auto;
+    border:0px solid #c21e50;
+    padding-left: 6vw;
+    padding-bottom: 0.5vw;
+    padding-top: 0.5vw;
+    padding-right: 0.5vw;
+}
+.img_col_diff{
+    margin: 0;
+    padding: 0;
+    border:0px solid salmon;
+    height:40vw;
+    padding-right: 0vw;
+    padding-bottom: 4vw;
+    padding-top: 2vw;
+    padding-left: 5vw;
+    justify-content: center;
+}
+.img_col_diff img{
+    max-width:110%;
+    height:110%;
+}
+.data_col_diff{
+    margin: 0;
+    padding: 0;
+    border:0px solid salmon;
+    height:45vw;
+}
+.data_row_one{
+    margin: 0;
+    padding: 0;
+    height:13vw;
+    border:0px solid darkcyan
+}
+.data_row_two{
+    margin: 0;
+    padding: 0;
+    height:14vw;
+    border:0px solid darkcyan;
+    margin-top:2vw;
+}
+.data_row_three{
+    margin: 0;
+    padding: 0;
+    height:14vw;
+    border:0px solid rgb(42, 0, 139);
+    margin-top: 2vw;
+}
+.complex_row_one{
+    padding: 0;
+    margin: 0;
+    height:13vw;
+    border:0px solid rgb(42, 0, 139);
+    padding-right: 7vw;
+}
+.complex_row_two{
+    padding: 0;
+    margin: 0;
+    height:14vw;
+    border:0px solid rgb(42, 0, 139);
+    padding-right: 7vw;
+
+}
+.complex_row_three{
+    padding: 0;
+    margin: 0;
+    height:14vw;
+    border:0px solid rgb(42, 0, 139);
+    padding-right: 7vw;
+
+}
+
+.complex_row_one_col_one{
+    margin: 0;
+    height: 13vw;
+    padding: 0;
+    border:0px solid salmon;
+    padding-left: 1vw;
+
+ }
+.complex_row_one_col_two{
+   margin: 0;
+   height: 13vw;
+   padding: 0;
+   border:0px solid salmon;
+   padding-left: 2vw;
+   padding-top: 0.5vw;
+   padding-right: 2vw;
+}
+
+.complex_row_two_col_one{
+    margin: 0;
+    height: 14vw;
+    border:1px solid #555555;
+    border-radius: 10px;
+    padding: 0;
+    border-radius: 3px;
+    padding-top:0.4vw;
+    padding-left: 0.1vw;
+    background-color: #f5f5f5;
+ }
+
+.complex_row_two_col_two{
+    margin: 0;
+    height: 14vw;
+    padding: 0;
+    border:1px solid #555555;
+    border-radius: 3px;
+    padding: top 0.3vw;
+    padding-left: 0.1vw;
+    padding-top:0.4vw;
+    padding-left: 0.1vw;
+    background-color: #f5f5f5;
+ }
+ .complex_row_two_col_two:hover , .complex_row_two_col_one:hover , .complex_row_three_col_one:hover , .complex_row_three_col_two:hover{
+     border:1px solid #fd5f8e;
+ }
+
+ .complex_row_three_col_one{
+    margin: 0;
+    height: 14vw;
+    padding: 0;
+    border:1px solid #555555;
+    border-radius: 3px;
+    padding: top 0.3vw;
+    padding-top:0.4vw;
+    padding-left: 0.1vw;
+    background-color: #f5f5f5;
+ }
+ .complex_row_three_col_two{
+     margin: 0;
+     height: 14vw;
+     padding: 0;
+    border:1px solid #555555;
+    border-radius: 3px;
+    padding: top 0.3vw;
+    padding-top:0.4vw;
+    padding-left: 0.1vw;
+    background-color: #f5f5f5;
+  }
+ 
+.complex_heading_h2{
+    font-size: 2.4vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+}
+.complex_p_tag_one{
+    font-size: 1.2vw;
+    color:#555555;
+    text-align: justify;
+}
+.pro_complex_row_1{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+.pro_complex_row_2{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+.pro_complex_row_3{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+.pro_complex_row_4{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+.pro_ultra_img_one{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+    justify-content:center;
+    padding-left: 0.8vw;
+}
+.pro_ultra_img_one img{
+    max-width:100%;
+    height:100%;
+}
+.pro_ultra_heading_one{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+    padding-top:0.3vw;
+}
+
+
+
+.pro_ultra_img_two{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+    justify-content:center;
+    padding-left: 0.8vw;
+}
+.pro_ultra_img_two img{
+    max-width:100%;
+    height:100%;
+}
+.pro_ultra_heading_two{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+
+
+
+.pro_ultra_img_three{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+    justify-content:center;
+    padding-left: 0.8vw;
+}
+.pro_ultra_img_three img{
+    max-width:100%;
+    height:100%;
+}
+.pro_ultra_heading_three{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+
+
+
+.pro_ultra_img_four{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+    justify-content:center;
+    padding-left: 0.8vw;
+}
+.pro_ultra_img_four img{
+    max-width:100%;
+    height:100%;
+}
+.pro_ultra_heading_four{
+    margin:0;
+    padding: 0;
+    height:4vw;
+    border:0px solid rebeccapurple;
+}
+
+.complex_h6_1{
+    font-size: 2vw;
+    font-family:sans-serif;
+    font-weight: bold;
+    margin-left: 1vw;
+}
+.complex_description_1{
+    font-size: 1.1vw;
+    font-family: sans-serif;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    color: #555555;
+    text-align:justify;
+}
+.complex_description_2{
+    font-size: 1.1vw;
+    font-family: sans-serif;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    color: #555555;
+    text-align:justify;
+}
+.complex_description_3{
+    font-size: 1.1vw;
+    font-family: sans-serif;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    color: #555555;
+    text-align:justify;
+}
+.complex_description_4{
+    font-size: 1.1vw;
+    font-family: sans-serif;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    color: #555555;
+    text-align:justify;
+}
+/* ###################### */
+/* footer */
+
+
+.footer_1{
+    margin:0;
+    padding: 0;
+    height:auto;
+    padding-bottom: 2vw;
+    background-color: rgb(163, 0, 0);
+    border-top:0px solid #888;
+    background:linear-gradient(rgba(255, 92, 160, 0.9),rgba(255, 77, 136, 0.9)),url(../site_image/flower_two.jpg) ;
+    /* background: rgb(254, 109, 137); */
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type:none;
+    text-align: left;
+	display: inline-block;
+    margin-left: -1vw;
+	width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+
+
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+.main_in_footer{
+    margin:0;
+    padding:0;
+    height:35vw;
+}
+.footer_1_col_1{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+}
+.footer_1_col_2{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+}
+.footer_1_col_3{
+    margin:0;
+    padding:0;
+    border:0px solid #eeeeee;
+    padding-right: 3vw;
+    padding-left: 2vw;
+}
+.foot_div_1_top{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:12.5vw;
+    padding: 1vw;
+    padding-top: 2vw;
+}
+.logo_div{
+    width:8vw;
+    height:8vw;
+    border: 0px solid #555555;
+}
+.img_div{
+    width:17vw;
+    height:8vw;
+    border: 0px solid #555555;
+}
+.img_div img {
+    max-width: 100%;
+    height:70%;
+}
+.logo_div img {
+    max-width: 100%;
+    height:100%;
+}
+.foot_div_1_mid{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:8vw;
+}
+.foot_div_1_low{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:14.5vw;
+}
+.follow_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.contact_us_h6{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.icon_one{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+    margin-left: 1.3vw;
+}
+.icon_two{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+
+}
+.icon_three{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_four{
+    margin: 0;
+    padding: 0;
+    width: 3vw;
+    height: 3vw;
+    border: 0px solid #888888;
+}
+.icon_two img , .icon_one img ,.icon_three img , .icon_four img{
+    max-width:100% ;
+    height: 100%;
+}
+.contact_info_ptag{
+    font-size: 1.3vw;
+    margin-left: 1vw;
+    color: aliceblue;
+    font-family: consolas;
+}
+.About_us_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.p_tag_foot_about_para{
+    font-size: 1.3vw;
+    text-align: justify;
+    color:#eeeeee;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.instant_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.other_h6_footer{
+    font-size: 2.3vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+li{
+    font-size: 1.4vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:#eeeeee;
+}
+.footer_2{
+    margin:0;
+    padding: 0;
+    height:auto;
+    padding-bottom:1rem;
+    background-color: rgb(206, 0, 96);
+    padding-top: 1.4vw;
+}
+.copyright_text{
+    font-size: 1.2vw;
+    color:#f5f5f5;
+    justify-content: center;
+}
+.cpyryt_symbol{
+    font-size: 1.2vw;
+}
+.option_div_mobi{
+    display: none;
+}
+
+/* ########################### */
+
+.mediator_div{
+    margin: 0;
+    padding:0;
+    height: auto;
+    padding-bottom: 6vw;
+    border: 0px solid red;
+}
+.mediator_heading{
+    margin-top:4vw;
+    font-size: 4vw;
+    font-weight: 500;
+    color: #535353;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.digital_span{
+    text-align: center;
+    font-size: 1vw;
+    font-weight:500;
+    color: red;
+    width: 40vw;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.more_mediator_btn{
+    display: block;
+    font-size: 1.5vw;
+    width: 30vw;
+    margin-top: 6vw;
+
+}
+
+
+.mediator_row_div{
+   border: 0px solid red;
+   margin: 0;
+   padding: 0;
+   height: auto;
+   margin-top: 2vw;
+   justify-content: center;
+   padding-bottom: 2vw;
+}
+.main_mediator_div{
+    height: 25vw;
+    border: 0px solid rebeccapurple;
+    margin-top: 5vw;
+    margin-right: 2vw;
+    padding-top: 2vw;
+    margin-left: 2vw;
+    box-shadow: 3px 3px 20px #666666;
+    padding-left: 2vw;
+}
+.dp_and_name_div{
+    margin: 0;
+    padding: 0;
+    height: 6vw;
+    border: 0px solid rgb(206, 157, 255);
+    
+}
+.for_dp_mediator{
+    margin: 0;
+    padding: 0;
+    
+    height: 6vw;
+    border: 0px solid darkblue;
+}
+.for_dp_mediator img{
+    width: 100%;
+    height: 100%;
+    border-radius: 3vw;
+}
+.row_for_name_dp{
+    padding: 0;
+    margin: 0;
+    
+}
+.for_name_mediator{
+    margin: 0;
+    padding: 0;
+    border: 0px solid forestgreen;
+    height: 6vw;
+    padding-top: 1.3vw;
+    padding-left: 1.5vw;
+    
+}
+.mediator_name_span{
+    font-size: 1.8vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color:#c21e50;
+    text-transform: capitalize;
+}
+.mediator_extra_data_div{
+    border: 0px solid salmon;
+    margin-top: 2vw;
+    height: 10vw;
+    padding: 0;
+}
+.bold_attriute_of_mediator_span{
+    font-weight: 600;
+    font-family: Verdana;
+    font-size: 1.1vw;
+    color:#d82c60
+}
+.answer_of_mediator_span{
+    font-weight:500;
+    text-align: center;
+}
+.call_btn_div{
+    border: 0px solid salmon;
+    height: 3vw;
+    padding: 0;
+    padding-left: 1vw;
+    padding-right:1vw;
+}
+.call_btn{
+    font-size: 1.3vw;
+}
+.upcoming_weddings_div{
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0px solid #4e2f2f;
+    padding-bottom: 7vw;
+}
+.upcoming_heading{
+    font-size: 3vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 4vw;
+}
+.wedding_card_lap{
+    width: 80vw;
+    height: auto;
+    padding: 0;
+    border: 0px solid darkcyan;
+    margin-top: 3vw;
+    background-color: #ffffff;
+    border-radius: 2vw;
+    box-shadow: 2px 2px 20px #777777;
+}
+.wedding_card_row_lap{
+    margin: 0;
+    padding: 0;
+    border: 0px solid rgb(172, 255, 255);
+
+}
+.image_card_lap{
+    height:30vw;
+    border: 0px solid seagreen;
+    margin: 0;
+    padding: 2.5vw;
+}
+.image_card_lap img{
+    width: 100%;
+    max-height: 100%;
+    border-radius: 2vw;
+}
+.text-card-lap{
+    padding: 0;
+    margin: 0;
+    height: auto;
+    padding-top: 2vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.best-wishes-heading-lap{
+    font-size: 2.6vw;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family:  sans-serif;
+
+}
+.wedding_date_lap{
+    margin-top: 2vw;
+}
+.view_wedding_btn_lap{
+    font-size: 1.5vw;
+    margin-top: 5vw;
+    width: 30vw;
+}
+
+/* ########### */
+
+.wedding_card_mobi{
+    width:40vw;
+    height:45vw;
+    border: 0px solid red;
+    margin-top: 2vw;
+    padding: 2vw;
+    box-shadow: 2px 2px 20px #777777;
+    display: none;
+    
+}
+.image_card_mobi{
+    height:20vw;
+    border: 0px solid darkblue;
+    
+}
+.mobi_wedding_card_img{
+    max-width:34vw;
+    height: 20vw;
+    border-radius: 1vw;
+}
+.text_card_mobi{
+    height:20vw;
+    border: 0px solid darkblue;
+}
+.best-wishes-heading-mobi{
+    font-size: 2vw;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-top: 2vw;
+    text-transform: capitalize;
+    text-align: center;
+}
+.wedding_date_mobi{
+    margin-top: 2vw;
+}
+
+.view_wedding_btn_mobi{
+    margin-top: 3vw;
+}
+.theme_common_div{
+    cursor:pointer;
+}
+
+
+
+
+
+
+
+
+.sidenav{
+    background-color: rgb(238, 238, 238);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+    
+
+    body{
+        margin:0;
+        padding: 0;
+    }
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color:  rgb(238, 238, 238); /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+    color: #e60060;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+ 
+
+
+    /* navigation close */
+
+
+    .header_pc{
+        display:none;
+    }
+    .option_div_mobi{
+        display: block;
+     background-color: #fafafa;
+        margin: 0;
+        padding:0;
+        height: auto;
+        
+    }
+    .header_phone{
+        display: block;
+        height:20vw;
+        padding: 0;
+        margin: 0;
+        background-color: #eeeeee;
+    }
+    .top{
+        display: none;
+    }
+    .inside_header_mobi{
+        margin: 0;
+        padding: 0;
+        border:0px solid salmon;
+        height:20vw;
+    }
+    .nav_icon_div{
+       margin: 0;
+       padding: 0;
+       border: 0px solid rgb(42, 0, 139);
+       padding: 1vw;
+       height:20vw;
+       padding-top: 3vw;
+       padding-left: 4vw;
+    }
+    .nav_icon_div img{
+       width:12vw;
+       max-height:10vw;
+    }
+    .logo_div_mobi{
+        margin: 0;
+       padding: 0;
+       height: 20vw;
+       border: 0px solid rgb(42, 0, 139);
+       padding-top: 3vw;
+       padding-left: 10vw;
+    }
+    .logo_div_mobi img{
+        max-width:80%;
+        height:80%;
+    } 
+    /* https://i.pinimg.com/originals/31/5b/89/315b896025e1da6a9fbaf95c836f1b4c.jpg */
+
+    /* ************************************************************** */
+    .background_image_container{
+        height:auto;
+        margin:0;
+        padding: 0;
+        border: 0px solid #000;
+        background:linear-gradient(rgba(51, 51, 51, 0.1),rgba(0, 0, 0, 0.1)),url(https://i.pinimg.com/originals/31/5b/89/315b896025e1da6a9fbaf95c836f1b4c.jpg) ;
+        /* background:linear-gradient(rgba(253, 27, 114, 0.6),rgba(253, 17, 115, 0.7)),url(../site_image/wedding_info_two.jpg) ; */
+    
+        background-size: 130%;
+    
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding-top: 12vw;
+        padding-bottom: 26vw;
+    }
+    .heading_div{
+        height:auto;
+        width:90vw;
+        border:0px solid #000;
+        /* background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)); */
+        color:#fff;
+        padding: 0;
+        margin-bottom: 28vw;
+
+    }
+    .h1-tag{
+        animation:heartBeat; 
+        animation-duration: 3s; 
+        color:#fff;
+        text-transform: uppercase;
+        font-size: 9vw;
+        font-weight: bold;
+        font-family: sans-serif;
+        text-shadow: 1px 2px 2px #000;
+        
+    }
+    
+    .short_description{
+        width:80vw;
+        height:auto;
+        padding-top: 0vw;
+        background:linear-gradient(rgba(51, 51, 51, 0.7),rgba(0, 0, 0, 0.8));
+        border: 0px solid #eeeeee;
+        padding: 3vw;
+        padding-left:3vw;
+        padding-right:3vw;
+    
+    }
+    .span_text{
+        font-size: 8vw;
+        color:rgb(255, 0, 76);
+        text-shadow: 1px 2px 2px #fff;
+    }
+    .p_tag_short_description{
+        animation:flipInY; 
+        animation-duration: 3s; 
+        color:rgb(246, 12, 83);
+        text-transform: uppercase;
+        font-size: 7vw;
+        font-weight: bold;
+        font-family: sans-serif;
+        text-shadow: 1px 1px 1px #fff;
+    }
+    
+    .strip_one{
+       height:14vw;
+       background-color: #c21e50;
+    }
+    
+    .about_us_coulmn_homepage{
+        height:auto;
+        padding: 0;
+        padding-top:4vw;
+        padding-bottom: 7vw;
+        border:0px solid red;
+        
+    }
+    .row_div{
+        margin: 0;
+        height:auto;
+        padding: 0;
+        justify-content: center;
+        border:0px solid red;
+    }
+    .row_part_one{
+    height:55vh;
+    border:0px solid red;
+    padding-left:2vw ;
+    margin-bottom: 4vw;
+    text-align: center;
+    }
+    .row_part_one img{
+        max-width:100%;
+        height:100%;
+    }
+    .row_part_two{
+        border:0px solid red;
+        padding: 0;
+        margin: 0;
+    }
+    .span_tag_one , .span_tag_two{
+        color:#000000;
+        font-size: 10vw;
+        margin-left: 3vw;
+        margin-right: 3vw;
+        font-weight: bold;
+        font-family: sans-serif;
+    }
+    .span_tag_two{
+        color:#c21e50;
+    }
+    .qtn_mrk{
+        margin: 0;
+    }
+    .about_para_div{
+        height:auto;
+        margin-top:3vw;
+        padding-left: 7vw;
+        padding-right: 7vw;
+        border:0px solid red;
+        text-align:center;
+    }
+    .para_about{
+        font-size:1.4rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:#000;
+        font-weight: 400;
+        /* text-transform: uppercase; */
+    }
+    .readmore_btn{
+        width: 45vw;
+        height: 10vw;
+        font-size: 4vw;
+        margin-left: 4.5vw;
+        font-family: sans-serif;
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+
+        text-align: center;
+    }
+
+    /* ********************************************************************* */
+    .get_in_touch_div{
+        height:auto;
+        /* background:linear-gradient(rgba(247, 23, 135, 0.7),rgba(253, 32, 124, 0.75)),url(../site_image/flowers_one.jpg) ; */
+        background:linear-gradient(rgba(255, 92, 160, 0.9),rgba(255, 77, 136, 0.9)),url(../site_image/flowers_one.jpg) ;
+
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding: 4vw;
+        padding-top: 7vw;
+        padding-left: 10vw;
+        padding-bottom:10vw;
+    }
+    h6{
+        font-size: 9vw;
+        color:#fff;
+        font-family: sans-serif;
+        font-weight: bold;
+    }
+    .inputname{
+        width:80vw;
+        height:12vw;
+        border:0;
+        border-radius: 2px;
+        margin-top: 9vw;
+        font-size: 4.5vw;
+        padding-left: 2vw;
+        padding-right: 2vw;
+        
+    }
+    .inputemail{
+        width:80vw;
+        height:12vw;
+        border:0;
+        border-radius: 2px;
+        margin-top: 8vw;
+        font-size: 4.5vw;
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+    .query_message{
+        width:80vw;
+        height:24vw;
+        border:0;
+        border-radius: 2px;
+        margin-top: 8vw;
+        font-size: 4.5vw;
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+    
+    .form_label_one{
+        font-size: 5vw;
+        margin-top: 3vw;
+        display: none;
+    }
+    
+    
+    .form_label_two{
+        font-size: 5vw;
+        margin-top: 5vw;
+        display: none;
+
+    }
+    
+    .form_label_three{
+        font-size: 5vw;
+        margin-top: 5vw;
+        display: none;
+
+    }
+    
+    .submit_btn{
+        width:80vw;
+        height:10vw;
+        margin-top: 8vw;
+        margin-left:0vw;
+        font-size: 4.5vw;
+    }
+    /* *********************************     */
+
+
+    .theme_div{
+        height:auto;
+        padding: 0;
+        margin: 0;
+        padding-bottom: 10vw;
+        border: 0px solid #333333;
+    }
+    .themes_h2_tag{
+        margin-top:8vw;
+        font-size:10vw;
+        width: 90%;
+        text-transform:capitalize;
+        font-family: 'Lora',verdana;
+        -webkit-font-smoothing: antialiased;
+        font-weight: 700;
+    }
+    .theme_main_box{
+        margin: 0;
+        padding: 0;
+        margin-top:1vw;
+        border:0px solid red;
+        height:auto;
+        padding-left: 15vw;
+        padding-right: 15vw;
+        justify-content: center;
+    }
+    .theme_main_box_below{
+        margin: 0;
+        padding: 0;
+        margin-top:0vw;
+        border:0px solid red;
+        height:auto;
+        padding-left: 15vw;
+        padding-right: 15vw;
+        justify-content: center;
+    }
+    
+    .theme_one,.theme_two,.theme_three,.theme_four,.theme_five,.theme_six{
+        margin:0;
+        padding: 0;
+    }
+    .theme_one{
+       margin:0;
+       padding: 0;
+       padding-left: 1vw;
+       padding-top: 1vw;
+       border:1px solid pink;
+       height:40vw;
+       border-radius: 20px;
+       background-color: #f86390;
+       transition: 0.5s ease-in-out;
+       background:linear-gradient(rgba(247, 23, 135, 0.7),rgba(253, 32, 124, 0.7)),url(../site_image/wedding_info_five.jpg);
+       background-size: 100%;
+       background-repeat: no-repeat;
+       /* background-attachment: fixed; */
+       height:40vw;
+       margin-top: 10vw;
+       padding-left:5vw ;
+       padding-top: 3vw;
+    }
+    
+    .theme_two{
+        margin:0;
+        padding: 0;
+        padding-left: 1vw;
+       padding-top: 1vw;
+        border:1px solid #efb4fd;
+        height:12vw;
+        
+        border-radius: 20px;
+        transition: 0.5s ease-in-out;
+        background-color: rgb(216, 158, 255);
+        background:linear-gradient(rgba(188, 99, 248, 0.7),rgba(188, 99, 248, 0.7)),url(../site_image/wedding_info_five.jpg) ;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+        height:40vw;
+       margin-top: 10vw;
+       padding-left:5vw ;
+       padding-top: 3vw;
+     }
+     
+     .theme_three{
+        margin:0;
+        padding: 0;
+        padding-left: 1vw;
+       padding-top: 1vw;
+        border:1px solid rgb(255, 191, 191);
+        height:12vw;
+        
+        transition: 0.5s ease-in-out;
+        border-radius: 20px;
+        background-color: rgb(253, 4, 4);
+        background:linear-gradient(rgba(253, 4, 4,0.7),rgba(253, 4, 4, 0.7)),url(../site_image/wedding_info_five.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+         height:40vw;
+         margin-top: 10vw;
+         padding-left:5vw ;
+       padding-top: 3vw;
+     }
+    
+    
+    .theme_four{
+       margin:0;
+       padding: 0;
+       padding-left: 1vw;
+       padding-top: 1vw;
+       border:1px solid rgb(230, 248, 255);
+       height:12vw;
+       border-radius: 20px;
+       transition: 0.5s ease-in-out;
+       background-color: rgb(191, 221, 255);
+       background:linear-gradient(rgba(99, 169, 248, 0.7),rgba(99, 169, 248, 0.7)),url(../site_image/wedding_info_five.jpg);
+       background-size: 100%;
+       background-repeat: no-repeat;
+       /* background-attachment: fixed; */
+       height:40vw;
+       margin-top: 10vw;
+       padding-left:5vw ;
+       padding-top: 3vw;
+    }
+    
+    .theme_five{
+        margin:0;
+        padding: 0;
+        padding-left: 1vw;
+       padding-top: 1vw;
+        border:1px solid rgb(226, 255, 231);
+        height:12vw;
+        margin-left:0vw;
+        border-radius: 20px;
+        transition: 0.5s ease-in-out;
+        background-color: rgb(61, 253, 157);
+        background:linear-gradient(rgba(61, 253, 157, 0.7),rgba(61, 253, 157, 0.7)),url(../site_image/wedding_info_five.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+        height:40vw;
+       margin-top: 10vw;
+       padding-left:5vw ;
+       padding-top: 3vw;
+     }
+    
+     .theme_six{
+        margin:0;
+        padding: 0;
+        padding-left: 1vw;
+       padding-top: 1vw;
+        border:1px solid pink;
+        height:12vw;
+        margin-left:5vw;
+        transition: 0.5s ease-in-out;
+        border-radius: 20px;
+        background-color: #f86390;
+        background:linear-gradient(rgba(247, 23, 135, 0.7),rgba(253, 32, 124, 0.7)),url(../site_image/wedding_info_five.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+        height:40vw;
+       margin-top: 10vw;
+       padding-left:5vw ;
+       padding-top: 3vw;
+     }
+    
+     .theme_name_1{
+        color:#ffffff;
+        text-transform: capitalize;
+        font-size: 8vw;
+        font-weight: 700;
+        text-shadow: 2px 2px 2px #333333;
+    }
+    
+    .theme_name_1{
+        color:#ffffff;
+        text-transform: capitalize;
+        font-size: 9vw;
+        font-weight: 700;
+        text-shadow: 2px 2px 2px #333333;
+    }
+    .theme_name_2{
+       color:#ffffff;
+       text-transform: capitalize;
+       font-size: 3vw;
+       font-weight: 700;
+       text-shadow: 2px 2px 2px #333333;
+    }
+    .theme_name_3{
+       color:#ffffff;
+       text-transform: capitalize;
+       font-size: 3vw;
+       font-weight: 700;
+       text-shadow: 2px 2px 2px #333333;
+    }
+    .theme_name_4{
+       color:#ffffff;
+       text-transform: capitalize;
+       font-size: 3vw;
+       font-weight: 700;
+       text-shadow: 2px 2px 2px #333333;
+    }
+    
+    .theme_name_5{
+        color:#ffffff;
+        text-transform: capitalize;
+        font-size: 3vw;
+        font-weight: 700;
+        text-shadow: 2px 2px 2px #333333;
+    }
+    .theme_name_6{
+       color:#ffffff;
+       text-transform: capitalize;
+       font-size: 3vw;
+       font-weight: 700;
+       text-shadow: 2px 2px 2px #333333;
+    }
+    
+    
+    
+    .theme_one:hover{
+        box-shadow: 10px 10px 30px rgb(253, 49, 117);
+    }
+    .theme_two:hover{
+        box-shadow: 10px 10px 30px rgb(188, 99, 248);
+    }
+    .theme_three:hover{
+        box-shadow: 10px 10px 30px rgb(253, 4, 4);
+    }
+    .theme_four:hover{
+        box-shadow: 10px 10px 30px rgb(99, 169, 248);
+    }
+    .theme_five:hover{
+        box-shadow: 10px 10px 30px rgb(61, 253, 157);
+    }
+    
+    
+    
+    
+    
+    
+    .view_more_theme{
+        height:12vw;
+        border:0px solid red;
+        margin: 0;
+        padding: 0;
+        margin-top: 15.5vw;
+        width:70vw;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size:4.4vw;
+        padding-top:2.7vw;
+        background-color:#e70448;
+        color:aliceblue;
+        font-weight: 600;
+        border-radius:3vw;
+        font-family: 'Times New Roman', Times, serif;
+        transition: 0.3s ease;
+        margin-bottom:4vw;
+    }
+    .view_more_theme:hover{
+        background-color: #d82c60;
+        text-decoration: none;
+    }
+
+    
+
+    /* **************************************** */
+
+
+
+    .are_you_register_div{
+        margin: 0;
+        padding: 0;
+        padding-top: 8.5vw;
+        height: auto;
+        padding-bottom: 6vw;
+        justify-content: center;
+        background:linear-gradient(rgba(247, 23, 135, 0.8),rgba(253, 32, 124, 0.8)),url(../site_image/flower_two.jpg) ;
+        background-size: 650%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        border: 0px solid #777;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+    .registered_heading{
+        font-size:9.5vw;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color:aliceblue;
+        margin-bottom:7vw;
+        border: 0px solid #777;
+
+    }
+    .if_registered_text{
+        font-size: 5.5vw;
+        color:aliceblue;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+        border: 0px solid #777;
+       
+    }
+    .create_links_btn{
+        margin-top: 7vw;
+        width:70vw;
+        height:11vw;
+        font-size:5vw;
+        border-radius: 1vw;
+        margin-bottom: 6vw;
+    }
+
+    /* *************************************** */
+
+
+    .what_different{
+        height:auto;
+        margin:0;
+        padding: 0;
+        padding-top: 8vw;
+        padding-bottom: 15vw;
+        border: 0px solid #888;
+    }
+    .h5_of_differnt{
+        font-size: 9vw;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:rgb(68, 72, 75);
+        margin-left: 4vw;
+        margin-right: 4vw;
+    }
+    .different_main_div{
+        margin: 0;
+        padding: 0;
+        margin-top: 4vw;
+        height:auto;
+        border:0px solid #c21e50;
+        
+        padding-bottom: 0.5vw;
+        padding-top: 0.5vw;
+       
+    }
+    .img_col_diff{
+        margin: 0;
+        padding: 0;
+        border:0px solid salmon;
+        height:50vh;
+        padding-right: 0vw;
+        padding-bottom: 4vw;
+        padding-top: 2vw;
+        padding-left: 0vw;
+        text-align: center;
+        padding-right: 6vw;
+        padding-left: 6vw;
+    }
+    .img_col_diff img{
+        width:90%;
+        max-height:110%;
+    }
+    .data_col_diff{
+        margin: 0;
+        padding: 0vw;
+        border:0px solid salmon;
+        height:auto;
+    }
+    .data_row_one{
+        margin: 0;
+        padding: 0vw;
+        height:auto;
+        border:0px solid darkcyan
+    }
+    .data_row_two{
+        margin: 0;
+        padding: 0;
+        height:auto;
+        border:0px solid darkcyan;
+        margin-top:0vw;
+    }
+    .data_row_three{
+        margin: 0;
+        padding: 0;
+        height:auto;
+        border:0px solid rgb(42, 0, 139);
+        margin-top: 0vw;
+    }
+    .complex_row_one{
+        padding: 0;
+        margin: 0;
+        height:auto;
+        border:0px solid rgb(42, 0, 139);
+        padding-right: 0vw;
+    }
+    .complex_row_two{
+        padding: 0;
+        margin: 0;
+        height:auto;
+        border:0px solid rgb(42, 0, 139);
+        padding-right: 0vw;
+        padding-right: 7vw;
+        padding-left: 7vw;
+    }
+    .complex_row_three{
+        padding: 0;
+        margin: 0;
+        height:auto;
+        border:0px solid rgb(42, 0, 139);
+        padding-right: 0vw;
+        padding-right: 7vw;
+        padding-left: 7vw;
+    }
+    
+    .complex_row_one_col_one{
+        margin: 0;
+        height: auto;
+        padding: 0;
+        border:0px solid salmon;
+        padding-left: 1vw;
+        margin-top: 7vw;
+        text-align: center;
+        padding-right: 2vw;
+        padding-left: 2vw;
+    
+     }
+    .complex_row_one_col_two{
+       margin: 0;
+       height: auto;
+       padding: 0;
+       border:0px solid salmon;
+       padding-left: 2vw;
+       padding-top: 0.5vw;
+       padding-right: 2vw;
+       margin-top: 7vw;
+       padding-right: 8vw;
+       padding-left: 8vw;
+    }
+    
+    .complex_row_two_col_one{
+        margin: 0;
+        height: 70vw;
+        padding: 0;
+        border:1px solid #e2e2e2;
+        box-shadow: 2px 15px 10px #888;
+        
+        
+        border-radius: 15px;
+        padding-top:0.4vw;
+        padding-left: 0.1vw;
+        background-color: #f5f5f5;
+        margin-top: 10vw;
+
+    }
+    
+    .complex_row_two_col_two{
+        margin: 0;
+        height: 70vw;
+        padding: 0;
+        border:1px solid #e2e2e2;
+        
+        box-shadow: 2px 15px 10px #888;
+        
+        border-radius: 15px;
+        padding: top 0.3vw;
+        padding-left: 0.1vw;
+        padding-top:0.4vw;
+        padding-left: 0.1vw;
+        background-color: #f5f5f5;
+        margin-top: 10vw;
+
+    }
+    
+     .complex_row_three_col_one{
+        margin: 0;
+        height: 70vw;
+        padding: 0;
+        border:1px solid #e2e2e2;
+        box-shadow: 2px 15px 10px #888;
+        
+    
+        border-radius: 15px;
+        padding: top 0.3vw;
+        padding-top:0.4vw;
+        padding-left: 0.1vw;
+        background-color: #f5f5f5;
+        margin-top: 10vw;
+
+     }
+     .complex_row_three_col_two{
+         margin: 0;
+         height: 70vw;
+         padding: 0;
+         border:1px solid #e2e2e2;
+        
+        box-shadow: 2px 15px 10px #888;
+         border-radius: 15px;
+        padding: top 0.3vw;
+        padding-top:0.4vw;
+        padding-left: 0.1vw;
+        background-color: #f5f5f5;
+        margin-top: 10vw;
+      }
+     
+    .complex_heading_h2{
+        font-size: 7.4vw;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: 800;
+    }
+    .complex_p_tag_one{
+        font-size: 5.8vw;
+        color:#555555;
+        text-align: justify;
+    }
+    .pro_complex_row_1{
+        margin:0;
+        padding: 0;
+        height:auto;
+        border:0px solid rebeccapurple;
+        padding-top: 2vw;
+        padding-left: 1vw;
+    }
+    .pro_complex_row_2{
+        margin:0;
+        padding: 0;
+        height:auto;
+        border:0px solid rebeccapurple;
+        padding-top: 2vw;
+        padding-left: 1vw;
+    }
+    .pro_complex_row_3{
+        margin:0;
+        padding: 0;
+        height:auto;
+        border:0px solid rebeccapurple;
+        padding-top: 2vw;
+        padding-left: 1vw;
+    }
+    .pro_complex_row_4{
+        margin:0;
+        padding: 0;
+        height:auto;
+        border:0px solid rebeccapurple;
+        padding-top: 2vw;
+        padding-left: 1vw;
+    }
+    .pro_ultra_img_one{
+        margin:0;
+        padding: 0;
+        height:7vh;
+        border:0px solid rebeccapurple;
+        justify-content:center;
+        padding-left: 2vw;
+    }
+    .pro_ultra_img_one img{
+        max-width:100%;
+        height:100%;
+    }
+    .pro_ultra_heading_one{
+        margin:0;
+        padding: 0;
+        height:8vh;
+        border:0px solid rebeccapurple;
+        padding-top:2vw;
+    }
+    
+    
+    
+    .pro_ultra_img_two{
+        margin:0;
+        padding: 0;
+        height:7vh;
+        border:0px solid rebeccapurple;
+        justify-content:center;
+        padding-left: 2vw;
+        
+    }
+    .pro_ultra_img_two img{
+        max-width:100%;
+        height:100%;
+    }
+    .pro_ultra_heading_two{
+        margin:0;
+        padding: 0;
+        height:8vh;
+        border:0px solid rebeccapurple;
+    }
+    
+    
+    
+    .pro_ultra_img_three{
+        margin:0;
+        padding: 0;
+        height:7vh;
+        border:0px solid rebeccapurple;
+        justify-content:center;
+        padding-left: 2vw;
+        
+    }
+    .pro_ultra_img_three img{
+        max-width:100%;
+        height:100%;
+    }
+    .pro_ultra_heading_three{
+        margin:0;
+        padding: 0;
+        height:8vh;
+        border:0px solid rebeccapurple;
+    }
+    
+    
+    
+    .pro_ultra_img_four{
+        margin:0;
+        padding: 0;
+        height:7vh;
+        border:0px solid rebeccapurple;
+        justify-content:center;
+        padding-left: 2vw;
+    }
+    .pro_ultra_img_four img{
+        max-width:100%;
+        height:100%;
+    }
+    .pro_ultra_heading_four{
+        margin:0;
+        padding: 0;
+        height:8vh;
+        border:0px solid rebeccapurple;
+    }
+    
+    .complex_h6_1{
+        font-size: 7vw;
+        font-family:sans-serif;
+        font-weight: bold;
+        margin-left: 1vw;
+    }
+    .complex_description_1{
+        font-size: 5vw;
+        font-family: sans-serif;
+        margin-left: 5vw;
+        margin-top: 4vw;
+        margin-right:5vw;
+        color: #555555;
+        text-align:justify;
+    }
+
+    .complex_description_2{
+        font-size: 5vw;
+        font-family: sans-serif;
+        margin-left: 5vw;
+        margin-top: 4vw;
+        margin-right:5vw;
+        color: #555555;
+        text-align:justify;
+    }
+    .complex_description_3{
+        font-size: 5vw;
+        font-family: sans-serif;
+        margin-left: 5vw;
+        margin-top: 4vw;
+        margin-right:5vw;
+        color: #555555;
+        text-align:justify;
+    }
+    .complex_description_4{
+        font-size: 5vw;
+        font-family: sans-serif;
+        margin-left: 5vw;
+        margin-top: 4vw;
+        margin-right:5vw;
+        color: #555555;
+        text-align:justify;
+    }
+
+    
+    /* **************************************** */
+
+
+    /* footer */
+
+
+.footer_1{
+    margin:0;
+    padding: 0;
+    height:auto;
+    background-color: rgb(163, 0, 0);
+    border-top:0px solid #888;
+    background:linear-gradient(rgba(247, 23, 135, 0.9),rgba(253, 32, 124, 0.9)),url(https://iwall365.com/iPhoneWallpaper/640x1136/1402/Pink-roses-background_640x1136_iPhone_5_wallpaper.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.li-text{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    margin-top: 0;
+    list-style-type:none;
+    text-align: left;
+	display: inline-block;
+    margin-left: -1vw;
+	width: auto;
+    border: 0px solid #02548a;
+    color:aliceblue;
+    font-weight: 500;
+}
+.atag{
+    width:auto;
+    height: auto;
+    padding: 0;
+    display: inline-block;
+    border: 0px solid #646464;
+}
+
+
+
+.li-text:hover{
+    text-decoration: underline #379eff;
+    cursor: pointer;
+}
+.main_in_footer{
+    margin:0;
+    padding:0;
+    height:auto;
+    border:0px solid #eeeeee;
+
+}
+.footer_1_col_1{
+    margin:0;
+    padding:0;
+    border:0px solid #ff2c2c;
+}
+.footer_1_col_2{
+    margin:0;
+    padding:0;
+    border:0px solid #4e2f2f;
+    padding: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+}
+.footer_1_col_3{
+    margin:0;
+    padding:0;
+    border:0px solid #0e0b0b;
+    padding-right: 3vw;
+    padding-left: 2vw;
+    padding-bottom: 10vw;
+}
+.foot_div_1_top{
+    margin:0;
+    padding: 0;
+    border-bottom: 1px solid #888888;
+    height:auto;
+    padding: 1vw;
+    padding-top: 2vw;
+}
+.logo_div{
+    width:30vw;
+    height:10vh;
+    border: 0px solid #555555;
+}
+.img_div{
+    width:60vw;
+    height:10vh;
+    border: 0px solid #555555;
+}
+.img_div img {
+    max-width: 100%;
+    height:70%;
+}
+.logo_div img {
+    max-width: 100%;
+    height:100%;
+}
+.foot_div_1_mid{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:auto;
+    padding-bottom: 10vw;
+}
+.foot_div_1_low{
+    margin:0;
+    padding: 0;
+    border: 0px solid #888888;
+    height:auto;
+    padding-bottom: 6vw;
+}
+.follow_us_h6{
+    font-size: 9vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2vw;
+    margin-left: 2vw;
+}
+.contact_us_h6{
+    font-size: 9vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 0.4vw;
+    margin-left: 1vw;
+}
+.icon_one{
+    margin: 0;
+    padding: 0;
+    width: 9vw;
+    height: 9vw;
+    border: 0px solid #888888;
+    margin-left: 2.3vw;
+}
+.icon_two{
+    margin: 0;
+    padding: 0;
+    width: 9vw;
+    height: 9vw;
+    border: 0px solid #888888;
+    margin-left: 2.3vw;
+
+}
+.icon_three{
+    margin: 0;
+    padding: 0;
+    width: 9vw;
+    height: 9vw;
+    border: 0px solid #888888;
+    margin-left: 2.3vw;
+
+}
+.icon_four{
+    margin: 0;
+    padding: 0;
+    width: 9vw;
+    height: 9vw;
+    border: 0px solid #888888;
+    margin-left: 2.3vw;
+
+}
+.icon_two img , .icon_one img ,.icon_three img , .icon_four img{
+    max-width:100% ;
+    height: 100%;
+}
+.contact_info_ptag{
+    font-size: 4.2vw;
+    margin-left: 2vw;
+    color: aliceblue;
+    font-family: consolas;
+}
+.About_us_h6_footer{
+    font-size: 9vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 4vw;
+    margin-left: 4vw;
+}
+.p_tag_foot_about_para{
+    font-size: 5vw;
+    text-align: justify;
+    color:#eeeeee;
+    font-weight: 300;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.instant_h6_footer{
+    font-size: 9vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+.other_h6_footer{
+    font-size: 9vw;
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+li{
+    font-size: 6vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color:#eeeeee;
+}
+.footer_2{
+    margin:0;
+    padding: 0;
+    height:auto;
+    background-color: rgb(206, 0, 96);
+    padding-top: 2vw;
+    padding-bottom: 3vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+.copyright_text{
+    font-size: 3.5vw;
+    color:#f5f5f5;
+    justify-content: center;
+}
+.option_div_mobi{
+    display: none;
+}
+.cpyryt_symbol{
+    font-size: 3.5vw;
+}
+.upcoming_weddings_div{
+    margin-top: 2rem;
+}
+.upcoming_heading{
+    font-size: 1.7rem;
+}
+.digital_span{
+    font-size: 1rem;
+    width: 90%;
+    margin-bottom: 1rem;
+}
+.wedding_card_mobi{
+    width:90vw;
+    height:auto;
+    border: 0px solid red;
+    margin-top: 2vw;
+
+    padding: 2vw;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    box-shadow: 2px 2px 20px #777777;
+    display: block;
+    
+}
+.image_card_mobi{
+    width: 90%;
+    height:13rem;
+    padding: 0;
+    border: 0px solid red;
+    background-size: cover;
+    text-align: center;
+}
+.text_card_mobi{
+    border: 0px solid red;
+     height: auto;
+     width: 88%;
+     padding-top: 1rem;
+}
+.best-wishes-heading-mobi{
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wedding_date_mobi{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.view_wedding_btn_mobi{
+    font-size: 1rem;
+}
+
+
+
+.mediator_div{
+    margin-top: 1rem;
+}
+.mediator_heading{
+    font-size: 1.8rem;
+    width: 90%;
+}
+.main_mediator_div{
+    border: 0px solid red;
+    height: auto;
+    padding-bottom: 2rem;
+}
+.dp_and_name_div{
+    border: 0px solid red;
+    height: auto;
+}
+.for_dp_mediator{
+    border: 0px solid red;
+   height:4.5rem;
+   border-radius: 3rem;
+}
+.for_dp_mediator img{
+   border-radius: 3rem;
+}
+.for_name_mediator{
+    height: auto;
+    border: 0px solid red;
+
+}
+.mediator_name_span{
+    font-size: 1.3rem;
+}
+.mediator_extra_data_div{
+    border: 0px solid red;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    height: 11rem;
+    overflow-y: auto;
+}
+.bold_attriute_of_mediator_span{
+    font-size: 1rem;
+    /* margin-left: 1rem; */
+}
+.answer_of_mediator_span{
+    font-size: 1rem;
+}
+.call_btn_div{
+    border: 0px solid red;
+   height: auto;
+}
+.call_btn{
+    font-size: 1rem;
+}
+.more_mediator_btn{
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+.wedding_card_lap{
+    display: none;
+}
+
+/* ************************* */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px){
+    
+
+    .mediator_div{
+        margin-top: 1rem;
+    }
+    .mediator_heading{
+        font-size: 1.8rem;
+        width: 90%;
+    }
+    .main_mediator_div{
+        border: 0px solid red;
+        height: auto;
+        padding-bottom: 2rem;
+        padding-top: 1.5rem;
+        padding-left: 1rem;
+    }
+    .dp_and_name_div{
+        border: 0px solid red;
+        height: auto;
+    }
+    .for_dp_mediator{
+        border: 0px solid red;
+        height:4.8rem;
+        border-radius: 3rem;
+    }
+    .for_dp_mediator img{
+      border-radius: 3rem;
+    }
+    .for_name_mediator{
+        height: auto;
+        border: 0px solid red;
+        padding-top: 1rem;
+        padding-left: 1rem;
+    }
+    .mediator_name_span{
+        font-size: 1.3rem;
+    }
+    .mediator_extra_data_div{
+        border: 0px solid red;
+        padding-top: 1rem;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+        height:auto;
+        overflow: unset;
+    }
+    .bold_attriute_of_mediator_span{
+        font-size: 1.1rem;
+        font-weight: 500;
+        /* margin-left: 1rem; */
+    }
+    .answer_of_mediator_span{
+        font-size: 1.1rem;
+    }
+    .call_btn_div{
+        border: 0px solid red;
+    height: auto;
+    }
+    .call_btn{
+        font-size: 1rem;
+    }
+    .more_mediator_btn{
+        font-size: 1.3rem;
+        width: 70%;
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:600px){
+    /* .inside_header_mobi{
+        margin: 0;
+        padding: 0;
+        border:0px solid salmon;
+        height:20vw;
+    }
+    .nav_icon_div{
+       margin: 0;
+       padding: 0;
+       border: 0px solid rgb(42, 0, 139);
+       padding: 1vw;
+       height:20vw;
+       padding-top: 3vw;
+       padding-left: 4vw;
+    } */
+    .nav_icon_div img{
+        width:10vw;
+        margin-top: 2vw;
+        max-height:8vw;
+     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .header_pc{
+	background-color: #fff;
+}
+.options{
+	background-color: #fff;
+}
+.option2{
+	background-color: #fff;
+}
+.pinkbg{
+	background-color: #fff;
+}
